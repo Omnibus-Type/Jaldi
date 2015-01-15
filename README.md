@@ -5,7 +5,7 @@ Jaldi [Asap-Devanagari]
 
 Jaldi, the Devanagari typeface based in Asap.
 
-![Sample of Jaldi](assets/article_images/2015-01-14-jaldi/jaldi_poster.JPG "Jaldi")
+![Sample of Jaldi](SRC/jaldi_poster.JPG "Jaldi")
 
 # Jaldi family
 
