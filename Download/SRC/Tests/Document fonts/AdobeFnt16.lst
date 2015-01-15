@@ -65,8 +65,8 @@ OutlineFileName:\Jaldi-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
-FileLength:262340
-FileModTime:1421247942
+FileLength:456576
+FileModTime:1421255267
 NameArray:0,Mac,4,Jaldi Bold
 NameArray:0,Win,1,Jaldi
 %EndFont
@@ -88,8 +88,8 @@ OutlineFileName:\Jaldi-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
-FileLength:254012
-FileModTime:1421247942
+FileLength:455272
+FileModTime:1421255267
 NameArray:0,Mac,4,Jaldi
 NameArray:0,Win,1,Jaldi
 %EndFont
