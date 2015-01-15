@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endashdeva" format="1">
+  <advance width="233"/>
+  <outline>
+    <contour>
+      <point x="9.5" y="144.5" type="line" smooth="yes"/>
+      <point x="3" y="144.5"/>
+      <point x="0" y="149"/>
+      <point x="0" y="158.5" type="curve" smooth="yes"/>
+      <point x="0" y="163.5" type="line" smooth="yes"/>
+      <point x="0" y="173"/>
+      <point x="3" y="177.5"/>
+      <point x="9.5" y="177.5" type="curve" smooth="yes"/>
+      <point x="223.5" y="177.5" type="line" smooth="yes"/>
+      <point x="230" y="177.5"/>
+      <point x="233" y="173"/>
+      <point x="233" y="163.5" type="curve" smooth="yes"/>
+      <point x="233" y="158.5" type="line" smooth="yes"/>
+      <point x="233" y="149"/>
+      <point x="230" y="144.5"/>
+      <point x="223.5" y="144.5" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>144</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>233</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
