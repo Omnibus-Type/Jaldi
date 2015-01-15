@@ -6,19 +6,14 @@ categories: Non Latin font
 tags: featured
 image: /assets/article_images/2015-01-14-jaldi/jaldi_poster.JPG
 ---
-#Mediator Formats and CSS features
-
-Examples for different formats and css features
 
 #Jaldi family
-#Header1
-##the Devanagari typeface based in Asap
+The Devanagari typeface based in Asap
 
 #Blockquotes
 >Jaldi is the hindi for soon. Formerly Asap Devanagari, Jaldi is a contemporary sans-serif non-modular devanagari family with subtle rounded corners. Designed by Nicolas Silva and Pablo Cosgaya, Jaldi is being developed in order to match with the former design of Asap Family ("as soon as possible") there are 2 styles: Regular and Bold. This family, is being specially developed for screen as webfont and desktop font too; Jaldi offers a standardised character width on all styles, which means that its lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. The latin version of Asap is based on Ancha (designed by Pablo Cosgaya & Hector Gatti), how was developed with the collaboration of Andres Torresi and Nicolas Silva.
 
 #Jaldi Family contains:
-##orderd lists
 * regular
 * bold
 
