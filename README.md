@@ -55,6 +55,10 @@ This information should be distributed along with the Jaldi fonts and any deriva
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**27 January 2015 (Jaldi v.1.1) Omnibus-Type**
+- Removed Reserve Font Name from the license
+- fsType Installable mode
+
 **14 Jan 2015 (Jaldi v.1.1) Omnibus-Type**
 - Several changes in the proportion of the letters (Thanks Vaishnavi).
 - Enhance halfform conections with other consonants.
