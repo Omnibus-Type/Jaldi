@@ -19,7 +19,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:51212
-FileModTime:1412798984
+FileModTime:1421311435
 NameArray:0,Mac,4,Chivo Black
 NameArray:0,Win,1,Chivo Light
 NameArray:0,Win,16,Chivo
@@ -43,7 +43,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:54708
-FileModTime:1412798984
+FileModTime:1421311435
 NameArray:0,Mac,4,Chivo
 NameArray:0,Win,1,Chivo
 %EndFont
@@ -66,7 +66,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:456576
-FileModTime:1421255267
+FileModTime:1421311435
 NameArray:0,Mac,4,Jaldi Bold
 NameArray:0,Win,1,Jaldi
 %EndFont
@@ -89,7 +89,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:455272
-FileModTime:1421255267
+FileModTime:1421311435
 NameArray:0,Mac,4,Jaldi
 NameArray:0,Win,1,Jaldi
 %EndFont
