@@ -3,7 +3,7 @@ FontName: Jaldi-Regular
 FullName: Jaldi Regular
 FamilyName: Jaldi
 Weight: Regular
-Copyright: Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'
+Copyright: Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) 
 Version: 001.001
 ItalicAngle: 0
 UnderlinePosition: -50
@@ -16,12 +16,12 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 505 -982332716 109637]
-FSType: 8
+FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1421254212
-ModificationTime: 1421284839
+ModificationTime: 1422398083
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
