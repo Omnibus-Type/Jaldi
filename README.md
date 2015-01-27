@@ -5,7 +5,7 @@ Jaldi [Asap-Devanagari]
 
 Jaldi, the Devanagari typeface based in Asap.
 
-![Sample of Jaldi](assets/article_images/2015-01-14-jaldi/jaldi_poster.JPG "Jaldi")
+![Sample of Jaldi](SRC/jaldi_poster.JPG "Jaldi")
 
 # Jaldi family
 
@@ -54,6 +54,10 @@ This information should be distributed along with the Jaldi fonts and any deriva
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**27 January 2015 (Jaldi v.1.1) Omnibus-Type**
+- Removed Reserve Font Name from the license
+- fsType Installable mode
 
 **14 Jan 2015 (Jaldi v.1.1) Omnibus-Type**
 - Several changes in the proportion of the letters (Thanks Vaishnavi).
