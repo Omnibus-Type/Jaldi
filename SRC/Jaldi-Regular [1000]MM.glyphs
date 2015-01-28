@@ -114,21 +114,6 @@ value = 1;
 {
 name = description;
 value = "Jaldi is the devanagari version of Asap\012wich is based on Ancha (designed by Pablo Cosgaya & Hector Gatti). This family\012specially developed for screen and desktop use\012offers of a standarised character width on all styles\012which helps retain the same length on all text lines. ";
-},
-{
-name = panose;
-value = (
-    2,
-    15,
-    5,
-    4,
-    3,
-    2,
-    2,
-    6,
-    2,
-    3
-);
 }
 );
 date = "2015-01-06 16:14:07 +0000";
@@ -331,7 +316,7 @@ xHeight = 244;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-01-14 23:02:34 +0000";
+lastChange = "2015-01-28 22:55:41 +0000";
 layers = (
 {
 anchors = (
@@ -131069,7 +131054,7 @@ g = 9.32;
 };
 manufacturer = "Omnibus-Type";
 manufacturerURL = "www.omnibus-type.com";
-unitsPerEm = 466;
+unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 1;
 }
