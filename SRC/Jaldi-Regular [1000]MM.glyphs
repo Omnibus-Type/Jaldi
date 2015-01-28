@@ -130410,6 +130410,7 @@ value = "--default-script=deva --fallback-script=deva --windows-compatibility --
 interpolationWeight = 60;
 isBold = 1;
 name = Bold;
+weightClass = Bold;
 }
 );
 kerning = {

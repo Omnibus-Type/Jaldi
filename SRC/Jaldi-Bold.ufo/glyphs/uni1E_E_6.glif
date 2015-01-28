@@ -4,12 +4,6 @@
   <unicode hex="1EE6"/>
   <outline>
     <contour>
-      <point x="166" y="409" type="move" name="Anchor-1"/>
-    </contour>
-    <contour>
-      <point x="166" y="0" type="move" name="Anchor-0"/>
-    </contour>
-    <contour>
       <point x="177" y="348" type="curve" smooth="yes"/>
       <point x="166" y="348"/>
       <point x="152" y="355"/>
@@ -17,55 +11,61 @@
       <point x="152" y="367"/>
       <point x="183" y="380"/>
       <point x="183" y="394" type="curve" smooth="yes"/>
-      <point x="183" y="400.5"/>
+      <point x="183" y="401"/>
       <point x="176" y="404"/>
-      <point x="168.5" y="404" type="curve" smooth="yes"/>
+      <point x="169" y="404" type="curve" smooth="yes"/>
       <point x="158" y="404"/>
-      <point x="153" y="398.5"/>
-      <point x="149" y="398.5" type="curve" smooth="yes"/>
-      <point x="145" y="398.5"/>
+      <point x="153" y="399"/>
+      <point x="149" y="399" type="curve" smooth="yes"/>
+      <point x="145" y="399"/>
       <point x="135" y="411"/>
       <point x="135" y="418" type="curve" smooth="yes"/>
       <point x="135" y="424"/>
-      <point x="155.5" y="432.5"/>
-      <point x="172" y="432.5" type="curve" smooth="yes"/>
-      <point x="205.5" y="432.5"/>
-      <point x="224" y="418.5"/>
-      <point x="224" y="395.5" type="curve" smooth="yes"/>
+      <point x="156" y="433"/>
+      <point x="172" y="433" type="curve" smooth="yes"/>
+      <point x="206" y="433"/>
+      <point x="224" y="419"/>
+      <point x="224" y="396" type="curve" smooth="yes"/>
       <point x="224" y="371"/>
-      <point x="185.5" y="348"/>
+      <point x="186" y="348"/>
     </contour>
     <contour>
-      <point x="166" y="-3.5" type="curve" smooth="yes"/>
-      <point x="80.5" y="-3.5"/>
-      <point x="31" y="37.5"/>
+      <point x="166" y="-4" type="curve" smooth="yes"/>
+      <point x="81" y="-4"/>
+      <point x="31" y="38"/>
       <point x="31" y="109" type="curve" smooth="yes"/>
       <point x="31" y="312" type="line" smooth="yes"/>
       <point x="31" y="322"/>
       <point x="39" y="327"/>
-      <point x="58.5" y="327" type="curve" smooth="yes"/>
-      <point x="74.5" y="327" type="line" smooth="yes"/>
+      <point x="59" y="327" type="curve" smooth="yes"/>
+      <point x="75" y="327" type="line" smooth="yes"/>
       <point x="94" y="327"/>
-      <point x="102.5" y="322"/>
-      <point x="102.5" y="312" type="curve" smooth="yes"/>
-      <point x="102.5" y="113.5" type="line" smooth="yes"/>
-      <point x="102.5" y="81"/>
-      <point x="128" y="57.5"/>
-      <point x="166" y="57.5" type="curve" smooth="yes"/>
-      <point x="203.5" y="57.5"/>
-      <point x="229.5" y="81"/>
-      <point x="229.5" y="113.5" type="curve" smooth="yes"/>
-      <point x="229.5" y="312" type="line" smooth="yes"/>
-      <point x="229.5" y="322"/>
+      <point x="103" y="322"/>
+      <point x="103" y="312" type="curve" smooth="yes"/>
+      <point x="103" y="114" type="line" smooth="yes"/>
+      <point x="103" y="81"/>
+      <point x="128" y="58"/>
+      <point x="166" y="58" type="curve" smooth="yes"/>
+      <point x="204" y="58"/>
+      <point x="230" y="81"/>
+      <point x="230" y="114" type="curve" smooth="yes"/>
+      <point x="230" y="312" type="line" smooth="yes"/>
+      <point x="230" y="322"/>
       <point x="238" y="327"/>
-      <point x="257.5" y="327" type="curve" smooth="yes"/>
+      <point x="258" y="327" type="curve" smooth="yes"/>
       <point x="273" y="327" type="line" smooth="yes"/>
-      <point x="292.5" y="327"/>
+      <point x="293" y="327"/>
       <point x="301" y="322"/>
       <point x="301" y="312" type="curve" smooth="yes"/>
       <point x="301" y="109" type="line" smooth="yes"/>
-      <point x="301" y="37.5"/>
-      <point x="251" y="-3.5"/>
+      <point x="301" y="38"/>
+      <point x="251" y="-4"/>
+    </contour>
+    <contour>
+      <point x="166" y="409" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="166" y="0" type="move" name="Anchor-0"/>
     </contour>
   </outline>
   <lib>

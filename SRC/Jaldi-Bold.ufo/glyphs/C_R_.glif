@@ -2,4 +2,6 @@
 <glyph name="CR" format="1">
   <advance width="112"/>
   <unicode hex="000D"/>
+  <outline>
+  </outline>
 </glyph>
