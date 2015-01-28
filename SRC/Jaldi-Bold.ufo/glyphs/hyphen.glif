@@ -8,14 +8,14 @@
       <point x="17" y="99"/>
       <point x="13" y="106"/>
       <point x="13" y="122" type="curve" smooth="yes"/>
-      <point x="13" y="125.5" type="line" smooth="yes"/>
-      <point x="13" y="141.5"/>
-      <point x="17" y="148.5"/>
-      <point x="27" y="148.5" type="curve" smooth="yes"/>
-      <point x="122" y="148.5" type="line" smooth="yes"/>
-      <point x="132" y="148.5"/>
-      <point x="136" y="141.5"/>
-      <point x="136" y="125.5" type="curve" smooth="yes"/>
+      <point x="13" y="126" type="line" smooth="yes"/>
+      <point x="13" y="142"/>
+      <point x="17" y="149"/>
+      <point x="27" y="149" type="curve" smooth="yes"/>
+      <point x="122" y="149" type="line" smooth="yes"/>
+      <point x="132" y="149"/>
+      <point x="136" y="142"/>
+      <point x="136" y="126" type="curve" smooth="yes"/>
       <point x="136" y="122" type="line" smooth="yes"/>
       <point x="136" y="106"/>
       <point x="132" y="99"/>
