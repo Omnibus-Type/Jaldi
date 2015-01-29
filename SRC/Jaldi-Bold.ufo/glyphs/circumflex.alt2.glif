@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.alt2" format="1">
+  <advance width="338"/>
+  <outline>
+    <contour>
+      <point x="64" y="604" type="line" smooth="yes"/>
+      <point x="95" y="604"/>
+      <point x="109" y="616"/>
+      <point x="135" y="630" type="curve" smooth="yes"/>
+      <point x="165" y="659" type="line"/>
+      <point x="193" y="629" type="line" smooth="yes"/>
+      <point x="216" y="616"/>
+      <point x="235" y="604"/>
+      <point x="266" y="604" type="curve" smooth="yes"/>
+      <point x="289" y="604" type="line" smooth="yes"/>
+      <point x="303" y="604"/>
+      <point x="310" y="607"/>
+      <point x="310" y="615" type="curve" smooth="yes"/>
+      <point x="310" y="619"/>
+      <point x="308" y="625"/>
+      <point x="304" y="630" type="curve" smooth="yes"/>
+      <point x="235" y="713" type="line" smooth="yes"/>
+      <point x="220" y="730"/>
+      <point x="201" y="733"/>
+      <point x="171" y="733" type="curve" smooth="yes"/>
+      <point x="159" y="733" type="line" smooth="yes"/>
+      <point x="129" y="733"/>
+      <point x="110" y="730"/>
+      <point x="95" y="713" type="curve" smooth="yes"/>
+      <point x="25" y="630" type="line" smooth="yes"/>
+      <point x="22" y="625"/>
+      <point x="20" y="619"/>
+      <point x="20" y="615" type="curve" smooth="yes"/>
+      <point x="20" y="607"/>
+      <point x="25" y="604"/>
+      <point x="41" y="604" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="162" y="787" type="move" name="tilde"/>
+    </contour>
+    <contour>
+      <point x="166" y="552" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

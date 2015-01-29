@@ -1,47 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle.loclGUA" format="1">
-  <advance width="84"/>
+  <advance width="191"/>
   <outline>
     <contour>
-      <point x="36" y="178" type="curve" smooth="yes"/>
-      <point x="27" y="178"/>
-      <point x="15" y="181"/>
-      <point x="15" y="188" type="curve" smooth="yes"/>
-      <point x="13" y="306" type="line" smooth="yes"/>
-      <point x="13" y="319"/>
-      <point x="21" y="326"/>
-      <point x="41" y="326" type="curve" smooth="yes"/>
-      <point x="50" y="326" type="line" smooth="yes"/>
-      <point x="66" y="326"/>
-      <point x="73" y="318"/>
-      <point x="73" y="306" type="curve" smooth="yes"/>
-      <point x="73" y="230"/>
-      <point x="48" y="179"/>
+      <point x="107" y="405"/>
+      <point x="165" y="520"/>
+      <point x="165" y="692" type="curve" smooth="yes"/>
+      <point x="165" y="720"/>
+      <point x="148" y="740"/>
+      <point x="112" y="740" type="curve" smooth="yes"/>
+      <point x="92" y="740" type="line" smooth="yes"/>
+      <point x="47" y="740"/>
+      <point x="28" y="722"/>
+      <point x="28" y="692" type="curve"/>
+      <point x="33" y="426" type="line"/>
+      <point x="33" y="410"/>
+      <point x="61" y="403"/>
+      <point x="81" y="403" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>306</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>12</integer>
-            <key>width</key>
-            <integer>60</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

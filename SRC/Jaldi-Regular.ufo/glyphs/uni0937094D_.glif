@@ -1,101 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0937094D" format="1">
-  <advance width="177"/>
+  <advance width="402"/>
   <outline>
     <contour>
-      <point x="0" y="0" type="move" name="Anchor-6"/>
+      <point x="510" y="371" type="line"/>
+      <point x="156" y="722" type="line"/>
+      <point x="108" y="679" type="line"/>
+      <point x="463" y="328" type="line"/>
+    </contour>
+    <component base="uni092A094D"/>
+    <contour>
+      <point x="172" y="109" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="127" y="0" type="move" name="Anchor-5"/>
-    </contour>
-    <contour>
-      <point x="76" y="48" type="move" name="Anchor-4"/>
-    </contour>
-    <contour>
-      <point x="231" y="175.5" type="curve" smooth="yes"/>
-      <point x="233.5" y="149" type="line"/>
-      <point x="233.5" y="146" type="line" smooth="yes"/>
-      <point x="233.5" y="142.5"/>
-      <point x="232.5" y="139"/>
-      <point x="229.5" y="136" type="curve" smooth="yes"/>
-      <point x="204" y="105.5"/>
-      <point x="170" y="91.5"/>
-      <point x="133.5" y="91.5" type="curve" smooth="yes"/>
-      <point x="76" y="91.5"/>
-      <point x="37.5" y="127.5"/>
-      <point x="37" y="181.5" type="curve" smooth="yes"/>
-      <point x="37" y="307" type="line"/>
-      <point x="-4.5" y="307" type="line" smooth="yes"/>
-      <point x="-11.5" y="307"/>
-      <point x="-15.5" y="311"/>
-      <point x="-15.5" y="317.5" type="curve" smooth="yes"/>
-      <point x="-15.5" y="328" type="line" smooth="yes"/>
-      <point x="-15.5" y="335"/>
-      <point x="-11.5" y="338.5"/>
-      <point x="-4.5" y="338.5" type="curve" smooth="yes"/>
-      <point x="181.5" y="338.5" type="line" smooth="yes"/>
-      <point x="188.5" y="338.5"/>
-      <point x="192.5" y="335"/>
-      <point x="192.5" y="328" type="curve" smooth="yes"/>
-      <point x="192.5" y="317.5" type="line" smooth="yes"/>
-      <point x="192.5" y="311"/>
-      <point x="188.5" y="307"/>
-      <point x="181.5" y="307" type="curve" smooth="yes"/>
-      <point x="80.5" y="307" type="line"/>
-      <point x="216" y="172.5" type="line"/>
-      <point x="219" y="177" type="line" smooth="yes"/>
-      <point x="221.5" y="181.5"/>
-      <point x="224" y="183.5"/>
-      <point x="226" y="183.5" type="curve" smooth="yes"/>
-      <point x="228.5" y="183.5"/>
-      <point x="230.5" y="181"/>
-    </contour>
-    <contour>
-      <point x="72.5" y="182.5" type="line" smooth="yes"/>
-      <point x="73.5" y="143"/>
-      <point x="96" y="122.5"/>
-      <point x="133.5" y="122.5" type="curve" smooth="yes"/>
-      <point x="154" y="122.5"/>
-      <point x="178" y="131"/>
-      <point x="198" y="150.5" type="curve"/>
-      <point x="72.5" y="275" type="line"/>
+      <point x="287" y="0" type="move" name="rakar"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>92</integer>
-            <key>width</key>
-            <integer>31</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>307</integer>
-            <key>width</key>
-            <integer>32</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>37</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>216</integer>
-            <key>width</key>
-            <integer>18</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

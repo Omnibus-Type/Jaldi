@@ -302,6 +302,8 @@
 	<string>acircumflex.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
+	<key>acute.alt</key>
+	<string>acute.alt.glif</string>
 	<key>acute.loclPLK</key>
 	<string>acute.loclP_L_K_.glif</string>
 	<key>acutecomb</key>
@@ -358,22 +360,24 @@
 	<string>baraccentmedium.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
-	<key>braceleftdeva</key>
-	<string>braceleftdeva.glif</string>
+	<key>braceleft-deva</key>
+	<string>braceleft-deva.glif</string>
 	<key>braceright</key>
 	<string>braceright.glif</string>
-	<key>bracerightdeva</key>
-	<string>bracerightdeva.glif</string>
+	<key>braceright-deva</key>
+	<string>braceright-deva.glif</string>
 	<key>bracketleft</key>
 	<string>bracketleft.glif</string>
-	<key>bracketleftdeva</key>
-	<string>bracketleftdeva.glif</string>
+	<key>bracketleft-deva</key>
+	<string>bracketleft-deva.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
-	<key>bracketrightdeva</key>
-	<string>bracketrightdeva.glif</string>
+	<key>bracketright-deva</key>
+	<string>bracketright-deva.glif</string>
 	<key>breve</key>
 	<string>breve.glif</string>
+	<key>breve.alt</key>
+	<string>breve.alt.glif</string>
 	<key>brokenbar</key>
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
@@ -402,14 +406,20 @@
 	<string>cent.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
+	<key>circumflex.alt</key>
+	<string>circumflex.alt.glif</string>
+	<key>circumflex.alt2</key>
+	<string>circumflex.alt2.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
-	<key>colondeva</key>
-	<string>colondeva.glif</string>
+	<key>colon-deva</key>
+	<string>colon-deva.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
-	<key>commadeva</key>
-	<string>commadeva.glif</string>
+	<key>comma-deva</key>
+	<string>comma-deva.glif</string>
+	<key>commaaccentinvert</key>
+	<string>commaaccentinvert.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
 	<key>currency</key>
@@ -424,8 +434,8 @@
 	<string>dcaron.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
-	<key>ddadeva.MAW</key>
-	<string>ddadeva.M_A_W_.glif</string>
+	<key>dda-deva.MAW</key>
+	<string>dda-deva.M_A_W_.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
 	<key>dieresis</key>
@@ -466,8 +476,8 @@
 	<string>emdash.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
-	<key>endashdeva</key>
-	<string>endashdeva.glif</string>
+	<key>endash-deva</key>
+	<string>endash-deva.glif</string>
 	<key>eng</key>
 	<string>eng.glif</string>
 	<key>eogonek</key>
@@ -480,8 +490,8 @@
 	<string>eth.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
-	<key>exclamdeva</key>
-	<string>exclamdeva.glif</string>
+	<key>exclam-deva</key>
+	<string>exclam-deva.glif</string>
 	<key>exclamdown</key>
 	<string>exclamdown.glif</string>
 	<key>f</key>
@@ -520,6 +530,8 @@
 	<string>germandbls.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
+	<key>grave.alt</key>
+	<string>grave.alt.glif</string>
 	<key>gravecomb</key>
 	<string>gravecomb.glif</string>
 	<key>greater</key>
@@ -532,12 +544,12 @@
 	<string>guillemotright.glif</string>
 	<key>guilsinglleft</key>
 	<string>guilsinglleft.glif</string>
-	<key>guilsinglleftdeva</key>
-	<string>guilsinglleftdeva.glif</string>
+	<key>guilsinglleft-deva</key>
+	<string>guilsinglleft-deva.glif</string>
 	<key>guilsinglright</key>
 	<string>guilsinglright.glif</string>
-	<key>guilsinglrightdeva</key>
-	<string>guilsinglrightdeva.glif</string>
+	<key>guilsinglright-deva</key>
+	<string>guilsinglright-deva.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>hbar</key>
@@ -546,12 +558,14 @@
 	<string>hcircumflex.glif</string>
 	<key>hookabovecomb</key>
 	<string>hookabovecomb.glif</string>
+	<key>hookabovecomb.alt</key>
+	<string>hookabovecomb.alt.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
-	<key>hyphendeva</key>
-	<string>hyphendeva.glif</string>
+	<key>hyphen-deva</key>
+	<string>hyphen-deva.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>i.loclTRK</key>
@@ -670,20 +684,20 @@
 	<string>one.glif</string>
 	<key>oneeighth</key>
 	<string>oneeighth.glif</string>
-	<key>oneeighthdeva</key>
-	<string>oneeighthdeva.glif</string>
-	<key>oneeighthdeva.loclNEP</key>
-	<string>oneeighthdeva.loclN_E_P_.glif</string>
+	<key>oneeighth-deva</key>
+	<string>oneeighth-deva.glif</string>
+	<key>oneeighth-deva.loclNEP</key>
+	<string>oneeighth-deva.loclN_E_P_.glif</string>
 	<key>onehalf</key>
 	<string>onehalf.glif</string>
-	<key>onehalfdeva</key>
-	<string>onehalfdeva.glif</string>
+	<key>onehalf-deva</key>
+	<string>onehalf-deva.glif</string>
 	<key>onequarter</key>
 	<string>onequarter.glif</string>
-	<key>onequarterdeva</key>
-	<string>onequarterdeva.glif</string>
-	<key>onethirddeva</key>
-	<string>onethirddeva.glif</string>
+	<key>onequarter-deva</key>
+	<string>onequarter-deva.glif</string>
+	<key>onethird-deva</key>
+	<string>onethird-deva.glif</string>
 	<key>ordfeminine</key>
 	<string>ordfeminine.glif</string>
 	<key>ordmasculine</key>
@@ -700,12 +714,12 @@
 	<string>paragraph.glif</string>
 	<key>parenleft</key>
 	<string>parenleft.glif</string>
-	<key>parenleftdeva</key>
-	<string>parenleftdeva.glif</string>
+	<key>parenleft-deva</key>
+	<string>parenleft-deva.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
-	<key>parenrightdeva</key>
-	<string>parenrightdeva.glif</string>
+	<key>parenright-deva</key>
+	<string>parenright-deva.glif</string>
 	<key>partialdiff</key>
 	<string>partialdiff.glif</string>
 	<key>percent</key>
@@ -728,8 +742,8 @@
 	<string>q.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
-	<key>questiondeva</key>
-	<string>questiondeva.glif</string>
+	<key>question-deva</key>
+	<string>question-deva.glif</string>
 	<key>questiondown</key>
 	<string>questiondown.glif</string>
 	<key>quotedbl</key>
@@ -738,30 +752,32 @@
 	<string>quotedblbase.glif</string>
 	<key>quotedblleft</key>
 	<string>quotedblleft.glif</string>
-	<key>quotedblleftdeva</key>
-	<string>quotedblleftdeva.glif</string>
+	<key>quotedblleft-deva</key>
+	<string>quotedblleft-deva.glif</string>
 	<key>quotedblright</key>
 	<string>quotedblright.glif</string>
-	<key>quotedblrightdeva</key>
-	<string>quotedblrightdeva.glif</string>
+	<key>quotedblright-deva</key>
+	<string>quotedblright-deva.glif</string>
 	<key>quoteleft</key>
 	<string>quoteleft.glif</string>
-	<key>quoteleftdeva</key>
-	<string>quoteleftdeva.glif</string>
+	<key>quoteleft-deva</key>
+	<string>quoteleft-deva.glif</string>
 	<key>quoteright</key>
 	<string>quoteright.glif</string>
-	<key>quoterightdeva</key>
-	<string>quoterightdeva.glif</string>
+	<key>quoteright-deva</key>
+	<string>quoteright-deva.glif</string>
 	<key>quotesinglbase</key>
 	<string>quotesinglbase.glif</string>
-	<key>quotesinglbasedeva</key>
-	<string>quotesinglbasedeva.glif</string>
+	<key>quotesinglbase-deva</key>
+	<string>quotesinglbase-deva.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
 	<key>quotesingle.loclGUA</key>
 	<string>quotesingle.loclG_U_A_.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
+	<key>r-deva.loclMAR</key>
+	<string>r-deva.loclM_A_R_.glif</string>
 	<key>racute</key>
 	<string>racute.glif</string>
 	<key>radical</key>
@@ -770,8 +786,6 @@
 	<string>rcaron.glif</string>
 	<key>rcommaaccent</key>
 	<string>rcommaaccent.glif</string>
-	<key>rdeva.loclMAR</key>
-	<string>rdeva.loclM_A_R_.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
 	<key>ring</key>
@@ -794,8 +808,8 @@
 	<string>section.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
-	<key>semicolondeva</key>
-	<string>semicolondeva.glif</string>
+	<key>semicolon-deva</key>
+	<string>semicolon-deva.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>six</key>
@@ -804,6 +818,8 @@
 	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>stem-deva</key>
+	<string>stem-deva.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
 	<key>summation</key>
@@ -820,18 +836,20 @@
 	<string>three.glif</string>
 	<key>threequarters</key>
 	<string>threequarters.glif</string>
-	<key>threequartersdeva</key>
-	<string>threequartersdeva.glif</string>
+	<key>threequarters-deva</key>
+	<string>threequarters-deva.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
+	<key>tilde.alt</key>
+	<string>tilde.alt.glif</string>
 	<key>tildecomb</key>
 	<string>tildecomb.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
-	<key>twothirdsdeva</key>
-	<string>twothirdsdeva.glif</string>
+	<key>twothirds-deva</key>
+	<string>twothirds-deva.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uacute</key>
@@ -926,6 +944,8 @@
 	<string>uni030B_.glif</string>
 	<key>uni030C</key>
 	<string>uni030C_.glif</string>
+	<key>uni031B</key>
+	<string>uni031B_.glif</string>
 	<key>uni0326</key>
 	<string>uni0326.glif</string>
 	<key>uni0327</key>
@@ -934,6 +954,8 @@
 	<string>uni0900.glif</string>
 	<key>uni0901</key>
 	<string>uni0901.glif</string>
+	<key>uni0901.imatra</key>
+	<string>uni0901.imatra.glif</string>
 	<key>uni0902</key>
 	<string>uni0902.glif</string>
 	<key>uni0903</key>
@@ -1094,6 +1116,8 @@
 	<string>uni091B_.glif</string>
 	<key>uni091B094D</key>
 	<string>uni091B_094D_.glif</string>
+	<key>uni091B094D.post</key>
+	<string>uni091B_094D_.post.glif</string>
 	<key>uni091B094D0928</key>
 	<string>uni091B_094D_0928.glif</string>
 	<key>uni091B094D092F</key>
@@ -1164,6 +1188,8 @@
 	<string>uni091F_.glif</string>
 	<key>uni091F094D</key>
 	<string>uni091F_094D_.glif</string>
+	<key>uni091F094D.post</key>
+	<string>uni091F_094D_.post.glif</string>
 	<key>uni091F094D091C</key>
 	<string>uni091F_094D_091C_.glif</string>
 	<key>uni091F094D091F</key>
@@ -1182,6 +1208,8 @@
 	<string>uni0920.glif</string>
 	<key>uni0920094D</key>
 	<string>uni0920094D_.glif</string>
+	<key>uni0920094D.post</key>
+	<string>uni0920094D_.post.glif</string>
 	<key>uni0920094D0920</key>
 	<string>uni0920094D_0920.glif</string>
 	<key>uni0920094D0928</key>
@@ -1194,6 +1222,8 @@
 	<string>uni0921.glif</string>
 	<key>uni0921094D</key>
 	<string>uni0921094D_.glif</string>
+	<key>uni0921094D.post</key>
+	<string>uni0921094D_.post.glif</string>
 	<key>uni0921094D0918</key>
 	<string>uni0921094D_0918.glif</string>
 	<key>uni0921094D091F</key>
@@ -1214,6 +1244,8 @@
 	<string>uni0922.glif</string>
 	<key>uni0922094D</key>
 	<string>uni0922094D_.glif</string>
+	<key>uni0922094D.post</key>
+	<string>uni0922094D_.post.glif</string>
 	<key>uni0922094D0922</key>
 	<string>uni0922094D_0922.glif</string>
 	<key>uni0922094D0928</key>
@@ -1254,6 +1286,8 @@
 	<string>uni0926.glif</string>
 	<key>uni0926094D</key>
 	<string>uni0926094D_.glif</string>
+	<key>uni0926094D.post</key>
+	<string>uni0926094D_.post.glif</string>
 	<key>uni0926094D0917</key>
 	<string>uni0926094D_0917.glif</string>
 	<key>uni0926094D0917094D0930</key>
@@ -1406,6 +1440,8 @@
 	<string>uni092F_094D_0072.glif</string>
 	<key>uni092F094D0930</key>
 	<string>uni092F_094D_0930.glif</string>
+	<key>uni092F094D0930.post</key>
+	<string>uni092F_094D_0930.post.glif</string>
 	<key>uni0930</key>
 	<string>uni0930.glif</string>
 	<key>uni09300941</key>
@@ -1414,10 +1450,16 @@
 	<string>uni09300942.glif</string>
 	<key>uni0930094D</key>
 	<string>uni0930094D_.glif</string>
+	<key>uni0930094D.imatra</key>
+	<string>uni0930094D_.imatra.glif</string>
 	<key>uni0930094D0901</key>
 	<string>uni0930094D_0901.glif</string>
+	<key>uni0930094D0901.imatra</key>
+	<string>uni0930094D_0901.imatra.glif</string>
 	<key>uni0930094D0902</key>
 	<string>uni0930094D_0902.glif</string>
+	<key>uni0930094D0902.imatra</key>
+	<string>uni0930094D_0902.imatra.glif</string>
 	<key>uni0931</key>
 	<string>uni0931.glif</string>
 	<key>uni0931094D</key>
@@ -1430,6 +1472,8 @@
 	<string>uni0932094D_.glif</string>
 	<key>uni0932094D.loclMAR</key>
 	<string>uni0932094D_.loclM_A_R_.glif</string>
+	<key>uni0932094D.post.loclMAR</key>
+	<string>uni0932094D_.post.loclM_A_R_.glif</string>
 	<key>uni0932094D0072</key>
 	<string>uni0932094D_0072.glif</string>
 	<key>uni0932094D0930</key>
@@ -1892,6 +1936,8 @@
 	<string>uni09450930094D_.glif</string>
 	<key>uni0946</key>
 	<string>uni0946.glif</string>
+	<key>uni0946.pre</key>
+	<string>uni0946.pre.glif</string>
 	<key>uni09460901</key>
 	<string>uni09460901.glif</string>
 	<key>uni09460902</key>
