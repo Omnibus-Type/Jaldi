@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon-deva" format="1">
+  <advance width="210"/>
+  <outline>
+    <contour>
+      <point x="114" y="502" type="line" smooth="yes"/>
+      <point x="144" y="502"/>
+      <point x="156" y="510"/>
+      <point x="156" y="526" type="curve" smooth="yes"/>
+      <point x="156" y="595" type="line" smooth="yes"/>
+      <point x="156" y="611"/>
+      <point x="144" y="618"/>
+      <point x="114" y="618" type="curve" smooth="yes"/>
+      <point x="96" y="618" type="line" smooth="yes"/>
+      <point x="66" y="618"/>
+      <point x="54" y="611"/>
+      <point x="54" y="595" type="curve" smooth="yes"/>
+      <point x="54" y="526" type="line" smooth="yes"/>
+      <point x="54" y="510"/>
+      <point x="66" y="502"/>
+      <point x="96" y="502" type="curve"/>
+    </contour>
+    <component base="comma" xScale="0.95" yScale="1.15"/>
+  </outline>
+</glyph>

@@ -1,74 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0930094D" format="1">
-  <advance width="0"/>
+  <advance width="370"/>
   <outline>
     <contour>
-      <point x="-110" y="326" type="move" name="_Anchor-3"/>
+      <point x="172" y="735" type="line"/>
+      <point x="137" y="785"/>
+      <point x="117" y="831"/>
+      <point x="117" y="880" type="curve" smooth="yes"/>
+      <point x="117" y="969"/>
+      <point x="177" y="994"/>
+      <point x="238" y="994" type="curve" smooth="yes"/>
+      <point x="260" y="994"/>
+      <point x="286" y="987"/>
+      <point x="319" y="978" type="curve" smooth="yes"/>
+      <point x="323" y="977"/>
+      <point x="327" y="977"/>
+      <point x="329" y="977" type="curve" smooth="yes"/>
+      <point x="338" y="977"/>
+      <point x="345" y="982"/>
+      <point x="349" y="994" type="curve" smooth="yes"/>
+      <point x="357" y="1017" type="line" smooth="yes"/>
+      <point x="358" y="1020"/>
+      <point x="359" y="1024"/>
+      <point x="359" y="1027" type="curve" smooth="yes"/>
+      <point x="359" y="1037"/>
+      <point x="353" y="1043"/>
+      <point x="341" y="1047" type="curve" smooth="yes"/>
+      <point x="298" y="1059"/>
+      <point x="261" y="1066"/>
+      <point x="230" y="1066" type="curve" smooth="yes"/>
+      <point x="147" y="1066"/>
+      <point x="39" y="1026"/>
+      <point x="39" y="890" type="curve" smooth="yes"/>
+      <point x="39" y="827"/>
+      <point x="65" y="767"/>
+      <point x="103" y="710" type="curve"/>
     </contour>
     <contour>
-      <point x="-110" y="326" type="move" name="_Anchor-2"/>
+      <point x="180" y="881" type="move" name="candrabindu"/>
     </contour>
     <contour>
-      <point x="-110" y="326" type="move" name="_Anchor-1"/>
+      <point x="163" y="740" type="move" name="_imatra"/>
     </contour>
     <contour>
-      <point x="-118" y="313" type="line"/>
-      <point x="-134.5" y="338.5"/>
-      <point x="-146" y="364.5"/>
-      <point x="-146" y="392.5" type="curve" smooth="yes"/>
-      <point x="-146" y="452.5"/>
-      <point x="-98.5" y="470"/>
-      <point x="-62" y="470" type="curve" smooth="yes"/>
-      <point x="-48" y="470"/>
-      <point x="-31.5" y="467"/>
-      <point x="-12.5" y="461.5" type="curve" smooth="yes"/>
-      <point x="-7.5" y="460"/>
-      <point x="-5" y="457"/>
-      <point x="-5" y="453" type="curve" smooth="yes"/>
-      <point x="-5" y="451.5"/>
-      <point x="-5.5" y="450"/>
-      <point x="-6" y="448.5" type="curve" smooth="yes"/>
-      <point x="-9" y="438" type="line" smooth="yes"/>
-      <point x="-11" y="433"/>
-      <point x="-14" y="431"/>
-      <point x="-18" y="431" type="curve" smooth="yes"/>
-      <point x="-19" y="431"/>
-      <point x="-20.5" y="431"/>
-      <point x="-22.5" y="431.5" type="curve" smooth="yes"/>
-      <point x="-37" y="435.5"/>
-      <point x="-48.5" y="438"/>
-      <point x="-58" y="438" type="curve" smooth="yes"/>
-      <point x="-85" y="438"/>
-      <point x="-111.5" y="427.5"/>
-      <point x="-111.5" y="388" type="curve" smooth="yes"/>
-      <point x="-111.5" y="366.5"/>
-      <point x="-102.5" y="346"/>
-      <point x="-87" y="324.5" type="curve"/>
+      <point x="120" y="740" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="-174" y="740" type="move" name="_iimatra"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>438</integer>
-            <key>width</key>
-            <integer>32</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-146</integer>
-            <key>width</key>
-            <integer>34</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

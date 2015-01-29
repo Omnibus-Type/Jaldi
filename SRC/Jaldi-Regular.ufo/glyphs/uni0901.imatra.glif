@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0901.imatra" format="1">
+  <advance width="465"/>
+  <outline>
+    <component base="uni0901" xOffset="11" yOffset="217" xScale="0.8" yScale="0.8"/>
+    <contour>
+      <point x="244" y="724" type="move" name="_imatra"/>
+    </contour>
+    <contour>
+      <point x="232" y="740" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="43" y="924" type="move" name="_candrabindu"/>
+    </contour>
+    <contour>
+      <point x="-115" y="767" type="move" name="_iimatra"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

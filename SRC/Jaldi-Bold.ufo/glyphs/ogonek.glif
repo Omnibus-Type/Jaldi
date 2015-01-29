@@ -1,58 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="1">
-  <advance width="149"/>
+  <advance width="338"/>
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="80" y="-86" type="curve" smooth="yes"/>
-      <point x="31" y="-86"/>
-      <point x="25" y="-52"/>
-      <point x="25" y="-38" type="curve" smooth="yes"/>
-      <point x="25" y="-27"/>
-      <point x="29" y="7"/>
-      <point x="52" y="7" type="curve" smooth="yes"/>
-      <point x="59" y="7"/>
-      <point x="62" y="3"/>
-      <point x="62" y="-3" type="curve" smooth="yes"/>
-      <point x="62" y="-10"/>
-      <point x="57" y="-16"/>
-      <point x="57" y="-29" type="curve" smooth="yes"/>
-      <point x="57" y="-52"/>
-      <point x="75" y="-53"/>
-      <point x="86" y="-53" type="curve" smooth="yes"/>
-      <point x="97" y="-53"/>
-      <point x="100" y="-49"/>
-      <point x="108" y="-49" type="curve" smooth="yes"/>
-      <point x="115" y="-49"/>
-      <point x="119" y="-53"/>
-      <point x="119" y="-62" type="curve" smooth="yes"/>
-      <point x="119" y="-82"/>
-      <point x="98" y="-86"/>
+      <point x="222" y="-194"/>
+      <point x="268" y="-185"/>
+      <point x="268" y="-141" type="curve" smooth="yes"/>
+      <point x="268" y="-120"/>
+      <point x="260" y="-111"/>
+      <point x="244" y="-111" type="curve" smooth="yes"/>
+      <point x="225" y="-111"/>
+      <point x="220" y="-119"/>
+      <point x="193" y="-119" type="curve" smooth="yes"/>
+      <point x="169" y="-119"/>
+      <point x="128" y="-117"/>
+      <point x="128" y="-66" type="curve" smooth="yes"/>
+      <point x="128" y="-35"/>
+      <point x="139" y="-22"/>
+      <point x="139" y="-6" type="curve" smooth="yes"/>
+      <point x="139" y="7"/>
+      <point x="133" y="15"/>
+      <point x="116" y="15" type="curve" smooth="yes"/>
+      <point x="65" y="15"/>
+      <point x="56" y="-62"/>
+      <point x="56" y="-85" type="curve" smooth="yes"/>
+      <point x="56" y="-117"/>
+      <point x="69" y="-194"/>
+      <point x="181" y="-194" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="140" y="0" type="move" name="_ogonek"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-86</integer>
-            <key>width</key>
-            <integer>33</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>25</integer>
-            <key>width</key>
-            <integer>32</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

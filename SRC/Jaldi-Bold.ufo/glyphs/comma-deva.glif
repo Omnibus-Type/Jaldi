@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma-deva" format="1">
+  <advance width="210"/>
+  <outline>
+    <component base="comma" xScale="0.95" yScale="1.15"/>
+  </outline>
+</glyph>
