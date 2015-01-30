@@ -10,7 +10,13 @@
 
 @font-face {
     font-family: Jaldi;
-    src: url('Fonts/Jaldi-Regular.woff');
+    src: url(Fonts/Jaldi-Regular.ttf);
+}
+
+@font-face {
+    font-family: Jaldi;
+    src: url(Fonts/Jaldi-Bold.ttf);
+    font-weight: bold;
 }
 
 html, body, div, span, object, iframe,
