@@ -235,7 +235,7 @@ body {
   text-rendering: optimizeLegibility;
   background-color: #22272a;
   color: #ced9e0;
-  font-family: "Jaldi",Helvetica,Arial,sans-serif;
+  font-family: Jaldi,Helvetica,Arial,sans-serif;
   font-size: 1em;
   line-height: 1.5;
 }
@@ -246,7 +246,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Jaldi",Helvetica,Arial,sans-serif;
+  font-family: Jaldi,Helvetica,Arial,sans-serif;
   line-height: 1.25;
   margin: 0;
   color: #fff;
@@ -278,7 +278,7 @@ h6 {
 
 p {
   margin: 0 0 0.75em;
-  font-family: "Jaldi",Helvetica,Arial,sans-serif;
+  font-family: Jaldi,Helvetica,Arial,sans-serif;
 }
 
 a {
