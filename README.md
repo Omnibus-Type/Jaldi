@@ -3,15 +3,15 @@ Jaldi [Asap-Devanagari]
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Jaldi, the Devanagari typeface based in Asap.
+Jaldi, the Devanagari typeface family designed as a compliment of Asap.
 
 ![Sample of Jaldi](SRC/jaldi_poster.JPG "Jaldi")
 
 # Jaldi family
 
-Jaldi is a libre Devanagari typeface family designed as a compliment of Asap* (“As Soon As Possible”). Jaldi is a contemporary sans-serif non-modular devanagari family with subtle rounded corners designed by Nicolás Silva and Pablo Cosgaya. It comes in 2 weights (Regular and Bold) and was specially developed for screen as webfont and desktop font too. Offers a standardised character width on all styles, which means that its lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. The latin version of Jaldi was based on Ancha (designed by Pablo Cosgaya & Héctor Gatti) and was developed with the collaboration of Omnibus-Type Team.
+Jaldi is a libre Devanagari typeface family designed as a compliment of [Asap](https://www.google.com/url?q=https%3A%2F%2Fwww.google.com%2Ffonts%2Fspecimen%2FAsap)* (“As Soon As Possible”). Jaldi is a contemporary sans-serif, non-modular Devanagari family with subtle rounded corners designed by Nicolás Silva and Pablo Cosgaya. It comes in 2 weights (Regular and Bold) and was specially developed for screen as webfont and desktop font too. Offering a standardised character width on all styles, which means that its lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. The latin version of Jaldi was based on Ancha (designed by Pablo Cosgaya & Héctor Gatti) and was developed with the collaboration of the [Omnibus-Type](http://www.google.com/url?q=http%3A%2F%2Fomnibus-type.com%2F&sa=D&sntz=1&usg=AFQjCNEK1dbRyWJN56zeP8EaPCup9kDYQw) team.
 
-\*Jaldi (जल्दी) is the hindi word for ‘soon’
+\*Jaldi (जल्दी) is the hindi word for ‘soon’.
 
 
 ####Jaldi Family contains:
