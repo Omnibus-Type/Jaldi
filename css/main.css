@@ -1,11 +1,16 @@
+/*@font-face {*/
+/*  font-family: 'Jaldi';
+/*  src: url('Fonts/Jaldi-Regular.eot'); /* IE9 Compat Modes */
+/*  src: url('Fonts/Jaldi-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+/*       url('Fonts/Jaldi-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+/*       url('Fonts/Jaldi-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+/*       url('Fonts/Jaldi-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+/*       url('Fonts/Jaldi-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+/*}*/
+
 @font-face {
-  font-family: 'Jaldi';
-  src: url('Fonts/Jaldi-Regular.eot'); /* IE9 Compat Modes */
-  src: url('Fonts/Jaldi-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('Fonts/Jaldi-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('Fonts/Jaldi-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-       url('Fonts/Jaldi-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('Fonts/Jaldi-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-family: Jaldi;
+    src: url(Fonts/Jaldi-Regular.woff);
 }
 
 html, body, div, span, object, iframe,
