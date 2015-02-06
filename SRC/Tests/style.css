@@ -5,8 +5,8 @@
 
 @font-face {
     font-family: 'Jaldi';
-    src: url('../Fonts/Jaldi-Regular.woff2') format('woff2'),
-      url('Fonts/Jaldi-Regular.woff') format('woff');
+    src: url('../../Fonts/Jaldi-Regular.woff2') format('woff2'),
+      url('../../Fonts/Jaldi-Regular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
@@ -14,7 +14,7 @@
 @font-face {
     font-family: 'Jaldi';
     src: url('../Fonts/Jaldi-Bold.woff2') format('woff2'),
-      url('Fonts/Jaldi-Bold.woff') format('woff');
+      url('../../Fonts/Jaldi-Bold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 }
