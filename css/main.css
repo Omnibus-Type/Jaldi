@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Jaldi';
     src: url('../Fonts/Jaldi-Regular.woff2') format('woff2'),
-      url('../Fonts/Jaldi-Regular.woff') format('woff');
+      url('Fonts/Jaldi-Regular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
@@ -9,7 +9,7 @@
 @font-face {
     font-family: 'Jaldi';
     src: url('../Fonts/Jaldi-Bold.woff2') format('woff2'),
-      url('../Fonts/Jaldi-Bold.woff') format('woff');
+      url('Fonts/Jaldi-Bold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 }
@@ -97,7 +97,7 @@ mark {
 pre, code, kbd, samp {
   font-family: monospace, serif;
   _font-family: 'courier new', monospace;
-  font-size: 2em;
+  font-size: 1em;
 }
 
 pre {
@@ -237,8 +237,8 @@ body {
   background-color: #22272a;
   color: #ced9e0;
   font-family: 'Jaldi';
-  font-size: 2em;
-  line-height: 0.5;
+  font-size: 1em;
+  line-height: 1.5;
 }
 
 h1,
@@ -248,39 +248,33 @@ h4,
 h5,
 h6 {
   font-family: 'Jaldi';
-  line-height: 0.5;
+  line-height: 1.25;
   margin: 0;
   color: #fff;
 }
 
 h1 {
-  font-size: 4.5em;
-  line-height: 0em;
+  font-size: 2.25em;
 }
 
 h2 {
-  font-size: 2.25em;
-  line-height: 1.25em;
+  font-size: 2em;
 }
 
 h3 {
-  font-size: 2em;
-  line-height: 1em;
+  font-size: 1.75em;
 }
 
 h4 {
-  font-size: 1.75em;
-  line-height: 1em;
+  font-size: 1.5em;
 }
 
 h5 {
-  font-size: 1.5em;
-  line-height: 1em;
+  font-size: 1.25em;
 }
 
 h6 {
-  font-size: 1.25em;
-  line-height: 1em;
+  font-size: 1em;
 }
 
 p {
@@ -404,13 +398,13 @@ header #logo-container #logo {
   padding-top: 0.5em;
   font-weight: bold;
   font-size: 48px;
-  line-height: 28px;
+  line-height: 60px;
   float: none;
 }
 header #logo-container #subtitle {
   color: #e85151;
   font-weight: bold;
-  font-size: 28px;
+  font-size: 18px;
 }
 header a {
   color: #e85151;
@@ -513,15 +507,14 @@ header nav ul li a.bordered {
   }
 }
 #content section.intro h1 {
-  font-size: 4em;
-  line-height: 2em;
+  font-size: 8em;
   border-top: 2px solid #fff;
   margin-top: 1.2em;
   margin-bottom: 1em;
 }
 @media screen and (max-width: 540px) {
   #content section.intro h1 {
-    font-size: 2em;
+    font-size: 4em;
     line-height: 1.2em;
     padding-top: 0.4em;
   }
@@ -559,7 +552,7 @@ header nav ul li a.bordered {
 }
 #content section.row p {
   font-size: 1.2em;
-  line-height: 0.6em;
+  line-height: 1.6em;
 }
 #content section.row .col, #content section.row .col-full {
   float: left;
