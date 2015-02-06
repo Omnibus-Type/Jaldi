@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'Jaldi';
-    src: url('Fonts/Jaldi-Regular.woff2') format('woff2'),
-      url('Fonts/Jaldi-Regular.woff') format('woff');
+    src: url('../Fonts/Jaldi-Regular.woff2') format('woff2'),
+      url('../Fonts/Jaldi-Regular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Jaldi';
-    src: url('Fonts/Jaldi-Bold.woff2') format('woff2'),
-      url('Fonts/Jaldi-Bold.woff') format('woff');
+    src: url('../Fonts/Jaldi-Bold.woff2') format('woff2'),
+      url('../Fonts/Jaldi-Bold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 }
@@ -237,7 +237,7 @@ body {
   background-color: #22272a;
   color: #ced9e0;
   font-family: 'Jaldi';
-  font-size: 3em;
+  font-size: 1em;
   line-height: 1.5;
 }
 
@@ -254,27 +254,27 @@ h6 {
 }
 
 h1 {
-  font-size: 4.25em;
-}
-
-h2 {
-  font-size: 4em;
-}
-
-h3 {
-  font-size: 2.75em;
-}
-
-h4 {
-  font-size: 2.5em;
-}
-
-h5 {
   font-size: 2.25em;
 }
 
-h6 {
+h2 {
   font-size: 2em;
+}
+
+h3 {
+  font-size: 1.75em;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+h5 {
+  font-size: 1.25em;
+}
+
+h6 {
+  font-size: 1em;
 }
 
 p {
@@ -530,7 +530,6 @@ header nav ul li a.bordered {
 #content section.intro p {
   font-size: 2.0em;
   line-height: 1.5em;
-
 }
 #content section.row {
   max-width: 68em;
