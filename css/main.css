@@ -403,8 +403,8 @@ header #logo-container:last-child {
 header #logo-container #logo {
   padding-top: 0.5em;
   font-weight: bold;
-  font-size: 48px;
-  line-height: 48px;
+  font-size: 28px;
+  line-height: 28px;
   float: none;
 }
 header #logo-container #subtitle {
@@ -513,7 +513,7 @@ header nav ul li a.bordered {
   }
 }
 #content section.intro h1 {
-  font-size: 6em;
+  font-size: 4em;
   line-height: 2em;
   border-top: 2px solid #fff;
   margin-top: 1.2em;
@@ -521,7 +521,7 @@ header nav ul li a.bordered {
 }
 @media screen and (max-width: 540px) {
   #content section.intro h1 {
-    font-size: 4em;
+    font-size: 2em;
     line-height: 1.2em;
     padding-top: 0.4em;
   }
