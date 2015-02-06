@@ -513,7 +513,8 @@ header nav ul li a.bordered {
   }
 }
 #content section.intro h1 {
-  font-size: 8em;
+  font-size: 6em;
+  line-height: 2em;
   border-top: 2px solid #fff;
   margin-top: 1.2em;
   margin-bottom: 1em;
