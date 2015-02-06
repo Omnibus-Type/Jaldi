@@ -228,17 +228,17 @@ html {
 }
 
 body {
-  -webkit-font-feature-settings: "kern", "liga", "frac", "pnum";
-  -moz-font-feature-settings: "kern", "liga", "frac", "pnum";
-  -ms-font-feature-settings: "kern", "liga", "frac", "pnum";
-  font-feature-settings: "kern", "liga", "frac", "pnum";
+  -webkit-font-feature-settings: "kern", "liga", "frac", "pnum","dist";
+  -moz-font-feature-settings: "kern", "liga", "frac", "pnum","dist";
+  -ms-font-feature-settings: "kern", "liga", "frac", "pnum","dist";
+  font-feature-settings: "kern", "liga", "frac", "pnum","dist";
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   background-color: #22272a;
   color: #ced9e0;
   font-family: 'Jaldi';
   font-size: 1em;
-  line-height: 1.5;
+  line-height: 1;
 }
 
 h1,
@@ -248,33 +248,33 @@ h4,
 h5,
 h6 {
   font-family: 'Jaldi';
-  line-height: 1.25;
+  line-height: 1;
   margin: 0;
   color: #fff;
 }
 
 h1 {
-  font-size: 2.25em;
+  font-size: 4.25em;
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 4em;
 }
 
 h3 {
-  font-size: 1.75em;
+  font-size: 2.75em;
 }
 
 h4 {
-  font-size: 1.5em;
+  font-size: 2.5em;
 }
 
 h5 {
-  font-size: 1.25em;
+  font-size: 2.25em;
 }
 
 h6 {
-  font-size: 1em;
+  font-size: 2em;
 }
 
 p {
@@ -399,7 +399,6 @@ header #logo-container #logo {
   font-weight: bold;
   font-size: 48px;
   line-height: 60px;
-  letter-spacing: -0.05em;
   float: none;
 }
 header #logo-container #subtitle {
@@ -510,7 +509,6 @@ header nav ul li a.bordered {
 #content section.intro h1 {
   font-size: 8em;
   border-top: 2px solid #fff;
-  letter-spacing: -0.05em;
   margin-top: 1.2em;
   margin-bottom: 1em;
 }
@@ -532,7 +530,6 @@ header nav ul li a.bordered {
 #content section.intro p {
   font-size: 2.0em;
   line-height: 1.5em;
-  letter-spacing: 0.02em;
 }
 #content section.row {
   max-width: 68em;
