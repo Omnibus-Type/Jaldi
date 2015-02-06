@@ -1,0 +1,152 @@
+@charset "UTF-8";
+::-moz-selection {
+  color: #EEE;
+  background: #0BF; }
+
+@font-face {
+    font-family: 'Jaldi';
+    src: url('../Fonts/Jaldi-Regular.woff2') format('woff2'),
+      url('Fonts/Jaldi-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Jaldi';
+    src: url('../Fonts/Jaldi-Bold.woff2') format('woff2'),
+      url('Fonts/Jaldi-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+::selection {
+  color: #EEE;
+  background: #0BF; }
+
+body {
+  background-color: #F8F8F8;
+  font-size: 15pt;
+  margin: 5mm 5mm 20mm 5mm;
+  line-height: 1;
+  color: #CCC;
+  font-family: 'Jaldi'; }
+  body.devanagari {
+    font-family: 'Jaldi'; }
+  body.bangla {
+    font-family: Seravek, Kohinoor Bangla, LastResort; }
+
+hr {
+  border: none;
+  border-top: solid #DDD 1px;
+  margin: 1em 0;
+  width: 200mm; }
+
+a {
+  color: #AAA;
+  text-decoration: none;
+  font-weight: 400; }
+  a:hover {
+    color: #0BF;
+    border-bottom: 2px solid #0BF; }
+
+h1 {
+  font-size: 3em;
+  font-weight: 300;
+  margin: 0;
+  color: #0BF; }
+
+ol {
+  list-style-type: decimal-leading-zero; }
+
+li {
+  margin: 1em 0; }
+  li.specific::before {
+    content: '[Specific]'; }
+
+p {
+  max-width: 200mm;
+  line-height: 1.5; }
+  p.note {
+    font-size: 12pt; }
+    p.note::before {
+      content: 'Note: ';
+      font-style: italic; }
+
+h2 {
+  font-size: 1em;
+  font-weight: 400; }
+  h2::before {
+    content: '## '; }
+
+table {
+  margin: 1em 0;
+  border-spacing: 1px;
+  overflow: hidden;
+  color: black;
+  font-size: 18pt; }
+  table.small {
+    font-size: 13pt; }
+
+tr.xsmall {
+  font-size: 9pt; }
+
+tr.divider {
+  height: 2px; }
+
+td.small {
+  font-size: 13pt; }
+
+td {
+  text-align: center;
+  background-color: white;
+  width: 2em;
+  height: 2em; }
+  td.empty {
+    background-color: transparent; }
+  td.mark.dual {
+    background-color: #EEFFF8; }
+  td.mark.unnecessary {
+    color: #EEE; }
+  td.mark.marginal-a {
+    color: #6CB; }
+  td.mark.marginal-b {
+    color: #8DE; }
+  td.mark.predictable {
+    color: #DDD; }
+  td.mark.external {
+    color: #DDD; }
+  td.mark.traditional {
+    background-color: #FFC; }
+  td.tag {
+    position: relative; }
+    td.tag::after {
+      display: block;
+      position: absolute;
+      font-size: .4em;
+      top: 0;
+      right: 0;
+      margin: 1pt 2pt;
+      line-height: 1;
+      color: #DDD; }
+    td.tag.ZWJ::after {
+      content: 'zwj'; }
+    td.tag.dvVA::after {
+      content: 'व'; }
+
+.canvas {
+  background-color: white;
+  overflow: hidden;
+  margin: 1em 0;
+  word-spacing: .25em;
+  padding: .5em 1em; }
+  .canvas.plain {
+    color: black;
+    line-height: 1.5; }
+  .canvas p {
+    max-width: none;
+    color: black;
+    line-height: 1.5;
+    margin: 0;
+    padding: .5em 0; }
+  .canvas span.invalid {
+    color: #EEE; }
