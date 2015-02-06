@@ -228,16 +228,16 @@ html {
 }
 
 body {
-  -webkit-font-feature-settings: "kern", "liga", "frac", "pnum","dist";
-  -moz-font-feature-settings: "kern", "liga", "frac", "pnum","dist";
-  -ms-font-feature-settings: "kern", "liga", "frac", "pnum","dist";
-  font-feature-settings: "kern", "liga", "frac", "pnum","dist";
+  -webkit-font-feature-settings: "kern", "liga", "frac", "pnum";
+  -moz-font-feature-settings: "kern", "liga", "frac", "pnum";
+  -ms-font-feature-settings: "kern", "liga", "frac", "pnum";
+  font-feature-settings: "kern", "liga", "frac", "pnum";
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   background-color: #22272a;
   color: #ced9e0;
   font-family: 'Jaldi';
-  font-size: 1em;
+  font-size: 4em;
   line-height: 1;
 }
 
@@ -254,27 +254,27 @@ h6 {
 }
 
 h1 {
-  font-size: 4.25em;
+  font-size: 5.25em;
 }
 
 h2 {
-  font-size: 4em;
+  font-size: 5em;
 }
 
 h3 {
-  font-size: 2.75em;
+  font-size: 3.75em;
 }
 
 h4 {
-  font-size: 2.5em;
+  font-size: 3.5em;
 }
 
 h5 {
-  font-size: 2.25em;
+  font-size: 3.25em;
 }
 
 h6 {
-  font-size: 2em;
+  font-size: 3em;
 }
 
 p {
@@ -397,14 +397,14 @@ header #logo-container:last-child {
 header #logo-container #logo {
   padding-top: 0.5em;
   font-weight: bold;
-  font-size: 48px;
+  font-size: 65px;
   line-height: 60px;
   float: none;
 }
 header #logo-container #subtitle {
   color: #e85151;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 32px;
 }
 header a {
   color: #e85151;
@@ -507,14 +507,14 @@ header nav ul li a.bordered {
   }
 }
 #content section.intro h1 {
-  font-size: 8em;
+  font-size: 12em;
   border-top: 2px solid #fff;
   margin-top: 1.2em;
   margin-bottom: 1em;
 }
 @media screen and (max-width: 540px) {
   #content section.intro h1 {
-    font-size: 4em;
+    font-size: 8em;
     line-height: 1.2em;
     padding-top: 0.4em;
   }
@@ -528,7 +528,7 @@ header nav ul li a.bordered {
   }
 }
 #content section.intro p {
-  font-size: 2.0em;
+  font-size: 4.0em;
   line-height: 1.5em;
 }
 #content section.row {
@@ -545,14 +545,14 @@ header nav ul li a.bordered {
 }
 #content section.row h2 {
   text-transform: uppercase;
-  font-size: 1.0em;
+  font-size: 3.0em;
   font-weight: bold;
   color: #e85151;
   margin-bottom: 0.05em;
 }
 #content section.row p {
-  font-size: 1.2em;
-  line-height: 1.6em;
+  font-size: 3.2em;
+  line-height: 3.6em;
 }
 #content section.row .col, #content section.row .col-full {
   float: left;
