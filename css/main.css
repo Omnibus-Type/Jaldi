@@ -410,7 +410,7 @@ header #logo-container #logo {
 header #logo-container #subtitle {
   color: #e85151;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 28px;
 }
 header a {
   color: #e85151;
@@ -558,7 +558,7 @@ header nav ul li a.bordered {
 }
 #content section.row p {
   font-size: 1.2em;
-  line-height: 1.6em;
+  line-height: 0.6em;
 }
 #content section.row .col, #content section.row .col-full {
   float: left;
