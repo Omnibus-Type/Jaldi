@@ -507,14 +507,14 @@ header nav ul li a.bordered {
   }
 }
 #content section.intro h1 {
-  font-size: 12em;
+  font-size: 10em;
   border-top: 2px solid #fff;
   margin-top: 1.2em;
   margin-bottom: 1em;
 }
 @media screen and (max-width: 540px) {
   #content section.intro h1 {
-    font-size: 8em;
+    font-size: 6em;
     line-height: 1.2em;
     padding-top: 0.4em;
   }
@@ -528,11 +528,11 @@ header nav ul li a.bordered {
   }
 }
 #content section.intro p {
-  font-size: 4.0em;
+  font-size: 2.0em;
   line-height: 1.5em;
 }
 #content section.row {
-  max-width: 68em;
+  max-width: 5em;
   margin-left: auto;
   margin-right: auto;
   padding-top: 2em;
@@ -545,14 +545,14 @@ header nav ul li a.bordered {
 }
 #content section.row h2 {
   text-transform: uppercase;
-  font-size: 3.0em;
+  font-size: 2.0em;
   font-weight: bold;
   color: #e85151;
   margin-bottom: 0.05em;
 }
 #content section.row p {
-  font-size: 3.2em;
-  line-height: 3.6em;
+  font-size: 2.2em;
+  line-height: 2.6em;
 }
 #content section.row .col, #content section.row .col-full {
   float: left;
