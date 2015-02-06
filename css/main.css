@@ -255,26 +255,32 @@ h6 {
 
 h1 {
   font-size: 2.5em;
+  line-height: 1.5em;
 }
 
 h2 {
   font-size: 2.25em;
+  line-height: 1.25em;
 }
 
 h3 {
   font-size: 2em;
+  line-height: 1em;
 }
 
 h4 {
   font-size: 1.75em;
+  line-height: 1em;
 }
 
 h5 {
   font-size: 1.5em;
+  line-height: 1em;
 }
 
 h6 {
   font-size: 1.25em;
+  line-height: 1em;
 }
 
 p {
@@ -398,7 +404,7 @@ header #logo-container #logo {
   padding-top: 0.5em;
   font-weight: bold;
   font-size: 48px;
-  line-height: 60px;
+  line-height: 48px;
   float: none;
 }
 header #logo-container #subtitle {
