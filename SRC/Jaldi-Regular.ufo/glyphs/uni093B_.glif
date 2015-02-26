@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni093B" format="1">
-  <advance width="306"/>
+  <advance width="515"/>
   <unicode hex="093B"/>
   <outline>
     <contour>
-      <point x="170" y="749" type="line"/>
-      <point x="170" y="805" type="line"/>
-      <point x="88" y="805" type="line"/>
-      <point x="88" y="749" type="line"/>
+      <point x="286" y="1259" type="line"/>
+      <point x="286" y="1355" type="line"/>
+      <point x="150" y="1355" type="line"/>
+      <point x="150" y="1259" type="line"/>
     </contour>
     <component base="uni093E"/>
-    <component base="uni093A" xOffset="-17" yOffset="-125"/>
+    <component base="uni093A" xOffset="-28.443" yOffset="-209.764"/>
     <contour>
-      <point x="130" y="0" type="move" name="bottom"/>
+      <point x="219" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <real>4.0</real>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni093A</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0973" format="1">
-  <advance width="898"/>
+  <advance width="1512"/>
   <unicode hex="0973"/>
   <outline>
     <contour>
-      <point x="762" y="749" type="line"/>
-      <point x="762" y="805" type="line"/>
-      <point x="680" y="805" type="line"/>
-      <point x="680" y="749" type="line"/>
+      <point x="1282" y="1259" type="line"/>
+      <point x="1282" y="1355" type="line"/>
+      <point x="1145" y="1355" type="line"/>
+      <point x="1145" y="1259" type="line"/>
     </contour>
     <component base="uni0905"/>
-    <component base="uni093A" xOffset="575" yOffset="-125"/>
+    <component base="uni093A" xOffset="967.049" yOffset="-209.764"/>
     <contour>
-      <point x="299" y="0" type="move" name="nukta"/>
+      <point x="503" y="0" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="722" y="0" type="move" name="bottom"/>
+      <point x="1215" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="724" y="0" type="move" name="rakar"/>
+      <point x="1220" y="0" type="move" name="rakar"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <real>4.0</real>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>a-deva</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

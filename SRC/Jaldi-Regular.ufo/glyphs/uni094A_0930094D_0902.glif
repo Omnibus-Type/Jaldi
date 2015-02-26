@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni094A0930094D0902" format="1">
-  <advance width="306"/>
+  <advance width="515"/>
   <outline>
     <component base="uni093E"/>
-    <component base="uni09460930094D0902" xOffset="-375"/>
+    <component base="uni09460930094D0902" xOffset="-629"/>
     <contour>
-      <point x="130" y="0" type="move" name="bottom"/>
+      <point x="219" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>aaMatra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni091F094D092F" format="1">
-  <advance width="1326"/>
+  <advance width="2230"/>
   <outline>
     <component base="uni091F"/>
-    <component base="uni092F094D.post.5" xOffset="621"/>
+    <component base="uni092F094D.post.5" xOffset="1044"/>
     <contour>
-      <point x="735" y="109" type="move" name="nukta"/>
+      <point x="1237" y="184" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="1148" y="0" type="move" name="bottom"/>
+      <point x="1933" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="1148" y="732" type="move" name="top"/>
+      <point x="1933" y="1232" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <real>0.0</real>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>tta-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>y-deva.post</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

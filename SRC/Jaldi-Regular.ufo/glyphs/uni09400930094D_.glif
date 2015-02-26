@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni09400930094D" format="1">
-  <advance width="306"/>
+  <advance width="515"/>
   <outline>
     <component base="uni0940"/>
-    <component base="uni0930094D.imatra" xOffset="-3" yOffset="27"/>
+    <component base="uni0930094D.imatra" xOffset="-4" yOffset="46"/>
     <contour>
-      <point x="-177" y="767" type="move" name="iimatra"/>
+      <point x="-297" y="1290" type="move" name="iimatra"/>
     </contour>
     <contour>
-      <point x="130" y="0" type="move" name="bottom"/>
+      <point x="219" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iacute_j.loclNLD" format="1">
-  <advance width="571"/>
+  <advance width="962"/>
   <outline>
     <component base="iacute"/>
-    <component base="dotlessj" xOffset="280"/>
-    <component base="acute" xOffset="311"/>
+    <component base="uni0237" xOffset="471"/>
+    <component base="acute" xOffset="522"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>iacute.loclNLD</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j.loclNLD</string>
+    </dict>
+  </lib>
 </glyph>

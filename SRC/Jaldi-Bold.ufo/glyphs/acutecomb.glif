@@ -3,12 +3,12 @@
   <advance width="0"/>
   <unicode hex="0301"/>
   <outline>
-    <component base="acute" xOffset="-111"/>
+    <component base="acute" xOffset="-186.655"/>
     <contour>
-      <point x="1" y="740" type="move" name="top"/>
+      <point x="2" y="1244" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="0" y="552" type="move" name="_top"/>
+      <point x="0" y="930" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

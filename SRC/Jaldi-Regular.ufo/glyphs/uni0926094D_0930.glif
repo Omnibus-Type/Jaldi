@@ -1,34 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0926094D0930" format="1">
-  <advance width="672"/>
+  <advance width="1131"/>
   <outline>
     <contour>
-      <point x="541" y="131" type="line"/>
-      <point x="505" y="180" type="line"/>
-      <point x="148" y="-50" type="line" smooth="yes"/>
-      <point x="140" y="-56"/>
-      <point x="136" y="-62"/>
-      <point x="136" y="-67" type="curve" smooth="yes"/>
-      <point x="136" y="-72"/>
-      <point x="138" y="-77"/>
-      <point x="143" y="-83" type="curve" smooth="yes"/>
-      <point x="162" y="-106" type="line" smooth="yes"/>
-      <point x="169" y="-114"/>
-      <point x="172" y="-117"/>
-      <point x="178" y="-117" type="curve" smooth="yes"/>
-      <point x="183" y="-117"/>
-      <point x="188" y="-115"/>
-      <point x="194" y="-110" type="curve" smooth="yes"/>
+      <point x="911" y="222" type="line"/>
+      <point x="848" y="304" type="line"/>
+      <point x="249" y="-84" type="line" smooth="yes"/>
+      <point x="235" y="-93"/>
+      <point x="229" y="-104"/>
+      <point x="229" y="-113" type="curve" smooth="yes"/>
+      <point x="229" y="-121"/>
+      <point x="233" y="-130"/>
+      <point x="240" y="-138" type="curve" smooth="yes"/>
+      <point x="273" y="-178" type="line" smooth="yes"/>
+      <point x="284" y="-192"/>
+      <point x="291" y="-197"/>
+      <point x="300" y="-197" type="curve" smooth="yes"/>
+      <point x="306" y="-197"/>
+      <point x="316" y="-192"/>
+      <point x="327" y="-186" type="curve" smooth="yes"/>
     </contour>
     <component base="uni0926"/>
     <contour>
-      <point x="21" y="142" type="move" name="nukta"/>
+      <point x="34" y="239" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="571" y="-66" type="move" name="bottom"/>
+      <point x="960" y="-111" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="495" y="740" type="move" name="top"/>
+      <point x="832" y="1244" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <real>0.0</real>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>da-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>da-deva</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

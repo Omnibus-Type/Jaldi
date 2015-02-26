@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0901.imatra" format="1">
-  <advance width="465"/>
+  <advance width="783"/>
   <outline>
-    <component base="uni0901" xOffset="11" yOffset="217" xScale="0.8" yScale="0.8"/>
+    <component base="uni0901" xOffset="17.777" yOffset="364.421" xScale="0.8" yScale="0.8"/>
     <contour>
-      <point x="244" y="724" type="move" name="_imatra"/>
+      <point x="411" y="1220" type="move" name="_imatra"/>
     </contour>
     <contour>
-      <point x="232" y="740" type="move" name="_top"/>
+      <point x="389" y="1244" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="43" y="924" type="move" name="_candrabindu"/>
+      <point x="73" y="1554" type="move" name="_candrabindu"/>
     </contour>
     <contour>
-      <point x="-115" y="767" type="move" name="_iimatra"/>
+      <point x="-192" y="1290" type="move" name="_iimatra"/>
     </contour>
   </outline>
   <lib>

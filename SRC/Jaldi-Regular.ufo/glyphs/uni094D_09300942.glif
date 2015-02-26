@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni094D09300942" format="1">
-  <advance width="475"/>
+  <advance width="800"/>
   <outline>
-    <component base="uni094D0930" xOffset="1" yOffset="92" yScale="0.9"/>
-    <component base="uni0942" xOffset="45" yOffset="-186" yScale="0.95"/>
+    <component base="uni094D0930" xOffset="1.778" yOffset="154.657" yScale="0.9"/>
+    <component base="uni0942" xOffset="76.440" yOffset="-312.869" yScale="0.95"/>
     <contour>
-      <point x="232" y="211" type="move" name="nukta"/>
+      <point x="389" y="356" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="240" y="-390" type="move" name="bottom"/>
+      <point x="402" y="-657" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="231" y="0" type="move" name="_rakar"/>
+      <point x="387" y="0" type="move" name="_rakar"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <real>4.0</real>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

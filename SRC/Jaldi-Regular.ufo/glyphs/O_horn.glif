@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohorn" format="1">
-  <advance width="772"/>
+  <advance width="1300"/>
   <unicode hex="01A0"/>
   <outline>
     <component base="O"/>
-    <component base="uni031B" xOffset="109" yOffset="182"/>
+    <component base="uni031B" xOffset="186" yOffset="307"/>
   </outline>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni093C" format="1">
-  <advance width="211"/>
+  <advance width="356"/>
   <unicode hex="093C"/>
   <outline>
-    <component base="uni0902" xOffset="-27" yOffset="-1081"/>
+    <component base="uni0902" xOffset="-46.219" yOffset="-1818.550"/>
     <contour>
-      <point x="474" y="0" type="move" name="rakar"/>
+      <point x="797" y="0" type="move" name="rakar"/>
     </contour>
     <contour>
-      <point x="105" y="0" type="move" name="_nukta"/>
+      <point x="176" y="0" type="move" name="_nukta"/>
     </contour>
   </outline>
 </glyph>

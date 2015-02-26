@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>809BDC91-2406-4790-B9EF-A5FFF608A06A</string>
+	<string>FB715283-CFB2-4766-AFCA-39E45F97C573</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>1</integer>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>82</real>
+	<real>137</real>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -429,8 +429,8 @@
 		<string>gcommaaccent.ss01</string>
 		<string>gdotaccent.ss01</string>
 		<string>f_f</string>
-		<string>uniFB01</string>
-		<string>uniFB02</string>
+		<string>fi</string>
+		<string>fl</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>Delta</string>
@@ -443,6 +443,7 @@
 		<string>uni0906</string>
 		<string>uni0907</string>
 		<string>uni0908</string>
+		<string>uni09080902</string>
 		<string>uni0909</string>
 		<string>uni090A</string>
 		<string>uni090B</string>
@@ -464,31 +465,51 @@
 		<string>uni0977</string>
 		<string>uni093E</string>
 		<string>uni093F</string>
+		<string>uni093F0901</string>
 		<string>uni093F0930094D</string>
+		<string>uni093F0930094D0901</string>
 		<string>uni093F0930094D0902</string>
 		<string>uni0940</string>
-		<string>uni09400930094D</string>
-		<string>uni09400930094D0902</string>
+		<string>uni09400901</string>
 		<string>uni09400902</string>
+		<string>uni09400930094D</string>
+		<string>uni09400930094D0901</string>
+		<string>uni09400930094D0902</string>
 		<string>uni0949</string>
+		<string>uni09490902</string>
+		<string>uni09490930094D</string>
+		<string>uni09490930094D0902</string>
 		<string>uni094A</string>
+		<string>uni094A0901</string>
+		<string>uni094A0902</string>
+		<string>uni094A0930094D</string>
+		<string>uni094A0930094D0901</string>
+		<string>uni094A0930094D0902</string>
 		<string>uni094B</string>
+		<string>uni094B0901</string>
 		<string>uni094B0902</string>
 		<string>uni094B0930094D</string>
+		<string>uni094B0930094D0901</string>
 		<string>uni094B0930094D0902</string>
 		<string>uni094C</string>
+		<string>uni094C0901</string>
 		<string>uni094C0902</string>
-		<string>uni094C0930094D0902</string>
 		<string>uni094C0930094D</string>
+		<string>uni094C0930094D0901</string>
+		<string>uni094C0930094D0902</string>
 		<string>uni094E</string>
 		<string>uni093B</string>
 		<string>uni094F</string>
 		<string>uni0940.0</string>
-		<string>uni09400930094D.0</string>
-		<string>uni09400930094D0902.0</string>
+		<string>uni09400901.0</string>
 		<string>uni09400902.0</string>
+		<string>uni09400930094D.0</string>
+		<string>uni09400930094D0901.0</string>
+		<string>uni09400930094D0902.0</string>
 		<string>uni093F.00</string>
+		<string>uni093F0901.00</string>
 		<string>uni093F0930094D.00</string>
+		<string>uni093F0930094D0901.00</string>
 		<string>uni093F0930094D0902.00</string>
 		<string>uni093F.01</string>
 		<string>uni093F.02</string>
@@ -517,6 +538,33 @@
 		<string>uni093F.25</string>
 		<string>uni093F.26</string>
 		<string>uni093F.27</string>
+		<string>uni093F0901.01</string>
+		<string>uni093F0901.02</string>
+		<string>uni093F0901.03</string>
+		<string>uni093F0901.04</string>
+		<string>uni093F0901.05</string>
+		<string>uni093F0901.06</string>
+		<string>uni093F0901.07</string>
+		<string>uni093F0901.08</string>
+		<string>uni093F0901.09</string>
+		<string>uni093F0901.10</string>
+		<string>uni093F0901.11</string>
+		<string>uni093F0901.12</string>
+		<string>uni093F0901.13</string>
+		<string>uni093F0901.14</string>
+		<string>uni093F0901.15</string>
+		<string>uni093F0901.16</string>
+		<string>uni093F0901.17</string>
+		<string>uni093F0901.18</string>
+		<string>uni093F0901.19</string>
+		<string>uni093F0901.20</string>
+		<string>uni093F0901.21</string>
+		<string>uni093F0901.22</string>
+		<string>uni093F0901.23</string>
+		<string>uni093F0901.24</string>
+		<string>uni093F0901.25</string>
+		<string>uni093F0901.26</string>
+		<string>uni093F0901.27</string>
 		<string>uni093F0930094D.01</string>
 		<string>uni093F0930094D.02</string>
 		<string>uni093F0930094D.03</string>
@@ -544,6 +592,33 @@
 		<string>uni093F0930094D.25</string>
 		<string>uni093F0930094D.26</string>
 		<string>uni093F0930094D.27</string>
+		<string>uni093F0930094D0901.01</string>
+		<string>uni093F0930094D0901.02</string>
+		<string>uni093F0930094D0901.03</string>
+		<string>uni093F0930094D0901.04</string>
+		<string>uni093F0930094D0901.05</string>
+		<string>uni093F0930094D0901.06</string>
+		<string>uni093F0930094D0901.07</string>
+		<string>uni093F0930094D0901.08</string>
+		<string>uni093F0930094D0901.09</string>
+		<string>uni093F0930094D0901.10</string>
+		<string>uni093F0930094D0901.11</string>
+		<string>uni093F0930094D0901.12</string>
+		<string>uni093F0930094D0901.13</string>
+		<string>uni093F0930094D0901.14</string>
+		<string>uni093F0930094D0901.15</string>
+		<string>uni093F0930094D0901.16</string>
+		<string>uni093F0930094D0901.17</string>
+		<string>uni093F0930094D0901.18</string>
+		<string>uni093F0930094D0901.19</string>
+		<string>uni093F0930094D0901.20</string>
+		<string>uni093F0930094D0901.21</string>
+		<string>uni093F0930094D0901.22</string>
+		<string>uni093F0930094D0901.23</string>
+		<string>uni093F0930094D0901.24</string>
+		<string>uni093F0930094D0901.25</string>
+		<string>uni093F0930094D0901.26</string>
+		<string>uni093F0930094D0901.27</string>
 		<string>uni093F0930094D0902.01</string>
 		<string>uni093F0930094D0902.02</string>
 		<string>uni093F0930094D0902.03</string>
@@ -584,7 +659,7 @@
 		<string>uni091F</string>
 		<string>uni0920</string>
 		<string>uni0921</string>
-		<string>dda-deva.MAW</string>
+		<string>uni0978</string>
 		<string>uni0922</string>
 		<string>uni0923</string>
 		<string>uni0924</string>
@@ -792,26 +867,6 @@
 		<string>uni0939094D0930</string>
 		<string>uni0939094D0932</string>
 		<string>uni0939094D0935</string>
-		<string>uni093F0901</string>
-		<string>uni093F0930094D0901</string>
-		<string>uni09400901</string>
-		<string>uni09400930094D0901</string>
-		<string>uni09490902</string>
-		<string>uni09490930094D</string>
-		<string>uni09490930094D0902</string>
-		<string>uni094A0901</string>
-		<string>uni094A0902</string>
-		<string>uni094A0930094D</string>
-		<string>uni094A0930094D0901</string>
-		<string>uni094A0930094D0902</string>
-		<string>uni094B0901</string>
-		<string>uni094B0930094D0901</string>
-		<string>uni094C0901</string>
-		<string>uni094C0930094D0901</string>
-		<string>uni09400901.0</string>
-		<string>uni09400930094D0901.0</string>
-		<string>uni093F0901.00</string>
-		<string>uni093F0930094D0901.00</string>
 		<string>uni0915094D0072.001</string>
 		<string>uni092B094D0072.001</string>
 		<string>uni0915094D0072.002</string>
@@ -822,60 +877,6 @@
 		<string>uni092B094D0072.004</string>
 		<string>uni0915094D0072.005</string>
 		<string>uni092B094D0072.005</string>
-		<string>uni093F0901.01</string>
-		<string>uni093F0901.02</string>
-		<string>uni093F0901.03</string>
-		<string>uni093F0901.04</string>
-		<string>uni093F0901.05</string>
-		<string>uni093F0901.06</string>
-		<string>uni093F0901.07</string>
-		<string>uni093F0901.08</string>
-		<string>uni093F0901.09</string>
-		<string>uni093F0901.10</string>
-		<string>uni093F0901.11</string>
-		<string>uni093F0901.12</string>
-		<string>uni093F0901.13</string>
-		<string>uni093F0901.14</string>
-		<string>uni093F0901.15</string>
-		<string>uni093F0901.16</string>
-		<string>uni093F0901.17</string>
-		<string>uni093F0901.18</string>
-		<string>uni093F0901.19</string>
-		<string>uni093F0901.20</string>
-		<string>uni093F0901.21</string>
-		<string>uni093F0901.22</string>
-		<string>uni093F0901.23</string>
-		<string>uni093F0901.24</string>
-		<string>uni093F0901.25</string>
-		<string>uni093F0901.26</string>
-		<string>uni093F0901.27</string>
-		<string>uni093F0930094D0901.01</string>
-		<string>uni093F0930094D0901.02</string>
-		<string>uni093F0930094D0901.03</string>
-		<string>uni093F0930094D0901.04</string>
-		<string>uni093F0930094D0901.05</string>
-		<string>uni093F0930094D0901.06</string>
-		<string>uni093F0930094D0901.07</string>
-		<string>uni093F0930094D0901.08</string>
-		<string>uni093F0930094D0901.09</string>
-		<string>uni093F0930094D0901.10</string>
-		<string>uni093F0930094D0901.11</string>
-		<string>uni093F0930094D0901.12</string>
-		<string>uni093F0930094D0901.13</string>
-		<string>uni093F0930094D0901.14</string>
-		<string>uni093F0930094D0901.15</string>
-		<string>uni093F0930094D0901.16</string>
-		<string>uni093F0930094D0901.17</string>
-		<string>uni093F0930094D0901.18</string>
-		<string>uni093F0930094D0901.19</string>
-		<string>uni093F0930094D0901.20</string>
-		<string>uni093F0930094D0901.21</string>
-		<string>uni093F0930094D0901.22</string>
-		<string>uni093F0930094D0901.23</string>
-		<string>uni093F0930094D0901.24</string>
-		<string>uni093F0930094D0901.25</string>
-		<string>uni093F0930094D0901.26</string>
-		<string>uni093F0930094D0901.27</string>
 		<string>uni0915094D0932.loclMAR</string>
 		<string>uni091A094D0932.loclMAR</string>
 		<string>uni091B094D0932.loclMAR</string>
@@ -1098,6 +1099,25 @@
 		<string>uni0950</string>
 		<string>uniA8F8</string>
 		<string>uniA8F9</string>
+		<string>acutecomb</string>
+		<string>uni0306</string>
+		<string>uni030C</string>
+		<string>uni0327</string>
+		<string>uni0302</string>
+		<string>uni0326</string>
+		<string>uni0308</string>
+		<string>uni0307</string>
+		<string>dotbelowcomb</string>
+		<string>gravecomb</string>
+		<string>hookabovecomb</string>
+		<string>uni030B</string>
+		<string>uni0304</string>
+		<string>uni030A</string>
+		<string>tildecomb</string>
+		<string>uni031B</string>
+		<string>hookabovecomb.alt</string>
+		<string>uni02BC</string>
+		<string>uni02C9</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -1119,32 +1139,6 @@
 		<string>grave.alt</string>
 		<string>tilde.alt</string>
 		<string>circumflex.alt2</string>
-		<string>acutecomb</string>
-		<string>uni0306</string>
-		<string>uni030C</string>
-		<string>uni0327</string>
-		<string>uni0302</string>
-		<string>uni0326</string>
-		<string>uni0308</string>
-		<string>uni0307</string>
-		<string>dotbelowcomb</string>
-		<string>gravecomb</string>
-		<string>hookabovecomb</string>
-		<string>uni030B</string>
-		<string>uni0304</string>
-		<string>uni030A</string>
-		<string>tildecomb</string>
-		<string>uni031B</string>
-		<string>hookabovecomb.alt</string>
-		<string>uni02BC</string>
-		<string>uni02C9</string>
-		<string>uni0903</string>
-		<string>uniA8F2</string>
-		<string>uniA8F3</string>
-		<string>uniA8F4</string>
-		<string>uniA8F5</string>
-		<string>uniA8F6</string>
-		<string>uniA8F7</string>
 		<string>uni0941</string>
 		<string>uni0942</string>
 		<string>uni0943</string>
@@ -1225,6 +1219,13 @@
 		<string>uni0930094D0901.imatra</string>
 		<string>uni0930094D0902.imatra</string>
 		<string>uni0946.pre</string>
+		<string>uni0903</string>
+		<string>uniA8F2</string>
+		<string>uniA8F3</string>
+		<string>uniA8F4</string>
+		<string>uniA8F5</string>
+		<string>uniA8F6</string>
+		<string>uniA8F7</string>
 		<string>r-deva.loclMAR</string>
 		<string>NULL</string>
 		<string>baraccent</string>

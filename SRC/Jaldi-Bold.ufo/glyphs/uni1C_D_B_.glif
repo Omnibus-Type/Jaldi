@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1CDB" format="1">
-  <advance width="687"/>
+  <advance width="1155"/>
   <unicode hex="1CDB"/>
   <outline>
-    <component base="uni0951" xOffset="442" xScale="0.9"/>
-    <component base="uni0951" xOffset="230" xScale="0.9"/>
-    <component base="uni0951" xOffset="19" xScale="0.9"/>
+    <component base="uni0951" xOffset="743.064" xScale="0.9"/>
+    <component base="uni0951" xOffset="387.531" xScale="0.9"/>
+    <component base="uni0951" xOffset="31.998" xScale="0.9"/>
     <contour>
-      <point x="559" y="740" type="move" name="_top"/>
+      <point x="940" y="1244" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

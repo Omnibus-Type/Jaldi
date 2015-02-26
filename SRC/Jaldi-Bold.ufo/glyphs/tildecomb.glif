@@ -3,12 +3,12 @@
   <advance width="0"/>
   <unicode hex="0303"/>
   <outline>
-    <component base="tilde" xOffset="-200"/>
+    <component base="tilde" xOffset="-335.979"/>
     <contour>
-      <point x="-13" y="740" type="move" name="top"/>
+      <point x="-22" y="1244" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="-8" y="552" type="move" name="_top"/>
+      <point x="-13" y="930" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

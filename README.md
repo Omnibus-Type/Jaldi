@@ -57,6 +57,11 @@ This information should be distributed along with the Jaldi fonts and any deriva
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**25 February 2015 (Jaldi v.1.2) Omnibus-Type**
+- Fixed issue with nukta next to halant
+- Matched size of the Devanagari letters with Ek Mukta
+- Improved conections between iMatras with reph and the stem of the last consonant in a cluster
+
 **27 January 2015 (Jaldi v.1.1) Omnibus-Type**
 - Removed Reserve Font Name from the license
 - fsType Installable mode

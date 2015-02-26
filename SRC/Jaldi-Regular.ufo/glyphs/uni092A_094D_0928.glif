@@ -1,36 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni092A094D0928" format="1">
-  <advance width="687"/>
+  <advance width="1155"/>
   <outline>
     <contour>
-      <point x="194" y="-13"/>
-      <point x="216" y="4"/>
-      <point x="216" y="32" type="curve" smooth="yes"/>
-      <point x="216" y="43"/>
-      <point x="212" y="55"/>
-      <point x="206" y="67" type="curve" smooth="yes"/>
-      <point x="163" y="148" type="line"/>
-      <point x="85" y="106" type="line"/>
-      <point x="102" y="75" type="line"/>
-      <point x="405" y="238" type="line"/>
-      <point x="368" y="296" type="line"/>
-      <point x="69" y="137" type="line" smooth="yes"/>
-      <point x="46" y="126"/>
-      <point x="30" y="108"/>
-      <point x="30" y="85" type="curve" smooth="yes"/>
-      <point x="30" y="33"/>
-      <point x="108" y="-13"/>
-      <point x="163" y="-13" type="curve" smooth="yes"/>
+      <point x="329" y="-22"/>
+      <point x="365" y="7"/>
+      <point x="365" y="53" type="curve" smooth="yes"/>
+      <point x="365" y="73"/>
+      <point x="358" y="91"/>
+      <point x="347" y="112" type="curve" smooth="yes"/>
+      <point x="274" y="247" type="line"/>
+      <point x="145" y="178" type="line"/>
+      <point x="172" y="126" type="line"/>
+      <point x="683" y="401" type="line"/>
+      <point x="621" y="498" type="line"/>
+      <point x="116" y="232" type="line" smooth="yes"/>
+      <point x="79" y="212"/>
+      <point x="51" y="181"/>
+      <point x="51" y="143" type="curve" smooth="yes"/>
+      <point x="51" y="56"/>
+      <point x="185" y="-22"/>
+      <point x="274" y="-22" type="curve" smooth="yes"/>
     </contour>
     <component base="uni092A"/>
     <contour>
-      <point x="110" y="-13" type="move" name="nukta"/>
+      <point x="186" y="-22" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="510" y="0" type="move" name="bottom"/>
+      <point x="858" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="510" y="740" type="move" name="top"/>
+      <point x="858" y="1244" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <real>4.0</real>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>pa-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>pa-deva</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni093F.09" format="1">
-  <advance width="306"/>
+  <advance width="515"/>
   <outline>
     <contour>
-      <point x="1237" y="755" type="line"/>
-      <point x="864" y="1011"/>
-      <point x="557" y="1109"/>
-      <point x="370" y="1109" type="curve" smooth="yes"/>
-      <point x="188" y="1109"/>
-      <point x="69" y="1016"/>
-      <point x="69" y="867" type="curve" smooth="yes"/>
-      <point x="69" y="811"/>
-      <point x="85" y="746"/>
-      <point x="116" y="687" type="curve"/>
-      <point x="223" y="739" type="line"/>
-      <point x="205" y="774"/>
-      <point x="198" y="817"/>
-      <point x="198" y="845" type="curve" smooth="yes"/>
-      <point x="198" y="937"/>
-      <point x="273" y="989"/>
-      <point x="395" y="989" type="curve" smooth="yes"/>
-      <point x="552" y="989"/>
-      <point x="830" y="902"/>
-      <point x="1173" y="671" type="curve"/>
+      <point x="2081" y="1271" type="line"/>
+      <point x="1454" y="1701"/>
+      <point x="937" y="1865"/>
+      <point x="623" y="1865" type="curve" smooth="yes"/>
+      <point x="318" y="1865"/>
+      <point x="116" y="1708"/>
+      <point x="116" y="1458" type="curve" smooth="yes"/>
+      <point x="116" y="1364"/>
+      <point x="144" y="1256"/>
+      <point x="196" y="1155" type="curve"/>
+      <point x="375" y="1241" type="line"/>
+      <point x="345" y="1303"/>
+      <point x="334" y="1377"/>
+      <point x="334" y="1421" type="curve" smooth="yes"/>
+      <point x="334" y="1577"/>
+      <point x="461" y="1666"/>
+      <point x="665" y="1666" type="curve" smooth="yes"/>
+      <point x="928" y="1666"/>
+      <point x="1399" y="1519"/>
+      <point x="1973" y="1130" type="curve"/>
     </contour>
     <component base="uni093E"/>
     <contour>
-      <point x="1236" y="740" type="move" name="imatra"/>
+      <point x="2078" y="1244" type="move" name="imatra"/>
     </contour>
   </outline>
 </glyph>

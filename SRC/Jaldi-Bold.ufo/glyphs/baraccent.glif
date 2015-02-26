@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="baraccent" format="1">
-  <advance width="335"/>
+  <advance width="563"/>
   <outline>
-    <component base="macron" yOffset="-345"/>
+    <component base="macron" yOffset="-581.296"/>
     <contour>
-      <point x="173" y="335" type="move" name="_center"/>
+      <point x="292" y="563" type="move" name="_center"/>
     </contour>
   </outline>
 </glyph>

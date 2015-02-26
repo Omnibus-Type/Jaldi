@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright-deva" format="1">
-  <advance width="319"/>
+  <advance width="536"/>
   <outline>
-    <component base="parenright" xOffset="26" yOffset="71" yScale="1.04"/>
+    <component base="parenright" xOffset="44.442" yOffset="119.103" yScale="1.04"/>
   </outline>
 </glyph>

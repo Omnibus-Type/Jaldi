@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tilde" format="1">
-  <advance width="385"/>
+  <advance width="649"/>
   <unicode hex="02DC"/>
   <outline>
-    <component base="tilde.alt" xOffset="-10" xScale="1.1"/>
+    <component base="tilde.alt" xOffset="-15.999" xScale="1.1"/>
     <contour>
-      <point x="194" y="552" type="move" name="_top"/>
+      <point x="326" y="930" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="191" y="657" type="move" name="_tilde"/>
+      <point x="320" y="1104" type="move" name="_tilde"/>
     </contour>
   </outline>
 </glyph>

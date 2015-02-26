@@ -5,13 +5,13 @@
 	<key>Make morx table</key>
 	<true/>
 	<key>ascender</key>
-	<integer>1396</integer>
+	<integer>2349</integer>
 	<key>capHeight</key>
-	<integer>739</integer>
+	<integer>1243</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)</string>
+	<string>Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'</string>
 	<key>descender</key>
-	<integer>-652</integer>
+	<integer>-1094</integer>
 	<key>description</key>
 	<string>Jaldi is the devanagari version of Asap
 wich is based on Ancha (designed by Pablo Cosgaya &amp; Hector Gatti). This family
@@ -22,9 +22,10 @@ which helps retain the same length on all text lines. </string>
 	<string>Jaldi</string>
 	<key>fsType</key>
 	<array>
+		<integer>3</integer>
 	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2015/01/06 08:14:07</string>
+	<string>2015/02/25 17:22:08</string>
 	<key>openTypeNameDescription</key>
 	<string>Jaldi is the devanagari version of Asap
 wich is based on Ancha (designed by Pablo Cosgaya &amp; Hector Gatti). This family
@@ -53,46 +54,46 @@ which helps retain the same length on all text lines. </string>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-8</integer>
+		<integer>-16</integer>
 		<integer>0</integer>
-		<integer>553</integer>
-		<integer>561</integer>
-		<integer>739</integer>
-		<integer>747</integer>
-		<integer>793</integer>
-		<integer>801</integer>
+		<integer>930</integer>
+		<integer>944</integer>
+		<integer>1245</integer>
+		<integer>1259</integer>
+		<integer>1337</integer>
+		<integer>1351</integer>
 	</array>
 	<key>postscriptFamilyBlues</key>
 	<array>
-		<integer>-9</integer>
+		<integer>-8</integer>
 		<integer>0</integer>
-		<integer>553</integer>
-		<integer>562</integer>
-		<integer>739</integer>
-		<integer>748</integer>
+		<integer>454</integer>
+		<integer>462</integer>
+		<integer>607</integer>
+		<integer>615</integer>
 	</array>
 	<key>postscriptFamilyOtherBlues</key>
 	<array>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-248</integer>
-		<integer>-240</integer>
-		<integer>-223</integer>
-		<integer>-219</integer>
+		<integer>-420</integer>
+		<integer>-406</integer>
+		<integer>-377</integer>
+		<integer>-371</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>69</integer>
-		<integer>78</integer>
-		<integer>73</integer>
+		<integer>119</integer>
+		<integer>135</integer>
+		<integer>127</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>82</integer>
-		<integer>88</integer>
-		<integer>92</integer>
-		<integer>94</integer>
+		<integer>137</integer>
+		<integer>149</integer>
+		<integer>155</integer>
+		<integer>162</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
@@ -107,8 +108,8 @@ which helps retain the same length on all text lines. </string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
-	<integer>553</integer>
+	<integer>930</integer>
 </dict>
 </plist>

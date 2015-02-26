@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0932094D.loclMAR" format="1">
-  <advance width="967"/>
+  <advance width="1626"/>
   <outline>
     <component base="uni0932.loclMAR"/>
-    <component base="uni094D" xOffset="367"/>
+    <component base="uni094D" xOffset="620"/>
   </outline>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni094A" format="1">
-  <advance width="306"/>
+  <advance width="515"/>
   <unicode hex="094A"/>
   <outline>
     <component base="uni093E"/>
-    <component base="uni0946" xOffset="-375"/>
+    <component base="uni0946" xOffset="-629"/>
     <contour>
-      <point x="130" y="0" type="move" name="bottom"/>
+      <point x="219" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="102" y="924" type="move" name="candrabindu"/>
+      <point x="171" y="1554" type="move" name="candrabindu"/>
     </contour>
   </outline>
 </glyph>

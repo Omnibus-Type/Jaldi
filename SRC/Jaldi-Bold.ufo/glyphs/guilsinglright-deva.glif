@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright-deva" format="1">
-  <advance width="318"/>
+  <advance width="534"/>
   <outline>
-    <component base="guilsinglright" yOffset="85"/>
+    <component base="guilsinglright" yOffset="142.213"/>
   </outline>
 </glyph>

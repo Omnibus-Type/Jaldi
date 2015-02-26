@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni09400930094D0901.0" format="1">
-  <advance width="306"/>
+  <advance width="515"/>
   <outline>
     <component base="uni0940.0"/>
-    <component base="uni0930094D0901.imatra" xOffset="-3" yOffset="17"/>
+    <component base="uni0930094D0901.imatra" xOffset="-13" yOffset="46"/>
     <contour>
-      <point x="130" y="0" type="move" name="bottom"/>
+      <point x="219" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>iiMatra-deva.0</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>iiMatra-deva.0</string>
+    </dict>
+  </lib>
 </glyph>

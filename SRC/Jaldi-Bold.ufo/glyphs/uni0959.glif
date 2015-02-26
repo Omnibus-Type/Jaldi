@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0959" format="1">
-  <advance width="989"/>
+  <advance width="1666"/>
   <unicode hex="0959"/>
   <outline>
     <component base="uni0916"/>
-    <component base="uni093C" xOffset="68" yOffset="56"/>
+    <component base="uni093C" xOffset="116" yOffset="94"/>
     <contour>
-      <point x="829" y="0" type="move" name="rakar"/>
+      <point x="1394" y="0" type="move" name="rakar"/>
     </contour>
     <contour>
-      <point x="831" y="0" type="move" name="bottom"/>
+      <point x="1397" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="831" y="740" type="move" name="top"/>
+      <point x="1397" y="1244" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <real>4.0</real>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

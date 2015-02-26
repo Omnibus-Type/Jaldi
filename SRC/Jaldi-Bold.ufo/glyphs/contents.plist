@@ -434,8 +434,6 @@
 	<string>dcaron.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
-	<key>dda-deva.MAW</key>
-	<string>dda-deva.M_A_W_.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
 	<key>dieresis</key>
@@ -498,8 +496,12 @@
 	<string>f.glif</string>
 	<key>f_f</key>
 	<string>f_f.glif</string>
+	<key>fi</key>
+	<string>fi.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
+	<key>fl</key>
+	<string>fl.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>four</key>
@@ -970,6 +972,8 @@
 	<string>uni0907.glif</string>
 	<key>uni0908</key>
 	<string>uni0908.glif</string>
+	<key>uni09080902</key>
+	<string>uni09080902.glif</string>
 	<key>uni0909</key>
 	<string>uni0909.glif</string>
 	<key>uni090A</key>
@@ -2120,6 +2124,8 @@
 	<string>uni0976.glif</string>
 	<key>uni0977</key>
 	<string>uni0977.glif</string>
+	<key>uni0978</key>
+	<string>uni0978.glif</string>
 	<key>uni0979</key>
 	<string>uni0979.glif</string>
 	<key>uni0979.loclNEP</key>
@@ -2450,10 +2456,6 @@
 	<string>uniA_8F_A_.glif</string>
 	<key>uniA8FB</key>
 	<string>uniA_8F_B_.glif</string>
-	<key>uniFB01</key>
-	<string>uniF_B_01.glif</string>
-	<key>uniFB02</key>
-	<string>uniF_B_02.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
 	<key>uring</key>

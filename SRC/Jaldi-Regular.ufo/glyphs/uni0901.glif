@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0901" format="1">
-  <advance width="465"/>
+  <advance width="783"/>
   <unicode hex="0901"/>
   <outline>
     <contour>
-      <point x="297" y="852"/>
-      <point x="359" y="873"/>
-      <point x="410" y="909" type="curve" smooth="yes"/>
-      <point x="416" y="913"/>
-      <point x="420" y="919"/>
-      <point x="420" y="924" type="curve" smooth="yes"/>
-      <point x="420" y="930"/>
-      <point x="417" y="934"/>
-      <point x="413" y="940" type="curve" smooth="yes"/>
-      <point x="399" y="960" type="line" smooth="yes"/>
-      <point x="393" y="966"/>
-      <point x="386" y="969"/>
-      <point x="381" y="969" type="curve" smooth="yes"/>
-      <point x="375" y="969"/>
-      <point x="371" y="967"/>
-      <point x="365" y="964" type="curve" smooth="yes"/>
-      <point x="327" y="934"/>
-      <point x="279" y="920"/>
-      <point x="232" y="920" type="curve" smooth="yes"/>
-      <point x="184" y="920"/>
-      <point x="136" y="934"/>
-      <point x="98" y="964" type="curve" smooth="yes"/>
-      <point x="92" y="967"/>
-      <point x="87" y="969"/>
-      <point x="83" y="969" type="curve" smooth="yes"/>
-      <point x="76" y="969"/>
-      <point x="71" y="966"/>
-      <point x="66" y="960" type="curve" smooth="yes"/>
-      <point x="50" y="940" type="line" smooth="yes"/>
-      <point x="45" y="934"/>
-      <point x="43" y="930"/>
-      <point x="43" y="924" type="curve" smooth="yes"/>
-      <point x="43" y="918"/>
-      <point x="46" y="913"/>
-      <point x="53" y="909" type="curve" smooth="yes"/>
-      <point x="105" y="873"/>
-      <point x="166" y="852"/>
-      <point x="232" y="852" type="curve" smooth="yes"/>
+      <point x="500" y="1435"/>
+      <point x="603" y="1469"/>
+      <point x="688" y="1527" type="curve" smooth="yes"/>
+      <point x="700" y="1535"/>
+      <point x="706" y="1545"/>
+      <point x="706" y="1556" type="curve" smooth="yes"/>
+      <point x="706" y="1564"/>
+      <point x="703" y="1572"/>
+      <point x="696" y="1582" type="curve" smooth="yes"/>
+      <point x="670" y="1614" type="line" smooth="yes"/>
+      <point x="662" y="1625"/>
+      <point x="650" y="1630"/>
+      <point x="640" y="1630" type="curve" smooth="yes"/>
+      <point x="632" y="1630"/>
+      <point x="624" y="1627"/>
+      <point x="616" y="1621" type="curve" smooth="yes"/>
+      <point x="549" y="1572"/>
+      <point x="469" y="1546"/>
+      <point x="389" y="1546" type="curve" smooth="yes"/>
+      <point x="309" y="1546"/>
+      <point x="230" y="1572"/>
+      <point x="164" y="1621" type="curve" smooth="yes"/>
+      <point x="155" y="1627"/>
+      <point x="147" y="1630"/>
+      <point x="138" y="1630" type="curve" smooth="yes"/>
+      <point x="128" y="1630"/>
+      <point x="118" y="1625"/>
+      <point x="111" y="1614" type="curve" smooth="yes"/>
+      <point x="84" y="1582" type="line" smooth="yes"/>
+      <point x="77" y="1572"/>
+      <point x="73" y="1564"/>
+      <point x="73" y="1555" type="curve" smooth="yes"/>
+      <point x="73" y="1544"/>
+      <point x="78" y="1535"/>
+      <point x="89" y="1527" type="curve" smooth="yes"/>
+      <point x="176" y="1469"/>
+      <point x="280" y="1435"/>
+      <point x="389" y="1435" type="curve" smooth="yes"/>
     </contour>
-    <component base="uni0902" xOffset="99" yOffset="110"/>
+    <component base="uni0902" xOffset="167.100" yOffset="184.877"/>
     <contour>
-      <point x="244" y="724" type="move" name="_imatra"/>
-    </contour>
-    <contour>
-      <point x="232" y="740" type="move" name="_top"/>
+      <point x="411" y="1220" type="move" name="_imatra"/>
     </contour>
     <contour>
-      <point x="43" y="924" type="move" name="_candrabindu"/>
+      <point x="389" y="1244" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="-128" y="767" type="move" name="_iimatra"/>
+      <point x="73" y="1554" type="move" name="_candrabindu"/>
+    </contour>
+    <contour>
+      <point x="-215" y="1290" type="move" name="_iimatra"/>
     </contour>
   </outline>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni095B" format="1">
-  <advance width="783"/>
+  <advance width="1316"/>
   <unicode hex="095B"/>
   <outline>
     <component base="uni091C"/>
-    <component base="uni093C" xOffset="-8" yOffset="67"/>
+    <component base="uni093C" xOffset="-14" yOffset="112"/>
     <contour>
-      <point x="629" y="0" type="move" name="rakar"/>
+      <point x="1060" y="0" type="move" name="rakar"/>
     </contour>
     <contour>
-      <point x="633" y="0" type="move" name="bottom"/>
+      <point x="1065" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="633" y="740" type="move" name="top"/>
+      <point x="1065" y="1244" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

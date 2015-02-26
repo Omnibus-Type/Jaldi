@@ -1,26 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni097A" format="1">
-  <advance width="748"/>
+  <advance width="1257"/>
   <unicode hex="097A"/>
   <outline>
     <contour>
-      <point x="542" y="288" type="line"/>
-      <point x="257" y="706" type="line"/>
-      <point x="203" y="671" type="line"/>
-      <point x="489" y="254" type="line"/>
+      <point x="913" y="484" type="line"/>
+      <point x="434" y="1186" type="line"/>
+      <point x="341" y="1129" type="line"/>
+      <point x="821" y="427" type="line"/>
     </contour>
     <component base="uni092F"/>
     <contour>
-      <point x="214" y="109" type="move" name="nukta"/>
+      <point x="361" y="184" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="571" y="732" type="move" name="top"/>
+      <point x="960" y="1232" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="572" y="0" type="move" name="rakar"/>
+      <point x="962" y="0" type="move" name="rakar"/>
     </contour>
     <contour>
-      <point x="571" y="0" type="move" name="bottom"/>
+      <point x="960" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <real>0.0</real>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehalf-deva" format="1">
-  <advance width="952"/>
+  <advance width="1600"/>
   <outline>
     <contour>
-      <point x="220" y="-2" type="line" smooth="yes"/>
-      <point x="234" y="-2"/>
-      <point x="243" y="3"/>
-      <point x="252" y="16" type="curve" smooth="yes"/>
-      <point x="680" y="724" type="line" smooth="yes"/>
-      <point x="682" y="729"/>
-      <point x="685" y="732"/>
-      <point x="685" y="735" type="curve" smooth="yes"/>
-      <point x="685" y="741"/>
-      <point x="679" y="743"/>
-      <point x="669" y="743" type="curve" smooth="yes"/>
-      <point x="656" y="743" type="line" smooth="yes"/>
-      <point x="642" y="743"/>
-      <point x="632" y="739"/>
-      <point x="624" y="724" type="curve" smooth="yes"/>
-      <point x="194" y="16" type="line" smooth="yes"/>
-      <point x="192" y="12"/>
-      <point x="191" y="8"/>
-      <point x="191" y="6" type="curve" smooth="yes"/>
-      <point x="191" y="0"/>
-      <point x="196" y="-2"/>
-      <point x="206" y="-2" type="curve" smooth="yes"/>
+      <point x="370" y="-3" type="line" smooth="yes"/>
+      <point x="394" y="-3"/>
+      <point x="411" y="5"/>
+      <point x="423" y="27" type="curve" smooth="yes"/>
+      <point x="1145" y="1220" type="line" smooth="yes"/>
+      <point x="1148" y="1227"/>
+      <point x="1152" y="1232"/>
+      <point x="1152" y="1237" type="curve" smooth="yes"/>
+      <point x="1152" y="1246"/>
+      <point x="1143" y="1250"/>
+      <point x="1128" y="1250" type="curve" smooth="yes"/>
+      <point x="1104" y="1250" type="line" smooth="yes"/>
+      <point x="1080" y="1250"/>
+      <point x="1063" y="1241"/>
+      <point x="1051" y="1220" type="curve" smooth="yes"/>
+      <point x="329" y="27" type="line" smooth="yes"/>
+      <point x="324" y="20"/>
+      <point x="322" y="13"/>
+      <point x="322" y="9" type="curve" smooth="yes"/>
+      <point x="322" y="0"/>
+      <point x="331" y="-3"/>
+      <point x="347" y="-3" type="curve" smooth="yes"/>
     </contour>
-    <component base="uni0968" xOffset="524" xScale="0.59" yScale="0.59"/>
-    <component base="uni0967" xOffset="54" yOffset="312" xScale="0.59" yScale="0.59"/>
+    <component base="uni0968" xOffset="881.721" xScale="0.59" yScale="0.59"/>
+    <component base="uni0967" xOffset="90.661" yOffset="524.411" xScale="0.59" yScale="0.59"/>
   </outline>
 </glyph>

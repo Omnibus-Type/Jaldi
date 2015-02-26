@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash-deva" format="1">
-  <advance width="529"/>
+  <advance width="889"/>
   <outline>
-    <component base="endash" yOffset="63"/>
+    <component base="endash" yOffset="106.660"/>
   </outline>
 </glyph>

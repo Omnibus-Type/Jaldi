@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="three-per-emspace" format="1">
-  <advance width="351"/>
+<glyph name="uni2004" format="1">
+  <advance width="592"/>
   <unicode hex="2004"/>
   <outline>
   </outline>

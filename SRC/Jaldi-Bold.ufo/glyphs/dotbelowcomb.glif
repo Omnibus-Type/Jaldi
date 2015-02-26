@@ -3,12 +3,12 @@
   <advance width="0"/>
   <unicode hex="0323"/>
   <outline>
-    <component base="dotaccent" xOffset="-166" yOffset="-826"/>
+    <component base="dotaccent" xOffset="-279.093" yOffset="-1390.133"/>
     <contour>
-      <point x="3" y="0" type="move" name="_bottom"/>
+      <point x="5" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="7" y="-214" type="move" name="bottom"/>
+      <point x="10" y="-361" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0937" format="1">
-  <advance width="687"/>
+  <advance width="1155"/>
   <unicode hex="0937"/>
   <outline>
     <contour>
-      <point x="515" y="367" type="line"/>
-      <point x="156" y="722" type="line"/>
-      <point x="108" y="679" type="line"/>
-      <point x="467" y="323" type="line"/>
+      <point x="866" y="617" type="line"/>
+      <point x="263" y="1216" type="line"/>
+      <point x="184" y="1143" type="line"/>
+      <point x="786" y="544" type="line"/>
     </contour>
     <component base="uni092A"/>
     <contour>
-      <point x="172" y="109" type="move" name="nukta"/>
+      <point x="290" y="184" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="510" y="0" type="move" name="bottom"/>
+      <point x="858" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="510" y="740" type="move" name="top"/>
+      <point x="858" y="1244" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

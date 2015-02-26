@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="baraccentlong" format="1">
-  <advance width="547"/>
+  <advance width="920"/>
   <outline>
     <contour>
-      <point x="598" y="286" type="line" smooth="yes"/>
-      <point x="621" y="286"/>
-      <point x="629" y="298"/>
-      <point x="629" y="328" type="curve" smooth="yes"/>
-      <point x="629" y="343" type="line" smooth="yes"/>
-      <point x="629" y="373"/>
-      <point x="621" y="385"/>
-      <point x="598" y="385" type="curve" smooth="yes"/>
-      <point x="-52" y="385" type="line" smooth="yes"/>
-      <point x="-74" y="385"/>
-      <point x="-84" y="373"/>
-      <point x="-84" y="343" type="curve" smooth="yes"/>
-      <point x="-84" y="328" type="line" smooth="yes"/>
-      <point x="-84" y="298"/>
-      <point x="-74" y="286"/>
-      <point x="-52" y="286" type="curve"/>
+      <point x="1007" y="481" type="line" smooth="yes"/>
+      <point x="1044" y="481"/>
+      <point x="1060" y="502"/>
+      <point x="1060" y="551" type="curve" smooth="yes"/>
+      <point x="1060" y="578" type="line" smooth="yes"/>
+      <point x="1060" y="628"/>
+      <point x="1044" y="649"/>
+      <point x="1007" y="649" type="curve" smooth="yes"/>
+      <point x="-87" y="649" type="line" smooth="yes"/>
+      <point x="-125" y="649"/>
+      <point x="-141" y="628"/>
+      <point x="-141" y="578" type="curve" smooth="yes"/>
+      <point x="-141" y="551" type="line" smooth="yes"/>
+      <point x="-141" y="502"/>
+      <point x="-125" y="481"/>
+      <point x="-87" y="481" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="282" y="335" type="move" name="_center"/>
+      <point x="473" y="563" type="move" name="_center"/>
     </contour>
   </outline>
 </glyph>

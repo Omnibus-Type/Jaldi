@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni094B0930094D0901" format="1">
-  <advance width="306"/>
+  <advance width="515"/>
   <outline>
     <component base="uni093E"/>
-    <component base="uni09470930094D0901" xOffset="-166"/>
+    <component base="uni09470930094D0901" xOffset="-279"/>
     <contour>
-      <point x="130" y="0" type="move" name="bottom"/>
+      <point x="219" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>oMatra_reph_anusvara-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>oMatra_reph_anusvara-deva</string>
+    </dict>
+  </lib>
 </glyph>

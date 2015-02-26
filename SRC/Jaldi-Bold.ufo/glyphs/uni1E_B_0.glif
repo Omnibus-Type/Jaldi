@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EB0" format="1">
-  <advance width="647"/>
+  <advance width="1090"/>
   <unicode hex="1EB0"/>
   <outline>
     <component base="A"/>
-    <component base="breve.alt" xOffset="158" yOffset="188"/>
-    <component base="grave.alt" xOffset="99" yOffset="325"/>
+    <component base="breve.alt" xOffset="266" yOffset="314"/>
+    <component base="grave.alt" xOffset="167" yOffset="546"/>
   </outline>
 </glyph>

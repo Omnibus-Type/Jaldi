@@ -3,12 +3,12 @@
   <advance width="0"/>
   <unicode hex="030B"/>
   <outline>
-    <component base="hungarumlaut" xOffset="-201"/>
+    <component base="hungarumlaut" xOffset="-337.756"/>
     <contour>
-      <point x="-15" y="740" type="move" name="top"/>
+      <point x="-25" y="1244" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="-14" y="552" type="move" name="_top"/>
+      <point x="-24" y="930" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

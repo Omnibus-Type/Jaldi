@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni093C094D09300962" format="1">
-  <advance width="475"/>
+  <advance width="800"/>
   <outline>
-    <component base="uni094D09300962" yOffset="-150"/>
-    <component base="uni093C" xOffset="138" yOffset="61"/>
+    <component base="uni094D09300962" yOffset="-253"/>
+    <component base="uni093C" xOffset="233" yOffset="103"/>
     <contour>
-      <point x="250" y="-581" type="move" name="bottom"/>
+      <point x="420" y="-976" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="246" y="0" type="move" name="_rakar"/>
+      <point x="414" y="0" type="move" name="_rakar"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <real>4.0</real>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

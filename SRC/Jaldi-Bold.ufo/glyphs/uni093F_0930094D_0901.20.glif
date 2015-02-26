@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni093F0930094D0901.20" format="1">
-  <advance width="306"/>
+  <advance width="515"/>
   <outline>
     <component base="uni093F.20"/>
-    <component base="uni0930094D0901.imatra" xOffset="1574" yOffset="-2"/>
+    <component base="uni0930094D0901.imatra" xOffset="2648" yOffset="-5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>iMatra-deva.20</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>iMatra-deva.20</string>
+    </dict>
+  </lib>
 </glyph>
