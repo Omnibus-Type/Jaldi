@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bh-deva" format="1">
+  <advance width="832"/>
+  <outline>
+    <contour>
+      <point x="435" y="333"/>
+      <point x="457" y="379"/>
+      <point x="457" y="430" type="curve" smooth="yes"/>
+      <point x="457" y="1007" type="line" smooth="yes"/>
+      <point x="457" y="1215"/>
+      <point x="320" y="1341"/>
+      <point x="148" y="1341" type="curve" smooth="yes"/>
+      <point x="3" y="1341"/>
+      <point x="-107" y="1252"/>
+      <point x="-107" y="1111" type="curve" smooth="yes"/>
+      <point x="-107" y="918"/>
+      <point x="105" y="775"/>
+      <point x="394" y="775" type="curve"/>
+      <point x="381" y="886" type="line"/>
+      <point x="155" y="887"/>
+      <point x="31" y="990"/>
+      <point x="31" y="1099" type="curve" smooth="yes"/>
+      <point x="31" y="1172"/>
+      <point x="85" y="1222"/>
+      <point x="159" y="1222" type="curve" smooth="yes"/>
+      <point x="251" y="1222"/>
+      <point x="320" y="1143"/>
+      <point x="320" y="1027" type="curve" smooth="yes"/>
+      <point x="320" y="491" type="line"/>
+      <point x="994" y="491" type="line" smooth="yes"/>
+      <point x="1019" y="491"/>
+      <point x="1033" y="505"/>
+      <point x="1033" y="530" type="curve" smooth="yes"/>
+      <point x="1033" y="571" type="line" smooth="yes"/>
+      <point x="1033" y="596"/>
+      <point x="1019" y="610"/>
+      <point x="994" y="610" type="curve" smooth="yes"/>
+      <point x="320" y="610" type="line" smooth="yes"/>
+      <point x="222" y="610"/>
+      <point x="184" y="578"/>
+      <point x="184" y="525" type="curve" smooth="yes"/>
+      <point x="184" y="440"/>
+      <point x="290" y="333"/>
+      <point x="377" y="333" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="290" y="184" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="347" y="0" type="move" name="rakar"/>
+    </contour>
+  </outline>
+</glyph>

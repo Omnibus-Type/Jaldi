@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candraBindu-deva.imatra" format="1">
+  <advance width="783"/>
+  <outline>
+    <component base="candraBindu-deva" yOffset="362.643" xScale="0.8" yScale="0.8"/>
+    <contour>
+      <point x="317" y="1223" type="move" name="_imatra"/>
+    </contour>
+    <contour>
+      <point x="393" y="1244" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="53" y="1481" type="move" name="_candrabindu"/>
+    </contour>
+    <contour>
+      <point x="-283" y="1290" type="move" name="_iimatra"/>
+    </contour>
+  </outline>
+</glyph>

@@ -35,6 +35,6 @@
       <point x="363" y="906" type="line"/>
       <point x="993" y="-43" type="line"/>
     </contour>
-    <component base="uni0237" xOffset="789.283"/>
+    <component base="jdotless" xOffset="789.283"/>
   </outline>
 </glyph>

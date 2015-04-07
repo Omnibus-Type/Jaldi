@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k-deva" format="1">
+  <advance width="1174"/>
+  <outline>
+    <contour>
+      <point x="623" y="271"/>
+      <point x="770" y="372"/>
+      <point x="880" y="571" type="curve"/>
+      <point x="788" y="653" type="line"/>
+      <point x="688" y="471"/>
+      <point x="570" y="389"/>
+      <point x="445" y="389" type="curve" smooth="yes"/>
+      <point x="326" y="391"/>
+      <point x="213" y="468"/>
+      <point x="213" y="621" type="curve" smooth="yes"/>
+      <point x="213" y="751"/>
+      <point x="297" y="826"/>
+      <point x="413" y="826" type="curve" smooth="yes"/>
+      <point x="512" y="826"/>
+      <point x="667" y="771"/>
+      <point x="777" y="647" type="curve"/>
+      <point x="834" y="740" type="line"/>
+      <point x="711" y="884"/>
+      <point x="558" y="944"/>
+      <point x="421" y="944" type="curve" smooth="yes"/>
+      <point x="213" y="944"/>
+      <point x="73" y="816"/>
+      <point x="73" y="619" type="curve" smooth="yes"/>
+      <point x="73" y="389"/>
+      <point x="254" y="273"/>
+      <point x="448" y="271" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="959" y="696"/>
+      <point x="1085" y="795"/>
+      <point x="1213" y="795" type="curve" smooth="yes"/>
+      <point x="1250" y="795"/>
+      <point x="1285" y="786"/>
+      <point x="1314" y="768" type="curve" smooth="yes"/>
+      <point x="1323" y="763"/>
+      <point x="1331" y="759"/>
+      <point x="1340" y="759" type="curve" smooth="yes"/>
+      <point x="1350" y="759"/>
+      <point x="1359" y="764"/>
+      <point x="1367" y="777" type="curve" smooth="yes"/>
+      <point x="1394" y="811" type="line" smooth="yes"/>
+      <point x="1400" y="819"/>
+      <point x="1403" y="829"/>
+      <point x="1403" y="837" type="curve" smooth="yes"/>
+      <point x="1403" y="848"/>
+      <point x="1397" y="858"/>
+      <point x="1385" y="866" type="curve" smooth="yes"/>
+      <point x="1333" y="898"/>
+      <point x="1271" y="916"/>
+      <point x="1202" y="916" type="curve" smooth="yes"/>
+      <point x="1054" y="916"/>
+      <point x="926" y="834"/>
+      <point x="807" y="669" type="curve"/>
+      <point x="862" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="1191" y="1172" type="line" smooth="yes"/>
+      <point x="1218" y="1172"/>
+      <point x="1232" y="1186"/>
+      <point x="1232" y="1211" type="curve" smooth="yes"/>
+      <point x="1232" y="1252" type="line" smooth="yes"/>
+      <point x="1232" y="1278"/>
+      <point x="1218" y="1290"/>
+      <point x="1191" y="1290" type="curve" smooth="yes"/>
+      <point x="-18" y="1290" type="line" smooth="yes"/>
+      <point x="-44" y="1290"/>
+      <point x="-59" y="1278"/>
+      <point x="-59" y="1252" type="curve" smooth="yes"/>
+      <point x="-59" y="1211" type="line" smooth="yes"/>
+      <point x="-59" y="1186"/>
+      <point x="-44" y="1172"/>
+      <point x="-18" y="1172" type="curve" smooth="yes"/>
+    </contour>
+    <component base="stem-deva" xOffset="613.294"/>
+    <contour>
+      <point x="254" y="201" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="831" y="0" type="move" name="rakar"/>
+    </contour>
+  </outline>
+</glyph>

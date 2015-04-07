@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_r-deva.004" format="1">
+  <advance width="1174"/>
+  <outline>
+    <contour>
+      <point x="826" y="464" type="line"/>
+      <point x="752" y="536" type="line"/>
+      <point x="206" y="80" type="line" smooth="yes"/>
+      <point x="195" y="71"/>
+      <point x="191" y="61"/>
+      <point x="191" y="51" type="curve" smooth="yes"/>
+      <point x="191" y="42"/>
+      <point x="196" y="32"/>
+      <point x="205" y="24" type="curve" smooth="yes"/>
+      <point x="240" y="-10" type="line" smooth="yes"/>
+      <point x="252" y="-22"/>
+      <point x="259" y="-26"/>
+      <point x="268" y="-26" type="curve" smooth="yes"/>
+      <point x="277" y="-26"/>
+      <point x="285" y="-21"/>
+      <point x="297" y="-10" type="curve" smooth="yes"/>
+    </contour>
+    <component base="k-deva.004"/>
+    <contour>
+      <point x="184" y="0" type="move" name="nukta"/>
+    </contour>
+  </outline>
+</glyph>

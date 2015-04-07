@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dd_ya-deva" format="1">
+  <advance width="2333"/>
+  <outline>
+    <component base="dda-deva"/>
+    <component base="y-deva.post" xOffset="1147"/>
+    <contour>
+      <point x="1341" y="184" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="2036" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="2036" y="1232" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

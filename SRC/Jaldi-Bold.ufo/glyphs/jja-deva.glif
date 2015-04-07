@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jja-deva" format="1">
+  <advance width="1316"/>
+  <unicode hex="097C"/>
+  <outline>
+    <contour>
+      <point x="1102" y="-171" type="line" smooth="yes"/>
+      <point x="1140" y="-171"/>
+      <point x="1159" y="-152"/>
+      <point x="1159" y="-114" type="curve" smooth="yes"/>
+      <point x="1159" y="92" type="line"/>
+      <point x="930" y="92" type="line"/>
+      <point x="930" y="0" type="line"/>
+      <point x="146" y="0" type="line" smooth="yes"/>
+      <point x="109" y="0"/>
+      <point x="89" y="-20"/>
+      <point x="89" y="-58" type="curve" smooth="yes"/>
+      <point x="89" y="-114" type="line" smooth="yes"/>
+      <point x="89" y="-152"/>
+      <point x="109" y="-171"/>
+      <point x="146" y="-171" type="curve" smooth="yes"/>
+    </contour>
+    <component base="ja-deva"/>
+    <contour>
+      <point x="1046" y="1244" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -49,16 +49,10 @@
       <point x="63" y="1053" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="320" y="1031" type="move" name="_tilde"/>
-    </contour>
-    <contour>
       <point x="326" y="930" type="move" name="_top"/>
     </contour>
+    <contour>
+      <point x="320" y="1031" type="move" name="_tilde"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-    </dict>
-  </lib>
 </glyph>

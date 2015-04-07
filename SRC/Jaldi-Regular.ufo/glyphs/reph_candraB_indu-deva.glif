@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reph_candraBindu-deva" format="1">
+  <advance width="623"/>
+  <outline>
+    <contour>
+      <point x="290" y="1237" type="line"/>
+      <point x="232" y="1328"/>
+      <point x="198" y="1415"/>
+      <point x="198" y="1512" type="curve" smooth="yes"/>
+      <point x="198" y="1720"/>
+      <point x="353" y="1773"/>
+      <point x="489" y="1775" type="curve" smooth="yes"/>
+      <point x="530" y="1775"/>
+      <point x="563" y="1766"/>
+      <point x="626" y="1749" type="curve" smooth="yes"/>
+      <point x="632" y="1747"/>
+      <point x="637" y="1747"/>
+      <point x="643" y="1747" type="curve" smooth="yes"/>
+      <point x="658" y="1747"/>
+      <point x="669" y="1755"/>
+      <point x="676" y="1775" type="curve" smooth="yes"/>
+      <point x="688" y="1814" type="line" smooth="yes"/>
+      <point x="690" y="1821"/>
+      <point x="691" y="1827"/>
+      <point x="691" y="1832" type="curve" smooth="yes"/>
+      <point x="691" y="1849"/>
+      <point x="682" y="1857"/>
+      <point x="664" y="1863" type="curve" smooth="yes"/>
+      <point x="585" y="1892"/>
+      <point x="517" y="1896"/>
+      <point x="481" y="1896" type="curve" smooth="yes"/>
+      <point x="233" y="1896"/>
+      <point x="66" y="1746"/>
+      <point x="66" y="1524" type="curve" smooth="yes"/>
+      <point x="66" y="1408"/>
+      <point x="112" y="1293"/>
+      <point x="172" y="1195" type="curve"/>
+    </contour>
+    <component base="candraBindu-deva" xOffset="215.097" yOffset="191.988" xScale="0.8" yScale="0.8"/>
+    <contour>
+      <point x="179" y="2070" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="276" y="1244" type="move" name="_imatra"/>
+    </contour>
+    <contour>
+      <point x="203" y="1244" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="-293" y="1244" type="move" name="_iimatra"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tt-deva" format="1">
+  <advance width="1044"/>
+  <outline>
+    <component base="tta-deva"/>
+    <component base="halant-deva" xOffset="432"/>
+    <contour>
+      <point x="571" y="-393" type="move" name="rakar"/>
+    </contour>
+  </outline>
+</glyph>

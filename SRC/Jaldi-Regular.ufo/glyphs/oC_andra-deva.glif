@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oCandra-deva" format="1">
+  <advance width="2027"/>
+  <unicode hex="0911"/>
+  <outline>
+    <component base="aa-deva"/>
+    <component base="eCandraMatra-deva" xOffset="1341"/>
+    <contour>
+      <point x="503" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="1730" y="1565" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1730" y="0" type="move" name="rakar"/>
+    </contour>
+    <contour>
+      <point x="1730" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

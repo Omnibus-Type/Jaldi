@@ -5,10 +5,10 @@
   <outline>
     <component base="tilde.alt" xOffset="-24.887" xScale="1.1"/>
     <contour>
-      <point x="304" y="1058" type="move" name="_tilde"/>
+      <point x="326" y="930" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="326" y="930" type="move" name="_top"/>
+      <point x="304" y="1058" type="move" name="_tilde"/>
     </contour>
   </outline>
 </glyph>

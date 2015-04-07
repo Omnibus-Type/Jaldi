@@ -5,570 +5,570 @@
 	<key>@MMK_L_A</key>
 	<dict>
 		<key>@MMK_R_T</key>
-		<real>-71.68000340461731</real>
+		<real>-71.680000305175781</real>
 		<key>@MMK_R_V</key>
-		<real>-53.248002529144287</real>
+		<real>-53.248001098632812</real>
 		<key>@MMK_R_quotedblright</key>
-		<real>-53.248002529144287</real>
+		<real>-53.248001098632812</real>
 	</dict>
 	<key>@MMK_L_L</key>
 	<dict>
 		<key>@MMK_R_T</key>
-		<real>-88.064004182815552</real>
+		<real>-88.064002990722656</real>
 		<key>@MMK_R_V</key>
-		<real>-71.68000340461731</real>
+		<real>-71.680000305175781</real>
 	</dict>
 	<key>@MMK_L_T</key>
 	<dict>
 		<key>@MMK_R_A</key>
-		<real>-71.68000340461731</real>
+		<real>-71.680000305175781</real>
 		<key>@MMK_R_a</key>
-		<real>-53.248002529144287</real>
+		<real>-53.248001098632812</real>
 		<key>@MMK_R_c</key>
-		<real>-53.248002529144287</real>
+		<real>-53.248001098632812</real>
 		<key>@MMK_R_d</key>
-		<real>-26.624001264572144</real>
+		<real>-26.624000549316406</real>
 		<key>@MMK_R_e</key>
-		<real>-45.056002140045166</real>
+		<real>-45.055999755859375</real>
 		<key>@MMK_R_o</key>
-		<real>-45.056002140045166</real>
+		<real>-45.055999755859375</real>
 		<key>@MMK_R_quotedblright</key>
-		<real>53.248002529144287</real>
+		<real>53.248001098632812</real>
 		<key>@MMK_R_v</key>
-		<real>-34.816001653671265</real>
+		<real>-34.816001892089844</real>
 		<key>aeacute</key>
-		<real>-53.329924408035367</real>
+		<real>-53.329898834228516</real>
 		<key>g.ss01</key>
-		<real>-35.553282938690245</real>
+		<real>-35.553298950195312</real>
 		<key>oe</key>
-		<real>-44.441603673362806</real>
+		<real>-44.441600799560547</real>
 		<key>ohorn</key>
-		<real>-44.441603673362806</real>
+		<real>-44.441600799560547</real>
+		<key>ohorndotbelow</key>
+		<real>-44.441600799560547</real>
 		<key>oslash</key>
-		<real>-35.553282938690245</real>
+		<real>-35.553298950195312</real>
 		<key>q</key>
-		<real>-35.553282938690245</real>
-		<key>uni1EE3</key>
-		<real>-44.441603673362806</real>
+		<real>-35.553298950195312</real>
 	</dict>
 	<key>@MMK_L_V</key>
 	<dict>
 		<key>@MMK_R_A</key>
-		<real>-53.248002529144287</real>
+		<real>-53.248001098632812</real>
 		<key>@MMK_R_a</key>
-		<real>-53.248002529144287</real>
+		<real>-53.248001098632812</real>
 		<key>@MMK_R_c</key>
-		<real>-34.816001653671265</real>
+		<real>-34.816001892089844</real>
 		<key>@MMK_R_d</key>
-		<real>-34.816001653671265</real>
+		<real>-34.816001892089844</real>
 		<key>@MMK_R_e</key>
-		<real>-34.816001653671265</real>
+		<real>-34.816001892089844</real>
 		<key>@MMK_R_o</key>
-		<real>-34.816001653671265</real>
+		<real>-34.816001892089844</real>
 		<key>@MMK_R_quotedblright</key>
-		<real>53.248002529144287</real>
+		<real>53.248001098632812</real>
 		<key>g.ss01</key>
-		<real>-35.553282938690245</real>
+		<real>-35.553298950195312</real>
 		<key>oe</key>
-		<real>-35.553282938690245</real>
+		<real>-35.553298950195312</real>
 		<key>ohorn</key>
-		<real>-35.553282938690245</real>
+		<real>-35.553298950195312</real>
+		<key>ohorndotbelow</key>
+		<real>-35.553298950195312</real>
 		<key>oslash</key>
-		<real>-17.776641469345122</real>
+		<real>-17.776599884033203</real>
 		<key>q</key>
-		<real>-35.553282938690245</real>
-		<key>uni1EE3</key>
-		<real>-35.553282938690245</real>
+		<real>-35.553298950195312</real>
 	</dict>
 	<key>@MMK_L_Y</key>
 	<dict>
 		<key>@MMK_R_a</key>
-		<real>-71.68000340461731</real>
+		<real>-71.680000305175781</real>
 		<key>@MMK_R_c</key>
-		<real>-71.68000340461731</real>
+		<real>-71.680000305175781</real>
 		<key>@MMK_R_d</key>
-		<real>-71.68000340461731</real>
+		<real>-71.680000305175781</real>
 		<key>@MMK_R_e</key>
-		<real>-71.68000340461731</real>
+		<real>-71.680000305175781</real>
 		<key>@MMK_R_o</key>
-		<real>-71.68000340461731</real>
+		<real>-71.680000305175781</real>
 		<key>g</key>
-		<real>-53.329924408035367</real>
+		<real>-53.329898834228516</real>
 		<key>g.ss01</key>
-		<real>-53.329924408035367</real>
+		<real>-53.329898834228516</real>
 		<key>oe</key>
-		<real>-71.10656587738049</real>
+		<real>-71.106597900390625</real>
 		<key>ohorn</key>
-		<real>-53.329924408035367</real>
+		<real>-53.329898834228516</real>
+		<key>ohorndotbelow</key>
+		<real>-53.329898834228516</real>
 		<key>oslash</key>
-		<real>-53.329924408035367</real>
+		<real>-53.329898834228516</real>
 		<key>q</key>
-		<real>-53.329924408035367</real>
-		<key>uni1EE3</key>
-		<real>-53.329924408035367</real>
+		<real>-53.329898834228516</real>
 	</dict>
-	<key>@MMK_L_cdeva</key>
+	<key>@MMK_L_c-deva</key>
 	<dict>
-		<key>@MMK_R_chadeva</key>
-		<real>-106.49600505828857</real>
+		<key>@MMK_R_cha-deva</key>
+		<real>-106.49600219726562</real>
 	</dict>
-	<key>@MMK_L_kdeva</key>
+	<key>@MMK_L_k-deva</key>
 	<dict>
-		<key>@MMK_R_ch_vadeva</key>
-		<real>-151.55200719833374</real>
-		<key>@MMK_R_chadeva</key>
-		<real>-106.49600505828857</real>
-		<key>@MMK_R_d_madeva</key>
-		<real>34.816001653671265</real>
-		<key>@MMK_R_d_radeva</key>
-		<real>-71.68000340461731</real>
-		<key>@MMK_R_dadeva</key>
-		<real>-71.68000340461731</real>
-		<key>@MMK_R_dd_ddadeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_ddhadeva</key>
-		<real>-71.68000340461731</real>
-		<key>@MMK_R_g_radeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_gadeva</key>
-		<real>88.064004182815552</real>
-		<key>@MMK_R_hadeva</key>
-		<real>-71.68000340461731</real>
-		<key>@MMK_R_j_jadeva</key>
-		<real>-88.064004182815552</real>
-		<key>@MMK_R_k_ss_radeva</key>
-		<real>53.248002529144287</real>
-		<key>@MMK_R_k_ssadeva</key>
-		<real>53.248002529144287</real>
-		<key>@MMK_R_lladeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_m_radeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_madeva</key>
-		<real>53.248002529144287</real>
-		<key>@MMK_R_n_radeva</key>
-		<real>53.248002529144287</real>
-		<key>@MMK_R_nadeva</key>
-		<real>53.248002529144287</real>
-		<key>@MMK_R_nnadeva</key>
-		<real>-18.432000875473022</real>
-		<key>@MMK_R_nyadeva</key>
-		<real>-88.064004182815552</real>
-		<key>@MMK_R_sh_cadeva</key>
-		<real>71.68000340461731</real>
-		<key>@MMK_R_shadeva</key>
-		<real>88.064004182815552</real>
-		<key>@MMK_R_shadeva.loclMAR</key>
-		<real>47.104002237319946</real>
-		<key>@MMK_R_ss_tt_vadeva</key>
-		<real>-18.432000875473022</real>
-		<key>@MMK_R_ss_ttadeva</key>
-		<real>-18.432000875473022</real>
-		<key>@MMK_R_ss_tthadeva</key>
+		<key>@MMK_R_ch_va-deva</key>
+		<real>-151.552001953125</real>
+		<key>@MMK_R_cha-deva</key>
+		<real>-106.49600219726562</real>
+		<key>@MMK_R_d_ma-deva</key>
+		<real>34.816001892089844</real>
+		<key>@MMK_R_d_ra-deva</key>
+		<real>-71.680000305175781</real>
+		<key>@MMK_R_da-deva</key>
+		<real>-71.680000305175781</real>
+		<key>@MMK_R_dd_dda-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_ddha-deva</key>
+		<real>-71.680000305175781</real>
+		<key>@MMK_R_g_ra-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_ga-deva</key>
+		<real>88.064002990722656</real>
+		<key>@MMK_R_ha-deva</key>
+		<real>-71.680000305175781</real>
+		<key>@MMK_R_j_ja-deva</key>
+		<real>-88.064002990722656</real>
+		<key>@MMK_R_k_ss_ra-deva</key>
+		<real>53.248001098632812</real>
+		<key>@MMK_R_k_ssa-deva</key>
+		<real>53.248001098632812</real>
+		<key>@MMK_R_lla-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_m_ra-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_ma-deva</key>
+		<real>53.248001098632812</real>
+		<key>@MMK_R_n_ra-deva</key>
+		<real>53.248001098632812</real>
+		<key>@MMK_R_na-deva</key>
+		<real>53.248001098632812</real>
+		<key>@MMK_R_nna-deva</key>
+		<real>-18.431999206542969</real>
+		<key>@MMK_R_nya-deva</key>
+		<real>-88.064002990722656</real>
+		<key>@MMK_R_sh_ca-deva</key>
+		<real>71.680000305175781</real>
+		<key>@MMK_R_sha-deva</key>
+		<real>88.064002990722656</real>
+		<key>@MMK_R_sha-deva.loclMAR</key>
+		<real>47.104000091552734</real>
+		<key>@MMK_R_ss_tt_va-deva</key>
+		<real>-18.431999206542969</real>
+		<key>@MMK_R_ss_tta-deva</key>
+		<real>-18.431999206542969</real>
+		<key>@MMK_R_ss_ttha-deva</key>
 		<integer>-43</integer>
-		<key>@MMK_R_tadeva</key>
-		<real>-34.816001653671265</real>
-		<key>@MMK_R_thadeva</key>
-		<real>106.49600505828857</real>
-		<key>@MMK_R_tt_ttadeva</key>
-		<real>88.064004182815552</real>
-		<key>@MMK_R_ttadeva</key>
-		<real>71.68000340461731</real>
-		<key>@MMK_R_tth_tthadeva</key>
-		<real>88.064004182815552</real>
-		<key>@MMK_R_tthadeva</key>
-		<real>71.68000340461731</real>
-		<key>@MMK_R_yadeva</key>
-		<real>114.6880054473877</real>
-		<key>uni0915094D0932.loclMAR</key>
-		<real>17.776641469345122</real>
-		<key>uni091A094D0932.loclMAR</key>
-		<real>53.329924408035367</real>
-		<key>uni092A094D0924</key>
-		<real>-35.553282938690245</real>
-		<key>uni092A094D0932.loclMAR</key>
-		<real>-124.43648247291549</real>
-		<key>uni0937094D0920094D0935</key>
-		<real>-53.329924408035367</real>
-		<key>uni0979.loclNEP</key>
-		<real>124.43648247291549</real>
+		<key>@MMK_R_ta-deva</key>
+		<real>-34.816001892089844</real>
+		<key>@MMK_R_tha-deva</key>
+		<real>106.49600219726562</real>
+		<key>@MMK_R_tt_tta-deva</key>
+		<real>88.064002990722656</real>
+		<key>@MMK_R_tta-deva</key>
+		<real>71.680000305175781</real>
+		<key>@MMK_R_tth_ttha-deva</key>
+		<real>88.064002990722656</real>
+		<key>@MMK_R_ttha-deva</key>
+		<real>71.680000305175781</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>114.68800354003906</real>
+		<key>c_la-deva.loclMAR</key>
+		<real>53.329898834228516</real>
+		<key>k_la-deva.loclMAR</key>
+		<real>17.776599884033203</real>
+		<key>p_la-deva.loclMAR</key>
+		<real>-124.43599700927734</real>
+		<key>p_ta-deva</key>
+		<real>-35.553298950195312</real>
+		<key>ss_tth_va-deva</key>
+		<real>-53.329898834228516</real>
+		<key>zha-deva.loclNEP</key>
+		<real>124.43599700927734</real>
 	</dict>
-	<key>@MMK_L_khdeva</key>
+	<key>@MMK_L_kh-deva</key>
 	<dict>
-		<key>@MMK_R_dadeva</key>
-		<real>71.68000340461731</real>
-		<key>@MMK_R_ladeva</key>
-		<real>53.248002529144287</real>
-		<key>@MMK_R_tadeva</key>
-		<real>88.064004182815552</real>
-		<key>@MMK_R_ttadeva</key>
-		<real>71.68000340461731</real>
-		<key>@MMK_R_tthadeva</key>
-		<real>88.064004182815552</real>
+		<key>@MMK_R_da-deva</key>
+		<real>71.680000305175781</real>
+		<key>@MMK_R_la-deva</key>
+		<real>53.248001098632812</real>
+		<key>@MMK_R_ta-deva</key>
+		<real>88.064002990722656</real>
+		<key>@MMK_R_tta-deva</key>
+		<real>71.680000305175781</real>
+		<key>@MMK_R_ttha-deva</key>
+		<real>88.064002990722656</real>
 	</dict>
-	<key>@MMK_L_mdeva</key>
+	<key>@MMK_L_m-deva</key>
 	<dict>
-		<key>@MMK_R_bh_radeva</key>
-		<real>-18.432000875473022</real>
-		<key>@MMK_R_bhadeva</key>
-		<real>-18.432000875473022</real>
-		<key>@MMK_R_shadeva</key>
-		<real>-34.816001653671265</real>
+		<key>@MMK_R_bh_ra-deva</key>
+		<real>-18.431999206542969</real>
+		<key>@MMK_R_bha-deva</key>
+		<real>-18.431999206542969</real>
+		<key>@MMK_R_sha-deva</key>
+		<real>-34.816001892089844</real>
 	</dict>
-	<key>@MMK_L_pdeva</key>
+	<key>@MMK_L_p-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
-		<real>18.432000875473022</real>
-		<key>@MMK_R_cadeva</key>
-		<real>-141.31200671195984</real>
-		<key>@MMK_R_ch_vadeva</key>
-		<real>-178.17600846290588</real>
-		<key>@MMK_R_chadeva</key>
-		<real>-178.17600846290588</real>
-		<key>@MMK_R_d_dhadeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_d_ghadeva</key>
-		<real>-88.064004182815552</real>
-		<key>@MMK_R_dd_ddadeva</key>
-		<real>-106.49600505828857</real>
-		<key>@MMK_R_dh_radeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_dhadeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_g_radeva</key>
-		<real>-124.9280059337616</real>
-		<key>@MMK_R_gadeva</key>
-		<real>-141.31200671195984</real>
-		<key>@MMK_R_gh_radeva</key>
-		<real>-124.9280059337616</real>
-		<key>@MMK_R_ghadeva</key>
-		<real>-112.64000535011292</real>
-		<key>@MMK_R_j_jadeva</key>
-		<real>71.68000340461731</real>
-		<key>@MMK_R_k_ss_radeva</key>
-		<real>-71.68000340461731</real>
-		<key>@MMK_R_k_ssadeva</key>
-		<real>-71.68000340461731</real>
-		<key>@MMK_R_k_tadeva</key>
-		<real>-106.49600505828857</real>
-		<key>@MMK_R_m_radeva</key>
-		<real>-141.31200671195984</real>
-		<key>@MMK_R_madeva</key>
-		<real>-141.31200671195984</real>
-		<key>@MMK_R_nnadeva</key>
-		<real>-18.432000875473022</real>
-		<key>@MMK_R_ny_cadeva</key>
-		<real>53.248002529144287</real>
-		<key>@MMK_R_ny_jadeva</key>
-		<real>53.248002529144287</real>
-		<key>@MMK_R_nyadeva</key>
-		<real>53.248002529144287</real>
-		<key>@MMK_R_sh_vadeva</key>
+		<key>@MMK_R_bha-deva</key>
+		<real>18.431999206542969</real>
+		<key>@MMK_R_ca-deva</key>
+		<real>-141.31199645996094</real>
+		<key>@MMK_R_ch_va-deva</key>
+		<real>-178.17599487304688</real>
+		<key>@MMK_R_cha-deva</key>
+		<real>-178.17599487304688</real>
+		<key>@MMK_R_d_dha-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_d_gha-deva</key>
+		<real>-88.064002990722656</real>
+		<key>@MMK_R_dd_dda-deva</key>
+		<real>-106.49600219726562</real>
+		<key>@MMK_R_dh_ra-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_dha-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_g_ra-deva</key>
+		<real>-124.92800140380859</real>
+		<key>@MMK_R_ga-deva</key>
+		<real>-141.31199645996094</real>
+		<key>@MMK_R_gh_ra-deva</key>
+		<real>-124.92800140380859</real>
+		<key>@MMK_R_gha-deva</key>
+		<real>-112.63999938964844</real>
+		<key>@MMK_R_j_ja-deva</key>
+		<real>71.680000305175781</real>
+		<key>@MMK_R_k_ss_ra-deva</key>
+		<real>-71.680000305175781</real>
+		<key>@MMK_R_k_ssa-deva</key>
+		<real>-71.680000305175781</real>
+		<key>@MMK_R_k_ta-deva</key>
+		<real>-106.49600219726562</real>
+		<key>@MMK_R_m_ra-deva</key>
+		<real>-141.31199645996094</real>
+		<key>@MMK_R_ma-deva</key>
+		<real>-141.31199645996094</real>
+		<key>@MMK_R_nna-deva</key>
+		<real>-18.431999206542969</real>
+		<key>@MMK_R_ny_ca-deva</key>
+		<real>53.248001098632812</real>
+		<key>@MMK_R_ny_ja-deva</key>
+		<real>53.248001098632812</real>
+		<key>@MMK_R_nya-deva</key>
+		<real>53.248001098632812</real>
+		<key>@MMK_R_sh_va-deva</key>
 		<integer>0</integer>
-		<key>@MMK_R_ss_tt_vadeva</key>
-		<real>-88.064004182815552</real>
-		<key>@MMK_R_ss_tthadeva</key>
-		<real>-88.064004182815552</real>
-		<key>@MMK_R_tadeva</key>
+		<key>@MMK_R_ss_tt_va-deva</key>
+		<real>-88.064002990722656</real>
+		<key>@MMK_R_ss_ttha-deva</key>
+		<real>-88.064002990722656</real>
+		<key>@MMK_R_ta-deva</key>
 		<real>8.1920003890991211</real>
-		<key>@MMK_R_thadeva</key>
-		<real>18.432000875473022</real>
-		<key>uni091A094D0932.loclMAR</key>
-		<real>-159.9897732241061</real>
-		<key>uni091B094D0932.loclMAR</key>
-		<real>-168.87808614627829</real>
-		<key>uni092A094D0932.loclMAR</key>
-		<real>-213.31969763214147</real>
-		<key>uni0978</key>
-		<real>-124.43648247291549</real>
-		<key>uni0979.loclNEP</key>
-		<real>35.553282938690245</real>
+		<key>@MMK_R_tha-deva</key>
+		<real>18.431999206542969</real>
+		<key>c_la-deva.loclMAR</key>
+		<real>-159.99000549316406</real>
+		<key>ch_la-deva.loclMAR</key>
+		<real>-168.87800598144531</real>
+		<key>dda-deva.MAW</key>
+		<real>-124.43599700927734</real>
+		<key>p_la-deva.loclMAR</key>
+		<real>-213.32000732421875</real>
+		<key>zha-deva.loclNEP</key>
+		<real>35.553298950195312</real>
 	</dict>
 	<key>@MMK_L_quotedblright</key>
 	<dict>
 		<key>@MMK_R_A</key>
-		<real>-53.248002529144287</real>
+		<real>-53.248001098632812</real>
 		<key>@MMK_R_T</key>
-		<real>53.248002529144287</real>
+		<real>53.248001098632812</real>
 		<key>@MMK_R_V</key>
-		<real>53.248002529144287</real>
+		<real>53.248001098632812</real>
 		<key>@MMK_R_period</key>
-		<real>-88.064004182815552</real>
+		<real>-88.064002990722656</real>
 	</dict>
-	<key>@MMK_L_sdeva</key>
+	<key>@MMK_L_s-deva</key>
 	<dict>
-		<key>@MMK_R_ddadeva</key>
-		<real>-88.064004182815552</real>
-		<key>@MMK_R_madeva</key>
-		<real>-124.9280059337616</real>
-		<key>@MMK_R_p_radeva</key>
-		<real>-34.816001653671265</real>
-		<key>@MMK_R_padeva</key>
-		<real>-34.816001653671265</real>
+		<key>@MMK_R_dda-deva</key>
+		<real>-88.064002990722656</real>
+		<key>@MMK_R_ma-deva</key>
+		<real>-124.92800140380859</real>
+		<key>@MMK_R_p_ra-deva</key>
+		<real>-34.816001892089844</real>
+		<key>@MMK_R_pa-deva</key>
+		<real>-34.816001892089844</real>
 	</dict>
-	<key>@MMK_L_vdeva</key>
+	<key>@MMK_L_v-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
-		<real>88.064004182815552</real>
-		<key>@MMK_R_ch_vadeva</key>
-		<real>-194.56000924110413</real>
-		<key>@MMK_R_chadeva</key>
-		<real>-159.74400758743286</real>
-		<key>@MMK_R_d_dadeva</key>
-		<real>-71.68000340461731</real>
-		<key>@MMK_R_d_gadeva</key>
-		<real>-34.816001653671265</real>
-		<key>@MMK_R_d_yadeva</key>
-		<real>-71.68000340461731</real>
-		<key>@MMK_R_dadeva</key>
-		<real>-61.440002918243408</real>
-		<key>@MMK_R_ddh_ddhadeva</key>
-		<real>-34.816001653671265</real>
-		<key>@MMK_R_ddhadeva</key>
-		<real>-71.68000340461731</real>
-		<key>@MMK_R_dh_radeva</key>
-		<real>-124.9280059337616</real>
-		<key>@MMK_R_dhadeva</key>
-		<real>-135.1680064201355</real>
-		<key>@MMK_R_gh_radeva</key>
-		<real>-178.17600846290588</real>
-		<key>@MMK_R_ghadeva</key>
-		<real>-178.17600846290588</real>
-		<key>@MMK_R_hadeva</key>
-		<real>-106.49600505828857</real>
-		<key>@MMK_R_jadeva</key>
-		<real>124.9280059337616</real>
-		<key>@MMK_R_jhadeva</key>
-		<real>-71.68000340461731</real>
-		<key>@MMK_R_k_ss_radeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_k_ssadeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_khadeva</key>
-		<real>-34.816001653671265</real>
-		<key>@MMK_R_ladeva</key>
-		<real>-34.816001653671265</real>
-		<key>@MMK_R_lladeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_madeva</key>
-		<real>-18.432000875473022</real>
-		<key>@MMK_R_nnadeva</key>
-		<real>-88.064004182815552</real>
-		<key>@MMK_R_nyadeva</key>
-		<real>34.816001653671265</real>
-		<key>@MMK_R_p_radeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_padeva</key>
-		<real>-88.064004182815552</real>
-		<key>@MMK_R_radeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_sadeva</key>
-		<real>-26.624001264572144</real>
-		<key>@MMK_R_shadeva</key>
-		<real>-208.89600992202759</real>
-		<key>@MMK_R_ss_tt_vadeva</key>
-		<real>-124.9280059337616</real>
-		<key>@MMK_R_ss_ttadeva</key>
-		<real>-88.064004182815552</real>
-		<key>@MMK_R_ss_tthadeva</key>
-		<real>-124.9280059337616</real>
-		<key>@MMK_R_tadeva</key>
-		<real>-45.056002140045166</real>
-		<key>@MMK_R_tt_ttadeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_ttadeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_tth_tthadeva</key>
-		<real>-53.248002529144287</real>
-		<key>@MMK_R_tthadeva</key>
-		<real>-34.816001653671265</real>
-		<key>@MMK_R_yadeva</key>
-		<real>18.432000875473022</real>
-		<key>uni091B094D0932.loclMAR</key>
-		<real>-213.31969763214147</real>
-		<key>uni092A094D0924</key>
-		<real>-106.65984881607073</real>
-		<key>uni092A094D0932.loclMAR</key>
-		<real>-319.9795464482122</real>
-		<key>uni092B094D0932.loclMAR</key>
-		<real>-88.883207346725612</real>
-		<key>uni0932.loclMAR</key>
-		<real>-17.776641469345122</real>
+		<key>@MMK_R_bha-deva</key>
+		<real>88.064002990722656</real>
+		<key>@MMK_R_ch_va-deva</key>
+		<real>-194.55999755859375</real>
+		<key>@MMK_R_cha-deva</key>
+		<real>-159.74400329589844</real>
+		<key>@MMK_R_d_da-deva</key>
+		<real>-71.680000305175781</real>
+		<key>@MMK_R_d_ga-deva</key>
+		<real>-34.816001892089844</real>
+		<key>@MMK_R_d_ya-deva</key>
+		<real>-71.680000305175781</real>
+		<key>@MMK_R_da-deva</key>
+		<real>-61.439998626708984</real>
+		<key>@MMK_R_ddh_ddha-deva</key>
+		<real>-34.816001892089844</real>
+		<key>@MMK_R_ddha-deva</key>
+		<real>-71.680000305175781</real>
+		<key>@MMK_R_dh_ra-deva</key>
+		<real>-124.92800140380859</real>
+		<key>@MMK_R_dha-deva</key>
+		<real>-135.16799926757812</real>
+		<key>@MMK_R_gh_ra-deva</key>
+		<real>-178.17599487304688</real>
+		<key>@MMK_R_gha-deva</key>
+		<real>-178.17599487304688</real>
+		<key>@MMK_R_ha-deva</key>
+		<real>-106.49600219726562</real>
+		<key>@MMK_R_ja-deva</key>
+		<real>124.92800140380859</real>
+		<key>@MMK_R_jha-deva</key>
+		<real>-71.680000305175781</real>
+		<key>@MMK_R_k_ss_ra-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_k_ssa-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_kha-deva</key>
+		<real>-34.816001892089844</real>
+		<key>@MMK_R_la-deva</key>
+		<real>-34.816001892089844</real>
+		<key>@MMK_R_lla-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_ma-deva</key>
+		<real>-18.431999206542969</real>
+		<key>@MMK_R_nna-deva</key>
+		<real>-88.064002990722656</real>
+		<key>@MMK_R_nya-deva</key>
+		<real>34.816001892089844</real>
+		<key>@MMK_R_p_ra-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_pa-deva</key>
+		<real>-88.064002990722656</real>
+		<key>@MMK_R_ra-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_sa-deva</key>
+		<real>-26.624000549316406</real>
+		<key>@MMK_R_sha-deva</key>
+		<real>-208.89599609375</real>
+		<key>@MMK_R_ss_tt_va-deva</key>
+		<real>-124.92800140380859</real>
+		<key>@MMK_R_ss_tta-deva</key>
+		<real>-88.064002990722656</real>
+		<key>@MMK_R_ss_ttha-deva</key>
+		<real>-124.92800140380859</real>
+		<key>@MMK_R_ta-deva</key>
+		<real>-45.055999755859375</real>
+		<key>@MMK_R_tt_tta-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_tta-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_tth_ttha-deva</key>
+		<real>-53.248001098632812</real>
+		<key>@MMK_R_ttha-deva</key>
+		<real>-34.816001892089844</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>18.431999206542969</real>
+		<key>ch_la-deva.loclMAR</key>
+		<real>-213.32000732421875</real>
+		<key>la-deva.loclMAR</key>
+		<real>-17.776599884033203</real>
+		<key>p_la-deva.loclMAR</key>
+		<real>-319.98001098632812</real>
+		<key>p_ta-deva</key>
+		<real>-106.66000366210938</real>
+		<key>ph_la-deva.loclMAR</key>
+		<real>-88.883201599121094</real>
 	</dict>
 	<key>colon</key>
 	<dict>
 		<key>zero</key>
-		<real>53.329924408035367</real>
+		<real>53.329898834228516</real>
 	</dict>
 	<key>endash</key>
 	<dict>
 		<key>one</key>
-		<real>-88.883207346725612</real>
+		<real>-88.883201599121094</real>
 	</dict>
 	<key>f</key>
 	<dict>
 		<key>@MMK_R_quotedblright</key>
-		<real>71.10656587738049</real>
+		<real>71.106597900390625</real>
 		<key>asterisk</key>
-		<real>35.553282938690245</real>
+		<real>35.553298950195312</real>
 		<key>bracketright</key>
-		<real>53.329924408035367</real>
+		<real>53.329898834228516</real>
 		<key>parenright</key>
-		<real>53.329924408035367</real>
+		<real>53.329898834228516</real>
 		<key>question</key>
-		<real>35.553282938690245</real>
+		<real>35.553298950195312</real>
 	</dict>
 	<key>g</key>
 	<dict>
 		<key>g</key>
-		<real>35.553282938690245</real>
+		<real>35.553298950195312</real>
 	</dict>
-	<key>uni0915094D0937094D</key>
+	<key>g-deva</key>
 	<dict>
-		<key>@MMK_R_madeva</key>
-		<real>-71.10656587738049</real>
+		<key>@MMK_R_bha-deva</key>
+		<real>62.21820068359375</real>
 	</dict>
-	<key>uni0917094D</key>
+	<key>j-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
-		<real>62.218241236457743</real>
+		<key>@MMK_R_da-deva</key>
+		<real>-53.329898834228516</real>
+		<key>@MMK_R_ma-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_tta-deva</key>
+		<real>-53.329898834228516</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>-71.106597900390625</real>
 	</dict>
-	<key>uni091C094D</key>
+	<key>j_j-deva</key>
 	<dict>
-		<key>@MMK_R_dadeva</key>
-		<real>-53.329924408035367</real>
-		<key>@MMK_R_madeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_ttadeva</key>
-		<real>-53.329924408035367</real>
-		<key>@MMK_R_yadeva</key>
-		<real>-71.10656587738049</real>
+		<key>@MMK_R_nya-deva</key>
+		<real>-71.106597900390625</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>-71.106597900390625</real>
 	</dict>
-	<key>uni091C094D091C094D</key>
+	<key>j_ny-deva</key>
 	<dict>
-		<key>@MMK_R_nyadeva</key>
-		<real>-71.10656587738049</real>
-		<key>@MMK_R_yadeva</key>
-		<real>-71.10656587738049</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>-71.106597900390625</real>
 	</dict>
-	<key>uni091C094D091E094D</key>
+	<key>k_ss-deva</key>
 	<dict>
-		<key>@MMK_R_yadeva</key>
-		<real>-71.10656587738049</real>
+		<key>@MMK_R_ma-deva</key>
+		<real>-71.106597900390625</real>
 	</dict>
-	<key>uni091E094D</key>
+	<key>l-deva</key>
 	<dict>
-		<key>@MMK_R_chadeva</key>
-		<real>-177.76641469345122</real>
-		<key>@MMK_R_shadeva</key>
-		<real>-142.21313175476098</real>
+		<key>@MMK_R_bha-deva</key>
+		<real>159.99000549316406</real>
+		<key>@MMK_R_d_ra-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_da-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_ddha-deva</key>
+		<real>-53.329898834228516</real>
+		<key>@MMK_R_ga-deva</key>
+		<real>-159.99000549316406</real>
+		<key>@MMK_R_la-deva</key>
+		<real>-17.776599884033203</real>
+		<key>@MMK_R_ma-deva</key>
+		<real>-88.883201599121094</real>
+		<key>@MMK_R_tta-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_ttha-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>-177.76600646972656</real>
 	</dict>
-	<key>uni091E094D091A094D</key>
+	<key>n-deva</key>
 	<dict>
-		<key>@MMK_R_yadeva</key>
-		<real>-142.21313175476098</real>
+		<key>@MMK_R_dh_ra-deva</key>
+		<real>-124.43599700927734</real>
+		<key>@MMK_R_dha-deva</key>
+		<real>-124.43599700927734</real>
+		<key>@MMK_R_ma-deva</key>
+		<real>-88.883201599121094</real>
+		<key>@MMK_R_ta-deva</key>
+		<real>-71.106597900390625</real>
+		<key>@MMK_R_tha-deva</key>
+		<real>-177.76600646972656</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>-106.66000366210938</real>
 	</dict>
-	<key>uni091E094D091C094D</key>
+	<key>nn-deva</key>
 	<dict>
-		<key>@MMK_R_yadeva</key>
-		<real>-142.21313175476098</real>
+		<key>@MMK_R_bh_ra-deva</key>
+		<real>124.43599700927734</real>
+		<key>@MMK_R_bha-deva</key>
+		<real>106.66000366210938</real>
+		<key>@MMK_R_d_da-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_d_dha-deva</key>
+		<real>-71.106597900390625</real>
+		<key>@MMK_R_d_gha-deva</key>
+		<real>-71.106597900390625</real>
+		<key>@MMK_R_d_ra-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_da-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_dd_dda-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_dda-deva</key>
+		<real>-88.883201599121094</real>
+		<key>@MMK_R_ddha-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_jha-deva</key>
+		<real>-88.883201599121094</real>
+		<key>@MMK_R_k_ss_ra-deva</key>
+		<real>-106.66000366210938</real>
+		<key>@MMK_R_k_ssa-deva</key>
+		<real>-71.106597900390625</real>
+		<key>@MMK_R_sha-deva</key>
+		<real>-142.21299743652344</real>
+		<key>@MMK_R_ta-deva</key>
+		<real>-53.329898834228516</real>
+		<key>@MMK_R_tt_tta-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_tta-deva</key>
+		<real>-35.553298950195312</real>
+		<key>@MMK_R_ttha-deva</key>
+		<real>-35.553298950195312</real>
+		<key>d_bha-deva</key>
+		<real>-124.43599700927734</real>
+		<key>y_ra-deva.post</key>
+		<real>124.43599700927734</real>
 	</dict>
-	<key>uni0923094D</key>
+	<key>ny-deva</key>
 	<dict>
-		<key>@MMK_R_bh_radeva</key>
-		<real>124.43648247291549</real>
-		<key>@MMK_R_bhadeva</key>
-		<real>106.65984881607073</real>
-		<key>@MMK_R_d_dadeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_d_dhadeva</key>
-		<real>-71.10656587738049</real>
-		<key>@MMK_R_d_ghadeva</key>
-		<real>-71.10656587738049</real>
-		<key>@MMK_R_d_radeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_dadeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_dd_ddadeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_ddadeva</key>
-		<real>-88.883207346725612</real>
-		<key>@MMK_R_ddhadeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_jhadeva</key>
-		<real>-88.883207346725612</real>
-		<key>@MMK_R_k_ss_radeva</key>
-		<real>-106.65984881607073</real>
-		<key>@MMK_R_k_ssadeva</key>
-		<real>-71.10656587738049</real>
-		<key>@MMK_R_shadeva</key>
-		<real>-142.21313175476098</real>
-		<key>@MMK_R_tadeva</key>
-		<real>-53.329924408035367</real>
-		<key>@MMK_R_tt_ttadeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_ttadeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_tthadeva</key>
-		<real>-35.553282938690245</real>
-		<key>uni0926094D092D</key>
-		<real>-124.43648247291549</real>
-		<key>uni092F094D0930.post</key>
-		<real>124.43648247291549</real>
+		<key>@MMK_R_cha-deva</key>
+		<real>-177.76600646972656</real>
+		<key>@MMK_R_sha-deva</key>
+		<real>-142.21299743652344</real>
 	</dict>
-	<key>uni0924094D</key>
+	<key>ny_c-deva</key>
 	<dict>
-		<key>@MMK_R_k_ssadeva</key>
-		<real>-190.21005590949244</real>
-		<key>@MMK_R_ladeva</key>
-		<real>-53.329924408035367</real>
-		<key>@MMK_R_madeva</key>
-		<real>-71.10656587738049</real>
-		<key>@MMK_R_yadeva</key>
-		<real>-124.43648247291549</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>-142.21299743652344</real>
 	</dict>
-	<key>uni0924094D0924094D</key>
+	<key>ny_j-deva</key>
 	<dict>
-		<key>@MMK_R_yadeva</key>
-		<real>-124.43648247291549</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>-142.21299743652344</real>
 	</dict>
-	<key>uni0928094D</key>
+	<key>t-deva</key>
 	<dict>
-		<key>@MMK_R_dh_radeva</key>
-		<real>-124.43648247291549</real>
-		<key>@MMK_R_dhadeva</key>
-		<real>-124.43648247291549</real>
-		<key>@MMK_R_madeva</key>
-		<real>-88.883207346725612</real>
-		<key>@MMK_R_tadeva</key>
-		<real>-71.10656587738049</real>
-		<key>@MMK_R_thadeva</key>
-		<real>-177.76641469345122</real>
-		<key>@MMK_R_yadeva</key>
-		<real>-106.65984881607073</real>
+		<key>@MMK_R_k_ssa-deva</key>
+		<real>-190.21000671386719</real>
+		<key>@MMK_R_la-deva</key>
+		<real>-53.329898834228516</real>
+		<key>@MMK_R_ma-deva</key>
+		<real>-71.106597900390625</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>-124.43599700927734</real>
 	</dict>
-	<key>uni0932094D</key>
+	<key>t_t-deva</key>
 	<dict>
-		<key>@MMK_R_bhadeva</key>
-		<real>159.9897732241061</real>
-		<key>@MMK_R_d_radeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_dadeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_ddhadeva</key>
-		<real>-53.329924408035367</real>
-		<key>@MMK_R_gadeva</key>
-		<real>-159.9897732241061</real>
-		<key>@MMK_R_ladeva</key>
-		<real>-17.776641469345122</real>
-		<key>@MMK_R_madeva</key>
-		<real>-88.883207346725612</real>
-		<key>@MMK_R_ttadeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_tthadeva</key>
-		<real>-35.553282938690245</real>
-		<key>@MMK_R_yadeva</key>
-		<real>-177.76641469345122</real>
+		<key>@MMK_R_ya-deva</key>
+		<real>-124.43599700927734</real>
 	</dict>
 </dict>
 </plist>

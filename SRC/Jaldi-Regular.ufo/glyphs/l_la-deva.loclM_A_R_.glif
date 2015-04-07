@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l_la-deva.loclMAR" format="1">
+  <advance width="1626"/>
+  <outline>
+    <contour>
+      <point x="1645" y="1172" type="line" smooth="yes"/>
+      <point x="1671" y="1172"/>
+      <point x="1686" y="1186"/>
+      <point x="1686" y="1211" type="curve" smooth="yes"/>
+      <point x="1686" y="1252" type="line" smooth="yes"/>
+      <point x="1686" y="1278"/>
+      <point x="1671" y="1290"/>
+      <point x="1645" y="1290" type="curve" smooth="yes"/>
+      <point x="-18" y="1290" type="line" smooth="yes"/>
+      <point x="-44" y="1290"/>
+      <point x="-59" y="1278"/>
+      <point x="-59" y="1252" type="curve" smooth="yes"/>
+      <point x="-59" y="1211" type="line" smooth="yes"/>
+      <point x="-59" y="1186"/>
+      <point x="-44" y="1172"/>
+      <point x="-18" y="1172" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1202" y="870" type="line"/>
+      <point x="1202" y="1244" type="line"/>
+      <point x="1065" y="1244" type="line"/>
+      <point x="1065" y="870" type="line"/>
+    </contour>
+    <component base="l-deva.post.loclMAR"/>
+    <component base="l-deva.post.loclMAR" yOffset="-650.625"/>
+    <contour>
+      <point x="783" y="-476" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="1135" y="1244" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="786" y="-476" type="move" name="rakar"/>
+    </contour>
+    <contour>
+      <point x="785" y="-476" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

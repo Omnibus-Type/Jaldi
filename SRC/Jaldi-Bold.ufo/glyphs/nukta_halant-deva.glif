@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nukta_halant-deva" format="1">
+  <advance width="534"/>
+  <outline>
+    <component base="halant-deva"/>
+    <component base="nukta-deva" xOffset="-384"/>
+    <contour>
+      <point x="198" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="170" y="-457" type="move" name="rakar"/>
+    </contour>
+  </outline>
+</glyph>

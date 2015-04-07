@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ssa-deva" format="1">
+  <advance width="1155"/>
+  <unicode hex="0937"/>
+  <outline>
+    <contour>
+      <point x="932" y="587" type="line"/>
+      <point x="348" y="1162" type="line"/>
+      <point x="225" y="1046" type="line"/>
+      <point x="807" y="469" type="line"/>
+    </contour>
+    <component base="pa-deva"/>
+    <contour>
+      <point x="254" y="201" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="887" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="887" y="1244" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

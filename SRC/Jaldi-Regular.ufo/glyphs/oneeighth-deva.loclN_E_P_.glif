@@ -26,7 +26,7 @@
       <point x="319" y="-3"/>
       <point x="334" y="-3" type="curve" smooth="yes"/>
     </contour>
-    <component base="uni096E.loclNEP" xOffset="819.503" xScale="0.59" yScale="0.59"/>
-    <component base="uni0967" xOffset="69.329" yOffset="524.411" xScale="0.59" yScale="0.59"/>
+    <component base="eight-deva.loclNEP" xOffset="819.503" xScale="0.59" yScale="0.59"/>
+    <component base="one-deva" xOffset="69.329" yOffset="524.411" xScale="0.59" yScale="0.59"/>
   </outline>
 </glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakar_llVocalicMatra-deva" format="1">
+  <advance width="800"/>
+  <outline>
+    <component base="rakar-deva" xOffset="28.443" yOffset="136.880" yScale="0.8"/>
+    <component base="llVocalicMatra-deva" xOffset="92.439" yOffset="-193.765" xScale="0.74" yScale="0.67"/>
+    <contour>
+      <point x="423" y="356" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="402" y="-798" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="416" y="0" type="move" name="_rakar"/>
+    </contour>
+  </outline>
+</glyph>

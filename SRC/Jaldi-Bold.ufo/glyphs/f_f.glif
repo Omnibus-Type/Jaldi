@@ -5,12 +5,4 @@
     <component base="f"/>
     <component base="f" xOffset="578"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>f</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>f</string>
-    </dict>
-  </lib>
 </glyph>

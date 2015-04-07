@@ -51,12 +51,4 @@
     </contour>
     <component base="eight" xOffset="719.954" xScale="0.59" yScale="0.59"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>one.numr</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>one.numr</string>
-    </dict>
-  </lib>
 </glyph>

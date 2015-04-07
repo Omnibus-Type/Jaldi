@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zha-deva" format="1">
+  <advance width="1369"/>
+  <unicode hex="0979"/>
+  <outline>
+    <component base="ja-deva"/>
+    <component base="nukta-deva" xOffset="519.078" yOffset="94.216"/>
+    <component base="nukta-deva" xOffset="287.982" yOffset="-85.328"/>
+    <component base="nukta-deva" xOffset="3" yOffset="94"/>
+    <contour>
+      <point x="1029" y="0" type="move" name="rakar"/>
+    </contour>
+    <contour>
+      <point x="1019" y="1244" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>nukta-deva</string>
+        </dict>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>nukta-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

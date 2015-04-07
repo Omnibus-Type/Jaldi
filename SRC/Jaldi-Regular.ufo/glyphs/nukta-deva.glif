@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nukta-deva" format="1">
+  <advance width="356"/>
+  <unicode hex="093C"/>
+  <outline>
+    <component base="anusvara-deva" xOffset="-46.219" yOffset="-1772.331"/>
+    <contour>
+      <point x="761" y="0" type="move" name="rakar"/>
+    </contour>
+    <contour>
+      <point x="176" y="0" type="move" name="_nukta"/>
+    </contour>
+  </outline>
+</glyph>

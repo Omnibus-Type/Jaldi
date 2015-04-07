@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghha-deva" format="1">
+  <advance width="1205"/>
+  <unicode hex="095A"/>
+  <outline>
+    <component base="ga-deva"/>
+    <component base="nukta-deva" xOffset="150" yOffset="184"/>
+    <contour>
+      <point x="914" y="0" type="move" name="rakar"/>
+    </contour>
+    <contour>
+      <point x="909" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="909" y="1244" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

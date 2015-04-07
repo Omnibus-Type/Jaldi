@@ -3,8 +3,8 @@
   <advance width="800"/>
   <unicode hex="1CDA"/>
   <outline>
-    <component base="uni0951" xOffset="376.865" xScale="0.95"/>
-    <component base="uni0951" xOffset="21.332" xScale="0.95"/>
+    <component base="udatta-deva" xOffset="376.865" xScale="0.95"/>
+    <component base="udatta-deva" xOffset="21.332" xScale="0.95"/>
     <contour>
       <point x="587" y="1244" type="move" name="_top"/>
     </contour>

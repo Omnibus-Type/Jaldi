@@ -55,10 +55,4 @@
       <point x="304" y="1067" type="move" name="_tilde"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-    </dict>
-  </lib>
 </glyph>

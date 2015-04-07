@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorntilde" format="1">
+  <advance width="1012"/>
+  <unicode hex="1EE1"/>
+  <outline>
+    <component base="o"/>
+    <component base="tilde" xOffset="507" yOffset="930" xScale="0" yScale="0"/>
+    <component base="tilde.alt" xOffset="182"/>
+    <component base="horncomb" xOffset="57" yOffset="-8"/>
+  </outline>
+</glyph>

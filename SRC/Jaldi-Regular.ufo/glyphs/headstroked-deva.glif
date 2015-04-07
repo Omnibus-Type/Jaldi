@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="headstroked-deva" format="1">
+  <advance width="892"/>
+  <unicode hex="A8FB"/>
+  <outline>
+    <component base="anudatta-deva" xOffset="-97.772" yOffset="1806.107" xScale="1.02"/>
+  </outline>
+</glyph>

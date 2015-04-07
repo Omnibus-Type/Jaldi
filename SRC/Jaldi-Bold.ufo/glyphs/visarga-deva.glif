@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="visarga-deva" format="1">
+  <advance width="498"/>
+  <unicode hex="0903"/>
+  <outline>
+    <contour>
+      <point x="515" y="1102" type="line" smooth="yes"/>
+      <point x="544" y="1102"/>
+      <point x="560" y="1124"/>
+      <point x="560" y="1159" type="curve" smooth="yes"/>
+      <point x="560" y="1234" type="line" smooth="yes"/>
+      <point x="560" y="1270"/>
+      <point x="544" y="1290"/>
+      <point x="515" y="1290" type="curve" smooth="yes"/>
+      <point x="-18" y="1290" type="line" smooth="yes"/>
+      <point x="-48" y="1290"/>
+      <point x="-63" y="1270"/>
+      <point x="-63" y="1234" type="curve" smooth="yes"/>
+      <point x="-63" y="1159" type="line" smooth="yes"/>
+      <point x="-63" y="1124"/>
+      <point x="-48" y="1102"/>
+      <point x="-18" y="1102" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="361" y="647"/>
+      <point x="403" y="688"/>
+      <point x="403" y="784" type="curve" smooth="yes"/>
+      <point x="403" y="879"/>
+      <point x="359" y="919"/>
+      <point x="254" y="919" type="curve" smooth="yes"/>
+      <point x="153" y="919"/>
+      <point x="101" y="886"/>
+      <point x="101" y="780" type="curve" smooth="yes"/>
+      <point x="101" y="688"/>
+      <point x="146" y="647"/>
+      <point x="249" y="647" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="361" y="160"/>
+      <point x="403" y="201"/>
+      <point x="403" y="297" type="curve" smooth="yes"/>
+      <point x="403" y="392"/>
+      <point x="359" y="432"/>
+      <point x="254" y="432" type="curve" smooth="yes"/>
+      <point x="153" y="432"/>
+      <point x="101" y="399"/>
+      <point x="101" y="293" type="curve" smooth="yes"/>
+      <point x="101" y="201"/>
+      <point x="146" y="160"/>
+      <point x="249" y="160" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

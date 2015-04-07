@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aShort-deva" format="1">
+  <advance width="1512"/>
+  <unicode hex="0904"/>
+  <outline>
+    <component base="a-deva"/>
+    <component base="eShortMatra-deva" xOffset="367"/>
+    <contour>
+      <point x="503" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="1445" y="1244" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1213" y="0" type="move" name="rakar"/>
+    </contour>
+    <contour>
+      <point x="1216" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

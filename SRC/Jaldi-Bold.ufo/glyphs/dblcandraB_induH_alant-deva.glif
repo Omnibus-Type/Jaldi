@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblcandraBinduHalant-deva" format="1">
+  <advance width="783"/>
+  <unicode hex="A8F4"/>
+  <outline>
+    <component base="candraBindu-deva" yOffset="-533.299"/>
+    <component base="halant-deva" xOffset="115.548" yOffset="227.541"/>
+    <component base="candraBindu-deva" yOffset="-1084.375"/>
+  </outline>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rVocalicMatra-deva" format="1">
+  <advance width="667"/>
+  <unicode hex="0943"/>
+  <outline>
+    <contour>
+      <point x="418" y="-360"/>
+      <point x="505" y="-341"/>
+      <point x="573" y="-314" type="curve" smooth="yes"/>
+      <point x="596" y="-303"/>
+      <point x="609" y="-286"/>
+      <point x="609" y="-265" type="curve" smooth="yes"/>
+      <point x="609" y="-257"/>
+      <point x="606" y="-248"/>
+      <point x="603" y="-239" type="curve" smooth="yes"/>
+      <point x="578" y="-172" type="line" smooth="yes"/>
+      <point x="570" y="-150"/>
+      <point x="553" y="-138"/>
+      <point x="535" y="-138" type="curve" smooth="yes"/>
+      <point x="525" y="-138"/>
+      <point x="513" y="-141"/>
+      <point x="502" y="-148" type="curve" smooth="yes"/>
+      <point x="452" y="-172"/>
+      <point x="411" y="-186"/>
+      <point x="370" y="-186" type="curve" smooth="yes"/>
+      <point x="304" y="-186"/>
+      <point x="280" y="-155"/>
+      <point x="280" y="-121" type="curve" smooth="yes"/>
+      <point x="280" y="-75"/>
+      <point x="326" y="-31"/>
+      <point x="447" y="0" type="curve" smooth="yes"/>
+      <point x="464" y="4"/>
+      <point x="479" y="16"/>
+      <point x="479" y="42" type="curve" smooth="yes"/>
+      <point x="479" y="46"/>
+      <point x="477" y="60"/>
+      <point x="469" y="91" type="curve" smooth="yes"/>
+      <point x="463" y="120"/>
+      <point x="447" y="138"/>
+      <point x="417" y="138" type="curve" smooth="yes"/>
+      <point x="357" y="138"/>
+      <point x="277" y="118"/>
+      <point x="230" y="98" type="curve" smooth="yes"/>
+      <point x="105" y="42"/>
+      <point x="59" y="-51"/>
+      <point x="59" y="-133" type="curve" smooth="yes"/>
+      <point x="59" y="-232"/>
+      <point x="133" y="-360"/>
+      <point x="347" y="-360" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="416" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="384" y="-514" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="-172" y="0" type="move" name="nukta"/>
+    </contour>
+  </outline>
+</glyph>

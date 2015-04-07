@@ -2,6 +2,6 @@
 <glyph name="quotedblleft-deva" format="1">
   <advance width="800"/>
   <outline>
-    <component base="quotedblleft" xOffset="88.883" yOffset="159.990"/>
+    <component base="quotedblleft" xOffset="88.883" yOffset="160"/>
   </outline>
 </glyph>

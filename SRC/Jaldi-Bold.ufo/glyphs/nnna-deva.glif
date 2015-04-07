@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnna-deva" format="1">
+  <advance width="1121"/>
+  <unicode hex="0929"/>
+  <outline>
+    <component base="na-deva"/>
+    <component base="nukta-deva" xOffset="78" yOffset="201"/>
+    <contour>
+      <point x="846" y="0" type="move" name="rakar"/>
+    </contour>
+    <contour>
+      <point x="852" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="852" y="1244" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

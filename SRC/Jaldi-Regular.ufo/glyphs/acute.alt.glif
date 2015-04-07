@@ -26,10 +26,4 @@
       <point x="208" y="1005" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-    </dict>
-  </lib>
 </glyph>

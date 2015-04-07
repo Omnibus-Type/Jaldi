@@ -1,121 +1,121 @@
 # Prefix: DevaRemoveReph
 lookup removeReph {
-	sub uni0915 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0915;
-	sub uni0916 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0916;
-	sub uni0917 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0917;
-	sub uni0918 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0918;
-	sub uni0919 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0919;
-	sub uni091A [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni091A;
-	sub uni091B [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni091B;
-	sub uni091C [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni091C;
-	sub uni091D [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni091D;
-	sub uni091E [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni091E;
-	sub uni091F [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni091F;
-	sub uni0920 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0920;
-	sub uni0921 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0921;
-	sub uni0978 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0978;
-	sub uni0922 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0922;
-	sub uni0923 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0923;
-	sub uni0924 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0924;
-	sub uni0925 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0925;
-	sub uni0926 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0926;
-	sub uni0927 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0927;
-	sub uni0928 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0928;
-	sub uni0929 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0929;
-	sub uni092A [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni092A;
-	sub uni092B [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni092B;
-	sub uni092C [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni092C;
-	sub uni092D [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni092D;
-	sub uni092E [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni092E;
-	sub uni092F [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni092F;
-	sub uni0930 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0930;
-	sub uni0931 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0931;
-	sub uni0932 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0932;
-	sub uni0933 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0933;
-	sub uni0934 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0934;
-	sub uni0935 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0935;
-	sub uni0936 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0936;
-	sub uni0937 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0937;
-	sub uni0938 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0938;
-	sub uni0939 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0939;
-	sub uni0958 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0958;
-	sub uni0959 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0959;
-	sub uni095A [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni095A;
-	sub uni095B [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni095B;
-	sub uni095C [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni095C;
-	sub uni095D [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni095D;
-	sub uni095E [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni095E;
-	sub uni095F [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni095F;
-	sub uni0979 [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0979;
-	sub uni097A [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni097A;
-	sub uni097B [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni097B;
-	sub uni097C [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni097C;
-	sub uni097E [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni097E;
-	sub uni097F [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni097F;
-	sub uni0932.loclMAR [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0932.loclMAR;
-	sub uni0936.loclMAR [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0936.loclMAR;
-	sub uni091D.loclNEP [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni091D.loclNEP;
-	sub uni0979.loclNEP [ uni0930094D uni0930094D0902 uni0930094D0901 ] by uni0979.loclNEP;
+	sub ka-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ka-deva;
+	sub kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by kha-deva;
+	sub ga-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ga-deva;
+	sub gha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by gha-deva;
+	sub nga-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by nga-deva;
+	sub ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ca-deva;
+	sub cha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by cha-deva;
+	sub ja-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ja-deva;
+	sub jha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by jha-deva;
+	sub nya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by nya-deva;
+	sub tta-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tta-deva;
+	sub ttha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ttha-deva;
+	sub dda-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dda-deva;
+	sub dda-deva.MAW [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dda-deva.MAW;
+	sub ddha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ddha-deva;
+	sub nna-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by nna-deva;
+	sub ta-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ta-deva;
+	sub tha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tha-deva;
+	sub da-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by da-deva;
+	sub dha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dha-deva;
+	sub na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by na-deva;
+	sub nnna-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by nnna-deva;
+	sub pa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by pa-deva;
+	sub pha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by pha-deva;
+	sub ba-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ba-deva;
+	sub bha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by bha-deva;
+	sub ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ma-deva;
+	sub ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ya-deva;
+	sub ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ra-deva;
+	sub rra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by rra-deva;
+	sub la-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by la-deva;
+	sub lla-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by lla-deva;
+	sub llla-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by llla-deva;
+	sub va-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by va-deva;
+	sub sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sha-deva;
+	sub ssa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ssa-deva;
+	sub sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sa-deva;
+	sub ha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ha-deva;
+	sub qa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by qa-deva;
+	sub khha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by khha-deva;
+	sub ghha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ghha-deva;
+	sub za-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by za-deva;
+	sub dddha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dddha-deva;
+	sub rha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by rha-deva;
+	sub fa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by fa-deva;
+	sub yya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by yya-deva;
+	sub zha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by zha-deva;
+	sub jjya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by jjya-deva;
+	sub gga-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by gga-deva;
+	sub jja-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by jja-deva;
+	sub ddda-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ddda-deva;
+	sub bba-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by bba-deva;
+	sub la-deva.loclMAR [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by la-deva.loclMAR;
+	sub sha-deva.loclMAR [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sha-deva.loclMAR;
+	sub jha-deva.loclNEP [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by jha-deva.loclNEP;
+	sub zha-deva.loclNEP [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by zha-deva.loclNEP;
 } removeReph;
 
 # Prefix: DevaRemoveCandraBindu
 lookup removeCandraBindu {
-	sub uni0915 [ uni0901 ] by uni0915;
-	sub uni0916 [ uni0901 ] by uni0916;
-	sub uni0917 [ uni0901 ] by uni0917;
-	sub uni0918 [ uni0901 ] by uni0918;
-	sub uni0919 [ uni0901 ] by uni0919;
-	sub uni091A [ uni0901 ] by uni091A;
-	sub uni091B [ uni0901 ] by uni091B;
-	sub uni091C [ uni0901 ] by uni091C;
-	sub uni091D [ uni0901 ] by uni091D;
-	sub uni091E [ uni0901 ] by uni091E;
-	sub uni091F [ uni0901 ] by uni091F;
-	sub uni0920 [ uni0901 ] by uni0920;
-	sub uni0921 [ uni0901 ] by uni0921;
-	sub uni0978 [ uni0901 ] by uni0978;
-	sub uni0922 [ uni0901 ] by uni0922;
-	sub uni0923 [ uni0901 ] by uni0923;
-	sub uni0924 [ uni0901 ] by uni0924;
-	sub uni0925 [ uni0901 ] by uni0925;
-	sub uni0926 [ uni0901 ] by uni0926;
-	sub uni0927 [ uni0901 ] by uni0927;
-	sub uni0928 [ uni0901 ] by uni0928;
-	sub uni0929 [ uni0901 ] by uni0929;
-	sub uni092A [ uni0901 ] by uni092A;
-	sub uni092B [ uni0901 ] by uni092B;
-	sub uni092C [ uni0901 ] by uni092C;
-	sub uni092D [ uni0901 ] by uni092D;
-	sub uni092E [ uni0901 ] by uni092E;
-	sub uni092F [ uni0901 ] by uni092F;
-	sub uni0930 [ uni0901 ] by uni0930;
-	sub uni0931 [ uni0901 ] by uni0931;
-	sub uni0932 [ uni0901 ] by uni0932;
-	sub uni0933 [ uni0901 ] by uni0933;
-	sub uni0934 [ uni0901 ] by uni0934;
-	sub uni0935 [ uni0901 ] by uni0935;
-	sub uni0936 [ uni0901 ] by uni0936;
-	sub uni0937 [ uni0901 ] by uni0937;
-	sub uni0938 [ uni0901 ] by uni0938;
-	sub uni0939 [ uni0901 ] by uni0939;
-	sub uni0958 [ uni0901 ] by uni0958;
-	sub uni0959 [ uni0901 ] by uni0959;
-	sub uni095A [ uni0901 ] by uni095A;
-	sub uni095B [ uni0901 ] by uni095B;
-	sub uni095C [ uni0901 ] by uni095C;
-	sub uni095D [ uni0901 ] by uni095D;
-	sub uni095E [ uni0901 ] by uni095E;
-	sub uni095F [ uni0901 ] by uni095F;
-	sub uni0979 [ uni0901 ] by uni0979;
-	sub uni097A [ uni0901 ] by uni097A;
-	sub uni097B [ uni0901 ] by uni097B;
-	sub uni097C [ uni0901 ] by uni097C;
-	sub uni097E [ uni0901 ] by uni097E;
-	sub uni097F [ uni0901 ] by uni097F;
-	sub uni0932.loclMAR [ uni0901 ] by uni0932.loclMAR;
-	sub uni0936.loclMAR [ uni0901 ] by uni0936.loclMAR;
-	sub uni091D.loclNEP [ uni0901 ] by uni091D.loclNEP;
-	sub uni0979.loclNEP [ uni0901 ] by uni0979.loclNEP;
+	sub ka-deva [ candraBindu-deva ] by ka-deva;
+	sub kha-deva [ candraBindu-deva ] by kha-deva;
+	sub ga-deva [ candraBindu-deva ] by ga-deva;
+	sub gha-deva [ candraBindu-deva ] by gha-deva;
+	sub nga-deva [ candraBindu-deva ] by nga-deva;
+	sub ca-deva [ candraBindu-deva ] by ca-deva;
+	sub cha-deva [ candraBindu-deva ] by cha-deva;
+	sub ja-deva [ candraBindu-deva ] by ja-deva;
+	sub jha-deva [ candraBindu-deva ] by jha-deva;
+	sub nya-deva [ candraBindu-deva ] by nya-deva;
+	sub tta-deva [ candraBindu-deva ] by tta-deva;
+	sub ttha-deva [ candraBindu-deva ] by ttha-deva;
+	sub dda-deva [ candraBindu-deva ] by dda-deva;
+	sub dda-deva.MAW [ candraBindu-deva ] by dda-deva.MAW;
+	sub ddha-deva [ candraBindu-deva ] by ddha-deva;
+	sub nna-deva [ candraBindu-deva ] by nna-deva;
+	sub ta-deva [ candraBindu-deva ] by ta-deva;
+	sub tha-deva [ candraBindu-deva ] by tha-deva;
+	sub da-deva [ candraBindu-deva ] by da-deva;
+	sub dha-deva [ candraBindu-deva ] by dha-deva;
+	sub na-deva [ candraBindu-deva ] by na-deva;
+	sub nnna-deva [ candraBindu-deva ] by nnna-deva;
+	sub pa-deva [ candraBindu-deva ] by pa-deva;
+	sub pha-deva [ candraBindu-deva ] by pha-deva;
+	sub ba-deva [ candraBindu-deva ] by ba-deva;
+	sub bha-deva [ candraBindu-deva ] by bha-deva;
+	sub ma-deva [ candraBindu-deva ] by ma-deva;
+	sub ya-deva [ candraBindu-deva ] by ya-deva;
+	sub ra-deva [ candraBindu-deva ] by ra-deva;
+	sub rra-deva [ candraBindu-deva ] by rra-deva;
+	sub la-deva [ candraBindu-deva ] by la-deva;
+	sub lla-deva [ candraBindu-deva ] by lla-deva;
+	sub llla-deva [ candraBindu-deva ] by llla-deva;
+	sub va-deva [ candraBindu-deva ] by va-deva;
+	sub sha-deva [ candraBindu-deva ] by sha-deva;
+	sub ssa-deva [ candraBindu-deva ] by ssa-deva;
+	sub sa-deva [ candraBindu-deva ] by sa-deva;
+	sub ha-deva [ candraBindu-deva ] by ha-deva;
+	sub qa-deva [ candraBindu-deva ] by qa-deva;
+	sub khha-deva [ candraBindu-deva ] by khha-deva;
+	sub ghha-deva [ candraBindu-deva ] by ghha-deva;
+	sub za-deva [ candraBindu-deva ] by za-deva;
+	sub dddha-deva [ candraBindu-deva ] by dddha-deva;
+	sub rha-deva [ candraBindu-deva ] by rha-deva;
+	sub fa-deva [ candraBindu-deva ] by fa-deva;
+	sub yya-deva [ candraBindu-deva ] by yya-deva;
+	sub zha-deva [ candraBindu-deva ] by zha-deva;
+	sub jjya-deva [ candraBindu-deva ] by jjya-deva;
+	sub gga-deva [ candraBindu-deva ] by gga-deva;
+	sub jja-deva [ candraBindu-deva ] by jja-deva;
+	sub ddda-deva [ candraBindu-deva ] by ddda-deva;
+	sub bba-deva [ candraBindu-deva ] by bba-deva;
+	sub la-deva.loclMAR [ candraBindu-deva ] by la-deva.loclMAR;
+	sub sha-deva.loclMAR [ candraBindu-deva ] by sha-deva.loclMAR;
+	sub jha-deva.loclNEP [ candraBindu-deva ] by jha-deva.loclNEP;
+	sub zha-deva.loclNEP [ candraBindu-deva ] by zha-deva.loclNEP;
 } removeCandraBindu;
 
 # Prefix: Languagesystems
@@ -146,42 +146,42 @@ languagesystem deva MAR;
 
 
 # automatic
-@Uppercase = [ A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA Adieresis uni1EA0 Agrave uni1EA2 Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D uni01F1 uni01C4 Eth Dcaron Dcroat uni1E0C uni01F2 uni01C5 E Eacute Ebreve Ecaron Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 Edieresis Edotaccent uni1EB8 Egrave uni1EBA Emacron Eogonek uni1EBC F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex uni1E24 I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent uni1ECA Igrave uni1EC8 Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L uni01C7 Lacute Lcaron Lcommaaccent Ldot uni01C8 Lslash M N uni01CA Nacute Ncaron Ncommaaccent uni1E44 Eng uni01CB Ntilde O Oacute Obreve Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 Odieresis uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut Omacron uni01EA Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent uni1E5A S Sacute Scaron Scedilla Scircumflex Scommaaccent uni1E62 uni1E9E uni018F T Tbar Tcaron uni0162 uni021A uni1E6C U Uacute Ubreve Ucircumflex Udieresis uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis uni1EF4 Ygrave uni1EF6 uni1EF8 Z Zacute Zcaron Zdotaccent uni1E92 Iacute_J.loclNLD Y.loclGUA Yacute.loclGUA Ycircumflex.loclGUA Ydieresis.loclGUA uni1EF4.loclGUA Ygrave.loclGUA uni1EF6.loclGUA uni1EF8.loclGUA Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Delta Omega ];
+@Uppercase = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZ DZcaron Eth Dcaron Dcroat Ddotbelow Dz Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex Hdotbelow I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M N NJ Nacute Ncaron Ncommaaccent Ndotaccent Eng Nj Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD Y.loclGUA Yacute.loclGUA Ycircumflex.loclGUA Ydieresis.loclGUA Ydotbelow.loclGUA Ygrave.loclGUA Yhookabove.loclGUA Ytilde.loclGUA Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Delta Omega ];
 
 # automatic
-@DevaIMatras = [ uni093F uni093F.00 uni093F.01 uni093F.02 uni093F.03 uni093F.04 uni093F.05 uni093F.06 uni093F.07 uni093F.08 uni093F.09 uni093F.10 uni093F.11 uni093F.12 uni093F.13 uni093F.14 uni093F.15 uni093F.16 uni093F.17 uni093F.18 uni093F.19 uni093F.20 uni093F.21 uni093F.22 uni093F.23 uni093F.24 uni093F.25 uni093F.26 uni093F.27 ];
+@DevaIMatras = [ iMatra-deva iMatra-deva.00 iMatra-deva.01 iMatra-deva.02 iMatra-deva.03 iMatra-deva.04 iMatra-deva.05 iMatra-deva.06 iMatra-deva.07 iMatra-deva.08 iMatra-deva.09 iMatra-deva.10 iMatra-deva.11 iMatra-deva.12 iMatra-deva.13 iMatra-deva.14 iMatra-deva.15 iMatra-deva.16 iMatra-deva.17 iMatra-deva.18 iMatra-deva.19 iMatra-deva.20 iMatra-deva.21 iMatra-deva.22 iMatra-deva.23 iMatra-deva.24 iMatra-deva.25 iMatra-deva.26 iMatra-deva.27 ];
 
 # automatic
-@DevaIMatraRephs = [ uni093F0930094D uni093F0930094D.00 uni093F0930094D.01 uni093F0930094D.02 uni093F0930094D.03 uni093F0930094D.04 uni093F0930094D.05 uni093F0930094D.06 uni093F0930094D.07 uni093F0930094D.08 uni093F0930094D.09 uni093F0930094D.10 uni093F0930094D.11 uni093F0930094D.12 uni093F0930094D.13 uni093F0930094D.14 uni093F0930094D.15 uni093F0930094D.16 uni093F0930094D.17 uni093F0930094D.18 uni093F0930094D.19 uni093F0930094D.20 uni093F0930094D.21 uni093F0930094D.22 uni093F0930094D.23 uni093F0930094D.24 uni093F0930094D.25 uni093F0930094D.26 uni093F0930094D.27 ];
+@DevaIMatraRephs = [ iMatra_reph-deva iMatra_reph-deva.00 iMatra_reph-deva.01 iMatra_reph-deva.02 iMatra_reph-deva.03 iMatra_reph-deva.04 iMatra_reph-deva.05 iMatra_reph-deva.06 iMatra_reph-deva.07 iMatra_reph-deva.08 iMatra_reph-deva.09 iMatra_reph-deva.10 iMatra_reph-deva.11 iMatra_reph-deva.12 iMatra_reph-deva.13 iMatra_reph-deva.14 iMatra_reph-deva.15 iMatra_reph-deva.16 iMatra_reph-deva.17 iMatra_reph-deva.18 iMatra_reph-deva.19 iMatra_reph-deva.20 iMatra_reph-deva.21 iMatra_reph-deva.22 iMatra_reph-deva.23 iMatra_reph-deva.24 iMatra_reph-deva.25 iMatra_reph-deva.26 iMatra_reph-deva.27 ];
 
 # automatic
-@DevaIMatraRephAnusvaras = [ uni093F0930094D0902 uni093F0930094D0902.00 uni093F0930094D0902.01 uni093F0930094D0902.02 uni093F0930094D0902.03 uni093F0930094D0902.04 uni093F0930094D0902.05 uni093F0930094D0902.06 uni093F0930094D0902.07 uni093F0930094D0902.08 uni093F0930094D0902.09 uni093F0930094D0902.10 uni093F0930094D0902.11 uni093F0930094D0902.12 uni093F0930094D0902.13 uni093F0930094D0902.14 uni093F0930094D0902.15 uni093F0930094D0902.16 uni093F0930094D0902.17 uni093F0930094D0902.18 uni093F0930094D0902.19 uni093F0930094D0902.20 uni093F0930094D0902.21 uni093F0930094D0902.22 uni093F0930094D0902.23 uni093F0930094D0902.24 uni093F0930094D0902.25 uni093F0930094D0902.26 uni093F0930094D0902.27 ];
+@DevaIMatraRephAnusvaras = [ iMatra_reph_anusvara-deva iMatra_reph_anusvara-deva.00 iMatra_reph_anusvara-deva.01 iMatra_reph_anusvara-deva.02 iMatra_reph_anusvara-deva.03 iMatra_reph_anusvara-deva.04 iMatra_reph_anusvara-deva.05 iMatra_reph_anusvara-deva.06 iMatra_reph_anusvara-deva.07 iMatra_reph_anusvara-deva.08 iMatra_reph_anusvara-deva.09 iMatra_reph_anusvara-deva.10 iMatra_reph_anusvara-deva.11 iMatra_reph_anusvara-deva.12 iMatra_reph_anusvara-deva.13 iMatra_reph_anusvara-deva.14 iMatra_reph_anusvara-deva.15 iMatra_reph_anusvara-deva.16 iMatra_reph_anusvara-deva.17 iMatra_reph_anusvara-deva.18 iMatra_reph_anusvara-deva.19 iMatra_reph_anusvara-deva.20 iMatra_reph_anusvara-deva.21 iMatra_reph_anusvara-deva.22 iMatra_reph_anusvara-deva.23 iMatra_reph_anusvara-deva.24 iMatra_reph_anusvara-deva.25 iMatra_reph_anusvara-deva.26 iMatra_reph_anusvara-deva.27 ];
 
-@DevaIMatraCandraBindu = [ uni093F0901 uni093F0901.00 uni093F0901.01 uni093F0901.02 uni093F0901.03 uni093F0901.04 uni093F0901.05 uni093F0901.06 uni093F0901.07 uni093F0901.08 uni093F0901.09 uni093F0901.10 uni093F0901.11 uni093F0901.12 uni093F0901.13 uni093F0901.14 uni093F0901.15 uni093F0901.16 uni093F0901.17 uni093F0901.18 uni093F0901.19 uni093F0901.20 uni093F0901.21 uni093F0901.22 uni093F0901.23 uni093F0901.24 uni093F0901.25 uni093F0901.26 uni093F0901.27 ];
+@DevaIMatraCandraBindu = [ iMatra_candraBindu-deva iMatra_candraBindu-deva.00 iMatra_candraBindu-deva.01 iMatra_candraBindu-deva.02 iMatra_candraBindu-deva.03 iMatra_candraBindu-deva.04 iMatra_candraBindu-deva.05 iMatra_candraBindu-deva.06 iMatra_candraBindu-deva.07 iMatra_candraBindu-deva.08 iMatra_candraBindu-deva.09 iMatra_candraBindu-deva.10 iMatra_candraBindu-deva.11 iMatra_candraBindu-deva.12 iMatra_candraBindu-deva.13 iMatra_candraBindu-deva.14 iMatra_candraBindu-deva.15 iMatra_candraBindu-deva.16 iMatra_candraBindu-deva.17 iMatra_candraBindu-deva.18 iMatra_candraBindu-deva.19 iMatra_candraBindu-deva.20 iMatra_candraBindu-deva.21 iMatra_candraBindu-deva.22 iMatra_candraBindu-deva.23 iMatra_candraBindu-deva.24 iMatra_candraBindu-deva.25 iMatra_candraBindu-deva.26 iMatra_candraBindu-deva.27 ];
 
-@DevaIMatraRephCandraBindu = [ uni093F0930094D0901 uni093F0930094D0901.00 uni093F0930094D0901.01 uni093F0930094D0901.02 uni093F0930094D0901.03 uni093F0930094D0901.04 uni093F0930094D0901.05 uni093F0930094D0901.06 uni093F0930094D0901.07 uni093F0930094D0901.08 uni093F0930094D0901.09 uni093F0930094D0901.10 uni093F0930094D0901.11 uni093F0930094D0901.12 uni093F0930094D0901.13 uni093F0930094D0901.14 uni093F0930094D0901.15 uni093F0930094D0901.16 uni093F0930094D0901.17 uni093F0930094D0901.18 uni093F0930094D0901.19 uni093F0930094D0901.20 uni093F0930094D0901.21 uni093F0930094D0901.22 uni093F0930094D0901.23 uni093F0930094D0901.24 uni093F0930094D0901.25 uni093F0930094D0901.26 uni093F0930094D0901.27 ];
-
-# automatic
-@DevaFullforms = [ uni0915 uni0916 uni0917 uni0918 uni0919 uni091A uni091B uni091C uni091D uni091E uni091F uni0920 uni0921 uni0978 uni0922 uni0923 uni0924 uni0925 uni0926 uni0927 uni0928 uni0929 uni092A uni092B uni092C uni092D uni092E uni092F uni0930 uni0931 uni0932 uni0933 uni0934 uni0935 uni0936 uni0937 uni0938 uni0939 uni0958 uni0959 uni095A uni095B uni095C uni095D uni095E uni095F uni0979 uni097A uni097B uni097C uni097E uni097F uni0932.loclMAR uni0936.loclMAR uni091D.loclNEP uni0979.loclNEP ];
+@DevaIMatraRephCandraBindu = [ iMatra_reph_candraBindu-deva iMatra_reph_candraBindu-deva.00 iMatra_reph_candraBindu-deva.01 iMatra_reph_candraBindu-deva.02 iMatra_reph_candraBindu-deva.03 iMatra_reph_candraBindu-deva.04 iMatra_reph_candraBindu-deva.05 iMatra_reph_candraBindu-deva.06 iMatra_reph_candraBindu-deva.07 iMatra_reph_candraBindu-deva.08 iMatra_reph_candraBindu-deva.09 iMatra_reph_candraBindu-deva.10 iMatra_reph_candraBindu-deva.11 iMatra_reph_candraBindu-deva.12 iMatra_reph_candraBindu-deva.13 iMatra_reph_candraBindu-deva.14 iMatra_reph_candraBindu-deva.15 iMatra_reph_candraBindu-deva.16 iMatra_reph_candraBindu-deva.17 iMatra_reph_candraBindu-deva.18 iMatra_reph_candraBindu-deva.19 iMatra_reph_candraBindu-deva.20 iMatra_reph_candraBindu-deva.21 iMatra_reph_candraBindu-deva.22 iMatra_reph_candraBindu-deva.23 iMatra_reph_candraBindu-deva.24 iMatra_reph_candraBindu-deva.25 iMatra_reph_candraBindu-deva.26 iMatra_reph_candraBindu-deva.27 ];
 
 # automatic
-@DevaHalfforms = [ uni0915094D uni0916094D uni0917094D uni0918094D uni0919094D uni091A094D uni091B094D uni091C094D uni091D094D uni091E094D uni091F094D uni0920094D uni0921094D uni0922094D uni0923094D uni0924094D uni0925094D uni0926094D uni0927094D uni0928094D uni092A094D uni092B094D uni092C094D uni092D094D uni092E094D uni092F094D uni0931094D uni0932094D uni0933094D uni0935094D uni0936094D uni0937094D uni0938094D uni0939094D uni0915094D.001 uni092B094D.001 uni091D094D.loclNEP.001 uni0915094D.002 uni092B094D.002 uni091D094D.loclNEP.002 uni0915094D.003 uni092B094D.003 uni091D094D.loclNEP.003 uni0915094D.004 uni092B094D.004 uni091D094D.loclNEP.004 uni0915094D.005 uni092B094D.005 uni091D094D.loclNEP.005 uni092F094D.post.2 uni092F094D.post.3 uni092F094D.post.4 uni092F094D.post.5 uni0932094D.loclMAR uni0936094D.loclMAR uni091D094D.loclNEP uni092F094D.post ];
+@DevaFullforms = [ ka-deva kha-deva ga-deva gha-deva nga-deva ca-deva cha-deva ja-deva jha-deva nya-deva tta-deva ttha-deva dda-deva dda-deva.MAW ddha-deva nna-deva ta-deva tha-deva da-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva bha-deva ma-deva ya-deva ra-deva rra-deva la-deva lla-deva llla-deva va-deva sha-deva ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva zha-deva jjya-deva gga-deva jja-deva ddda-deva bba-deva la-deva.loclMAR sha-deva.loclMAR jha-deva.loclNEP zha-deva.loclNEP ];
 
-@DevaGlyphs = [ colon-deva comma-deva exclam-deva question-deva semicolon-deva braceleft-deva braceright-deva bracketleft-deva bracketright-deva parenleft-deva parenright-deva endash-deva hyphen-deva guilsinglleft-deva guilsinglright-deva quotedblleft-deva quotedblright-deva quoteleft-deva quoteright-deva quotesinglbase-deva onehalf-deva onethird-deva twothirds-deva onequarter-deva threequarters-deva oneeighth-deva oneeighth-deva.loclNEP uni1CF5 uni1CF6 uni1CDA uni1CDB uni0903 uniA8F2 uniA8F3 uniA8F4 uniA8F5 uniA8F6 uniA8F7 uni0941 uni0942 uni0943 uni0944 uni0962 uni0963 uni0945 uni09450930094D uni0901 uni0946 uni09460901 uni09460902 uni09460930094D uni09460930094D0901 uni09460930094D0902 uni0947 uni09470901 uni09470902 uni09470930094D uni09470930094D0901 uni09470930094D0902 uni0948 uni09480901 uni09480902 uni09480930094D uni09480930094D0901 uni09480930094D0902 uni0902 uni094D uni093C uni093C094D uni093C094D0930 uni093C094D09300941 uni093C094D09300942 uni093C094D09300943 uni093C094D09300944 uni093C094D09300962 uni093C094D09300963 uni0930094D uni0930094D0901 uni0930094D0902 uni094D0930 uni094D09300941 uni094D09300942 uni094D09300943 uni094D09300944 uni094D09300962 uni094D09300963 uni0900 uni0955 uni093A uni0956 uni0957 uni0951 uni0952 uni0953 uni0954 uniA8EA uniA8EB uniA8EC uniA8ED uniA8EE uniA8EF uniA8F0 uniA8F1 uniA8E0 uniA8E1 uniA8E2 uniA8E3 uniA8E4 uniA8E5 uniA8E6 uniA8E7 uniA8E8 uniA8E9 uni20B9 uni093D uni0950 uniA8F8 uniA8F9 uni097D uni0964 uni0965 uni0970 uni0971 uniA8FB uni0966 uni0967 uni0968 uni0969 uni096A uni096B uni096C uni096D uni096E uni096F uni096B.loclNEP uni096E.loclNEP uni0915094D uni0916094D uni0917094D uni0918094D uni091A094D uni091B094D uni091C094D uni091D094D uni091E094D uni0923094D uni0924094D uni0925094D uni0927094D uni0928094D uni092A094D uni092B094D uni092C094D uni092D094D uni092E094D uni092F094D uni0931094D uni0932094D uni0933094D uni0935094D uni0936094D uni0937094D uni0938094D uni0939094D r-deva.loclMAR uni0936094D.loclMAR uni091D094D.loclNEP uni092F094D.post uni0904 uni0972 uni0905 uni0906 uni0907 uni0908 uni0909 uni090A uni090B uni0960 uni090C uni0961 uni090D uni090E uni090F uni0910 uni0911 uni0912 uni0913 uni0914 uni0973 uni0974 uni0975 uni0976 uni0977 uni093E uni093F uni093F0930094D uni093F0930094D0902 uni0940 uni09400930094D uni09400930094D0902 uni09400902 uni0949 uni094A uni094B uni094B0902 uni094B0930094D uni094B0930094D0902 uni094C uni094C0902 uni094C0930094D0902 uni094C0930094D uni094E uni093B uni094F uni0940.0 uni09400930094D.0 uni09400930094D0902.0 uni09400902.0 uni093F.00 uni093F0930094D.00 uni093F0930094D0902.00 uni093F.01 uni093F0930094D.01 uni093F0930094D0902.01 uni093F.02 uni093F0930094D.02 uni093F0930094D0902.02 uni093F.03 uni093F0930094D.03 uni093F0930094D0902.03 uni093F.04 uni093F0930094D.04 uni093F0930094D0902.04 uni093F.05 uni093F0930094D.05 uni093F0930094D0902.05 uni093F.06 uni093F0930094D.06 uni093F0930094D0902.06 uni093F.07 uni093F0930094D.07 uni093F0930094D0902.07 uni093F.08 uni093F0930094D.08 uni093F0930094D0902.08 uni093F.09 uni093F0930094D.09 uni093F0930094D0902.09 uni093F.10 uni093F0930094D.10 uni093F0930094D0902.10 uni093F.11 uni093F0930094D.11 uni093F0930094D0902.11 uni093F.12 uni093F0930094D.12 uni093F0930094D0902.12 uni093F.13 uni093F0930094D.13 uni093F0930094D0902.13 uni093F.14 uni093F0930094D.14 uni093F0930094D0902.14 uni093F.15 uni093F0930094D.15 uni093F0930094D0902.15 uni093F.16 uni093F0930094D.16 uni093F0930094D0902.16 uni093F.17 uni093F0930094D.17 uni093F0930094D0902.17 uni093F.18 uni093F0930094D.18 uni093F0930094D0902.18 uni093F.19 uni093F0930094D.19 uni093F0930094D0902.19 uni093F.20 uni093F0930094D.20 uni093F0930094D0902.20 uni093F.21 uni093F0930094D.21 uni093F0930094D0902.21 uni093F.22 uni093F0930094D.22 uni093F0930094D0902.22 uni093F.23 uni093F0930094D.23 uni093F0930094D0902.23 uni093F.24 uni093F0930094D.24 uni093F0930094D0902.24 uni093F.25 uni093F0930094D.25 uni093F0930094D0902.25 uni093F.26 uni093F0930094D.26 uni093F0930094D0902.26 uni093F.27 uni093F0930094D.27 uni093F0930094D0902.27 uni0915 uni0916 uni0917 uni0918 uni0919 uni091A uni091B uni091C uni091D uni091E uni091F uni0920 uni0921 uni0978 uni0922 uni0923 uni0924 uni0925 uni0926 uni0927 uni0928 uni0929 uni092A uni092B uni092C uni092D uni092E uni092F uni0930 uni0931 uni0932 uni0933 uni0934 uni0935 uni0936 uni0937 uni0938 uni0939 uni0958 uni0959 uni095A uni095B uni095C uni095D uni095E uni095F uni0979 uni097A uni097B uni097C uni097E uni097F uni0932.loclMAR uni0936.loclMAR uni091D.loclNEP uni0979.loclNEP uni0915094D0915 uni0915094D0924 uni0915094D0930 uni0915094D0072 uni0915094D0935 uni0915094D0937 uni0915094D0937094D uni0915094D0937094D0930 uni0915094D0937094D0072 uni0916094D0928 uni0916094D0930 uni0916094D0072 uni0917094D0928 uni0917094D0928094D uni0917094D0930 uni0917094D0072 uni0918094D0928 uni0918094D0928094D uni0918094D0930 uni0918094D0072 uni0919094D0915 uni0919094D0915094D0924 uni0919094D0915094D0930 uni0919094D0915094D0937 uni0919094D0916 uni0919094D0917 uni0919094D0917094D0930 uni0919094D0918 uni0919094D0918094D0930 uni0919094D092E uni0919094D092F uni091A094D091B094D0935 uni091A094D0930 uni091A094D0072 uni091B094D0928 uni091B094D092F uni091B094D0935 uni091C094D091C uni091C094D091C094D uni091C094D091E uni091C094D091E094D uni091C094D091E094D0930 uni091C094D091E094D0072 uni091C094D0930 uni091C094D0072 uni091D094D0930 uni091D094D0072 uni091E094D091A uni091E094D091A094D uni091E094D091C uni091E094D091C094D uni091E094D0930 uni091E094D0072 uni091F094D091C uni091F094D091F uni091F094D0920 uni091F094D0922 uni091F094D0928 uni091F094D092F uni091F094D0935 uni0920094D0920 uni0920094D0928 uni0920094D092F uni0920094D0935 uni0921094D0918 uni0921094D091F uni0921094D0921 uni0921094D0922 uni0921094D0928 uni0921094D092E uni0921094D092F uni0921094D0935 uni0922094D0922 uni0922094D0928 uni0922094D092F uni0922094D0935 uni0923094D0930 uni0923094D0072 uni0924094D0924 uni0924094D0924094D uni0924094D0930 uni0924094D0072 uni0925094D0930 uni0925094D0072 uni0926094D0917 uni0926094D0917094D0930 uni0926094D0918 uni0926094D0918094D092F uni0926094D0918094D0072092F uni0926094D0926 uni0926094D0926094D092F uni0926094D0927 uni0926094D0927094D092F uni0926094D0927094D0072092F uni0926094D0928 uni0926094D092C uni0926094D092C094D0930 uni0926094D092D uni0926094D092E uni0926094D092E094D uni0926094D092F uni0926094D092F094D uni0926094D0930 uni0926094D0935 uni0926094D0935094D0930 uni0927094D0930 uni0927094D0072 uni0928094D0928 uni0928094D0928094D uni0928094D0930 uni0928094D0072 uni092A094D0924 uni092A094D0928 uni092A094D0928094D uni092A094D0930 uni092A094D0072 uni092B094D0930 uni092B094D0072 uni092C094D0930 uni092C094D0072 uni092D094D0930 uni092D094D0072 uni092E094D0930 uni092E094D0072 uni092F094D0930 uni092F094D0072 uni09300941 uni09300942 uni0932094D0930 uni0932094D0072 uni0933094D092F uni0935094D0930 uni0935094D0072 uni0936094D090B uni0936094D091A uni0936094D091A094D uni0936094D0928 uni0936094D0928094D uni0936094D0930 uni0936094D0072 uni0936094D0932 uni0936094D0932094D uni0936094D0935 uni0936094D0935094D uni0937094D091F uni0937094D091F094D092F uni0937094D091F094D0935 uni0937094D0920 uni0937094D0920094D092F uni0937094D0920094D0935 uni0937094D0930 uni0937094D0072 uni0938094D0924094D0930 uni0938094D0924094D0072 uni0938094D0930 uni0938094D0072 uni09390943 uni09390944 uni0939094D0923 uni0939094D0928 uni0939094D092E uni0939094D092F uni0939094D0930 uni0939094D0932 uni0939094D0935 uni093F0901 uni093F0930094D0901 uni09400901 uni09400930094D0901 uni09490902 uni09490930094D uni09490930094D0902 uni094A0901 uni094A0902 uni094A0930094D uni094A0930094D0901 uni094A0930094D0902 uni094B0901 uni094B0930094D0901 uni094C0901 uni094C0930094D0901 uni09400901.0 uni09400930094D0901.0 uni093F0901.00 uni093F0930094D0901.00 uni093F0901.01 uni093F0930094D0901.01 uni093F0901.02 uni093F0930094D0901.02 uni093F0901.03 uni093F0930094D0901.03 uni093F0901.04 uni093F0930094D0901.04 uni093F0901.05 uni093F0930094D0901.05 uni093F0901.06 uni093F0930094D0901.06 uni093F0901.07 uni093F0930094D0901.07 uni093F0901.08 uni093F0930094D0901.08 uni093F0901.09 uni093F0930094D0901.09 uni093F0901.10 uni093F0930094D0901.10 uni093F0901.11 uni093F0930094D0901.11 uni093F0901.12 uni093F0930094D0901.12 uni093F0901.13 uni093F0930094D0901.13 uni093F0901.14 uni093F0930094D0901.14 uni093F0901.15 uni093F0930094D0901.15 uni093F0901.16 uni093F0930094D0901.16 uni093F0901.17 uni093F0930094D0901.17 uni093F0901.18 uni093F0930094D0901.18 uni093F0901.19 uni093F0930094D0901.19 uni093F0901.20 uni093F0930094D0901.20 uni093F0901.21 uni093F0930094D0901.21 uni093F0901.22 uni093F0930094D0901.22 uni093F0901.23 uni093F0930094D0901.23 uni093F0901.24 uni093F0930094D0901.24 uni093F0901.25 uni093F0930094D0901.25 uni093F0901.26 uni093F0930094D0901.26 uni093F0901.27 uni093F0930094D0901.27 uni0915094D0932.loclMAR uni091A094D0932.loclMAR uni091B094D0932.loclMAR uni092A094D0932.loclMAR uni092B094D0932.loclMAR uni0932094D0932.loclMAR uni0936094D0932.loclMAR uni0915094D0930.loclNEP ];
+# automatic
+@DevaHalfforms = [ k-deva kh-deva g-deva gh-deva ng-deva c-deva ch-deva j-deva jh-deva ny-deva tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva th-deva d-deva dh-deva n-deva p-deva ph-deva b-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva v-deva sh-deva ss-deva s-deva h-deva k-deva.001 ph-deva.001 jh-deva.loclNEP.001 k-deva.002 ph-deva.002 jh-deva.loclNEP.002 k-deva.003 ph-deva.003 jh-deva.loclNEP.003 k-deva.004 ph-deva.004 jh-deva.loclNEP.004 k-deva.005 ph-deva.005 jh-deva.loclNEP.005 y-deva.post.2 y-deva.post.3 y-deva.post.4 y-deva.post.5 l-deva.loclMAR sh-deva.loclMAR jh-deva.loclNEP y-deva.post ];
 
-@kaHalf = [ uni0915094D0072 uni092B094D0072 uni0915094D uni092B094D uni091D094D.loclNEP ];
+@DevaGlyphs = [ colon-deva comma-deva exclam-deva question-deva semicolon-deva braceleft-deva braceright-deva bracketleft-deva bracketright-deva parenleft-deva parenright-deva endash-deva hyphen-deva guilsinglleft-deva guilsinglright-deva quotedblleft-deva quotedblright-deva quoteleft-deva quoteright-deva quotesinglbase-deva onehalf-deva onethird-deva twothirds-deva onequarter-deva threequarters-deva oneeighth-deva oneeighth-deva.loclNEP uni1CF5 uni1CF6 uni1CDA uni1CDB visarga-deva spacingCandraBindu-deva candraBinduHalant-deva dblcandraBinduHalant-deva candraBinduTwo-deva candraBinduThree-deva candraBinduAvagraha-deva uMatra-deva uuMatra-deva rVocalicMatra-deva rrVocalicMatra-deva lVocalicMatra-deva llVocalicMatra-deva eCandraMatra-deva eCandraMatra_reph-deva candraBindu-deva eShortMatra-deva eShortMatra_candraBindu-deva eShortMatra_anusvara-deva eShortMatra_reph-deva eShortMatra_reph_candraBindu-deva eShortMatra_reph_anusvara-deva eMatra-deva eMatra_candraBindu-deva eMatra_anusvara-deva eMatra_reph-deva eMatra_reph_candraBindu-deva eMatra_reph_anusvara-deva aiMatra-deva aiMatra_candraBindu-deva aiMatra_anusvara-deva aiMatra_reph-deva aiMatra_reph_candraBindu-deva aiMatra_reph_anusvara-deva anusvara-deva halant-deva nukta-deva nukta_halant-deva nukta_rakar-deva nukta_rakar_uMatra-deva nukta_rakar_uuMatra-deva nukta_rakar_rVocalicMatra-deva nukta_rakar_rrVocalicMatra-deva nukta_rakar_lVocalicMatra-deva nukta_rakar_llVocalicMatra-deva reph-deva reph_candraBindu-deva reph_anusvara-deva rakar-deva rakar_uMatra-deva rakar_uuMatra-deva rakar_rVocalicMatra-deva rakar_rrVocalicMatra-deva rakar_lVocalicMatra-deva rakar_llVocalicMatra-deva invertedCandraBindu-deva eLongCandra-deva oeMatra-deva ueMatra-deva uueMatra-deva udatta-deva anudatta-deva grave-deva acute-deva combiningA-deva combiningU-deva combiningKa-deva combiningNa-deva combiningPa-deva combiningRa-deva combiningVi-deva combiningAvagraha-deva combiningZero-deva combiningOne-deva combiningTwo-deva combiningThree-deva combiningFour-deva combiningFive-deva combiningSix-deva combiningSeven-deva combiningEight-deva combiningNine-deva rupeeIndian avagraha-deva om-deva pushpika-deva gapfiller-deva glottalstop-deva danda-deva dbldanda-deva abbreviation-deva highspacingdot-deva headstroked-deva zero-deva one-deva two-deva three-deva four-deva five-deva six-deva seven-deva eight-deva nine-deva five-deva.loclNEP eight-deva.loclNEP k-deva kh-deva g-deva gh-deva c-deva ch-deva j-deva jh-deva ny-deva nn-deva t-deva th-deva dh-deva n-deva p-deva ph-deva b-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva v-deva sh-deva ss-deva s-deva h-deva r-deva.loclMAR sh-deva.loclMAR jh-deva.loclNEP y-deva.post aShort-deva aCandra-deva a-deva aa-deva i-deva ii-deva u-deva uu-deva rVocalic-deva rrVocalic-deva lVocalic-deva llVocalic-deva eCandra-deva eShort-deva e-deva ai-deva oCandra-deva oShort-deva o-deva au-deva oe-deva ooe-deva aw-deva ue-deva uue-deva aaMatra-deva iMatra-deva iMatra_reph-deva iMatra_reph_anusvara-deva iiMatra-deva iiMatra_reph-deva iiMatra_reph_anusvara-deva iiMatra_anusvara-deva oCandraMatra-deva oShortMatra-deva oMatra-deva oMatra_anusvara-deva oMatra_reph-deva oMatra_reph_anusvara-deva auMatra-deva auMatra_anusvara-deva auMatra_reph_anusvara-deva auMatra_reph-deva prishthaMatraE-deva ooeMatra-deva awMatra-deva iiMatra-deva.0 iiMatra_reph-deva.0 iiMatra_reph_anusvara-deva.0 iiMatra_anusvara-deva.0 iMatra-deva.00 iMatra_reph-deva.00 iMatra_reph_anusvara-deva.00 iMatra-deva.01 iMatra_reph-deva.01 iMatra_reph_anusvara-deva.01 iMatra-deva.02 iMatra_reph-deva.02 iMatra_reph_anusvara-deva.02 iMatra-deva.03 iMatra_reph-deva.03 iMatra_reph_anusvara-deva.03 iMatra-deva.04 iMatra_reph-deva.04 iMatra_reph_anusvara-deva.04 iMatra-deva.05 iMatra_reph-deva.05 iMatra_reph_anusvara-deva.05 iMatra-deva.06 iMatra_reph-deva.06 iMatra_reph_anusvara-deva.06 iMatra-deva.07 iMatra_reph-deva.07 iMatra_reph_anusvara-deva.07 iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08 iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09 iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10 iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11 iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12 iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13 iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14 iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15 iMatra-deva.16 iMatra_reph-deva.16 iMatra_reph_anusvara-deva.16 iMatra-deva.17 iMatra_reph-deva.17 iMatra_reph_anusvara-deva.17 iMatra-deva.18 iMatra_reph-deva.18 iMatra_reph_anusvara-deva.18 iMatra-deva.19 iMatra_reph-deva.19 iMatra_reph_anusvara-deva.19 iMatra-deva.20 iMatra_reph-deva.20 iMatra_reph_anusvara-deva.20 iMatra-deva.21 iMatra_reph-deva.21 iMatra_reph_anusvara-deva.21 iMatra-deva.22 iMatra_reph-deva.22 iMatra_reph_anusvara-deva.22 iMatra-deva.23 iMatra_reph-deva.23 iMatra_reph_anusvara-deva.23 iMatra-deva.24 iMatra_reph-deva.24 iMatra_reph_anusvara-deva.24 iMatra-deva.25 iMatra_reph-deva.25 iMatra_reph_anusvara-deva.25 iMatra-deva.26 iMatra_reph-deva.26 iMatra_reph_anusvara-deva.26 iMatra-deva.27 iMatra_reph-deva.27 iMatra_reph_anusvara-deva.27 ka-deva kha-deva ga-deva gha-deva nga-deva ca-deva cha-deva ja-deva jha-deva nya-deva tta-deva ttha-deva dda-deva dda-deva.MAW ddha-deva nna-deva ta-deva tha-deva da-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva bha-deva ma-deva ya-deva ra-deva rra-deva la-deva lla-deva llla-deva va-deva sha-deva ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva zha-deva jjya-deva gga-deva jja-deva ddda-deva bba-deva la-deva.loclMAR sha-deva.loclMAR jha-deva.loclNEP zha-deva.loclNEP k_ka-deva k_ta-deva k_ra-deva k_r-deva k_va-deva k_ssa-deva k_ss-deva k_ss_ra-deva k_ss_r-deva kh_na-deva kh_ra-deva kh_r-deva g_na-deva g_n-deva g_ra-deva g_r-deva gh_na-deva gh_n-deva gh_ra-deva gh_r-deva ng_ka-deva ng_k_ta-deva ng_k_ra-deva ng_k_ssa-deva ng_kha-deva ng_ga-deva ng_g_ra-deva ng_gha-deva ng_gh_ra-deva ng_ma-deva ng_ya-deva c_ch_va-deva c_ra-deva c_r-deva ch_na-deva ch_ya-deva ch_va-deva j_ja-deva j_j-deva j_nya-deva j_ny-deva j_ny_ra-deva j_ny_r-deva j_ra-deva j_r-deva jh_ra-deva jh_r-deva ny_ca-deva ny_c-deva ny_ja-deva ny_j-deva ny_ra-deva ny_r-deva tt_ja-deva tt_tta-deva tt_ttha-deva tt_ddha-deva tt_na-deva tt_ya-deva tt_va-deva tth_ttha-deva tth_na-deva tth_ya-deva tth_va-deva dd_gha-deva dd_tta-deva dd_dda-deva dd_ddha-deva dd_na-deva dd_ma-deva dd_ya-deva dd_va-deva ddh_ddha-deva ddh_na-deva ddh_ya-deva ddh_va-deva nn_ra-deva nn_r-deva t_ta-deva t_t-deva t_ra-deva t_r-deva th_ra-deva th_r-deva d_ga-deva d_g_ra-deva d_gha-deva d_gh_ya-deva d_gh_r_ya-deva d_da-deva d_d_ya-deva d_dha-deva d_dh_ya-deva d_dh_r_ya-deva d_na-deva d_ba-deva d_b_ra-deva d_bha-deva d_ma-deva d_m-deva d_ya-deva d_y-deva d_ra-deva d_va-deva d_v_ra-deva dh_ra-deva dh_r-deva n_na-deva n_n-deva n_ra-deva n_r-deva p_ta-deva p_na-deva p_n-deva p_ra-deva p_r-deva ph_ra-deva ph_r-deva b_ra-deva b_r-deva bh_ra-deva bh_r-deva m_ra-deva m_r-deva y_ra-deva y_r-deva ra_uMatra-deva ra_uuMatra-deva l_ra-deva l_r-deva ll_ya-deva v_ra-deva v_r-deva sh_rVocalic-deva sh_ca-deva sh_c-deva sh_na-deva sh_n-deva sh_ra-deva sh_r-deva sh_la-deva sh_l-deva sh_va-deva sh_v-deva ss_tta-deva ss_tt_ya-deva ss_tt_va-deva ss_ttha-deva ss_tth_ya-deva ss_tth_va-deva ss_ra-deva ss_r-deva s_t_ra-deva s_t_r-deva s_ra-deva s_r-deva ha_rVocalicMatra-deva ha_rrVocalicMatra-deva h_nna-deva h_na-deva h_ma-deva h_ya-deva h_ra-deva h_la-deva h_va-deva iMatra_candraBindu-deva iMatra_reph_candraBindu-deva iiMatra_candraBindu-deva iiMatra_reph_candraBindu-deva oCandraMatra_anusvara-deva oCandraMatra_reph-deva oCandraMatra_reph_anusvara-deva oShortMatra_candraBindu-deva oShortMatra_anusvara-deva oShortMatra_reph-deva oShortMatra_reph_candraBindu-deva oShortMatra_reph_anusvara-deva oMatra_candraBindu-deva oMatra_reph_candraBindu-deva auMatra_candraBindu-deva auMatra_reph_candraBindu-deva iiMatra_candraBindu-deva.0 iiMatra_reph_candraBindu-deva.0 iMatra_candraBindu-deva.00 iMatra_reph_candraBindu-deva.00 iMatra_candraBindu-deva.01 iMatra_reph_candraBindu-deva.01 iMatra_candraBindu-deva.02 iMatra_reph_candraBindu-deva.02 iMatra_candraBindu-deva.03 iMatra_reph_candraBindu-deva.03 iMatra_candraBindu-deva.04 iMatra_reph_candraBindu-deva.04 iMatra_candraBindu-deva.05 iMatra_reph_candraBindu-deva.05 iMatra_candraBindu-deva.06 iMatra_reph_candraBindu-deva.06 iMatra_candraBindu-deva.07 iMatra_reph_candraBindu-deva.07 iMatra_candraBindu-deva.08 iMatra_reph_candraBindu-deva.08 iMatra_candraBindu-deva.09 iMatra_reph_candraBindu-deva.09 iMatra_candraBindu-deva.10 iMatra_reph_candraBindu-deva.10 iMatra_candraBindu-deva.11 iMatra_reph_candraBindu-deva.11 iMatra_candraBindu-deva.12 iMatra_reph_candraBindu-deva.12 iMatra_candraBindu-deva.13 iMatra_reph_candraBindu-deva.13 iMatra_candraBindu-deva.14 iMatra_reph_candraBindu-deva.14 iMatra_candraBindu-deva.15 iMatra_reph_candraBindu-deva.15 iMatra_candraBindu-deva.16 iMatra_reph_candraBindu-deva.16 iMatra_candraBindu-deva.17 iMatra_reph_candraBindu-deva.17 iMatra_candraBindu-deva.18 iMatra_reph_candraBindu-deva.18 iMatra_candraBindu-deva.19 iMatra_reph_candraBindu-deva.19 iMatra_candraBindu-deva.20 iMatra_reph_candraBindu-deva.20 iMatra_candraBindu-deva.21 iMatra_reph_candraBindu-deva.21 iMatra_candraBindu-deva.22 iMatra_reph_candraBindu-deva.22 iMatra_candraBindu-deva.23 iMatra_reph_candraBindu-deva.23 iMatra_candraBindu-deva.24 iMatra_reph_candraBindu-deva.24 iMatra_candraBindu-deva.25 iMatra_reph_candraBindu-deva.25 iMatra_candraBindu-deva.26 iMatra_reph_candraBindu-deva.26 iMatra_candraBindu-deva.27 iMatra_reph_candraBindu-deva.27 k_la-deva.loclMAR c_la-deva.loclMAR ch_la-deva.loclMAR p_la-deva.loclMAR ph_la-deva.loclMAR l_la-deva.loclMAR sh_la-deva.loclMAR k_ra-deva.loclNEP ];
 
-@kaHalf1 = [ uni0915094D0072.001 uni092B094D0072.001 uni0915094D.001 uni092B094D.001 uni091D094D.loclNEP.001 ];
+@kaHalf = [ k_r-deva ph_r-deva k-deva ph-deva jh-deva.loclNEP ];
 
-@kaHalf2 = [ uni0915094D0072.002 uni092B094D0072.002 uni0915094D.002 uni092B094D.002 uni091D094D.loclNEP.002 ];
+@kaHalf1 = [ k_r-deva.001 ph_r-deva.001 k-deva.001 ph-deva.001 jh-deva.loclNEP.001 ];
 
-@kaHalf3 = [ uni0915094D0072.003 uni092B094D0072.003 uni0915094D.003 uni092B094D.003 uni091D094D.loclNEP.003 ];
+@kaHalf2 = [ k_r-deva.002 ph_r-deva.002 k-deva.002 ph-deva.002 jh-deva.loclNEP.002 ];
 
-@kaHalf4 = [ uni0915094D0072.004 uni092B094D0072.004 uni0915094D.004 uni092B094D.004 uni091D094D.loclNEP.004 ];
+@kaHalf3 = [ k_r-deva.003 ph_r-deva.003 k-deva.003 ph-deva.003 jh-deva.loclNEP.003 ];
 
-@kaHalf5 = [ uni0915094D0072.005 uni092B094D0072.005 uni0915094D.005 uni092B094D.005 uni091D094D.loclNEP.005 ];
+@kaHalf4 = [ k_r-deva.004 ph_r-deva.004 k-deva.004 ph-deva.004 jh-deva.loclNEP.004 ];
 
-@NuktaDevaHalfforms = [ uni0915094D uni0916094D uni0917094D uni0918094D uni0919094D uni091A094D uni091B094D uni091C094D uni091D094D uni091E094D uni091F094D uni0920094D uni0921094D uni0922094D uni0923094D uni0924094D uni0925094D uni0926094D uni0927094D uni0928094D uni092A094D uni092B094D uni092C094D uni092D094D uni092E094D uni092F094D uni0931094D uni0932094D uni0933094D uni0935094D uni0936094D uni0937094D uni0938094D uni0939094D uni0932094D.loclMAR uni0936094D.loclMAR uni091D094D.loclNEP ];
+@kaHalf5 = [ k_r-deva.005 ph_r-deva.005 k-deva.005 ph-deva.005 jh-deva.loclNEP.005 ];
+
+@NuktaDevaHalfforms = [ k-deva kh-deva g-deva gh-deva ng-deva c-deva ch-deva j-deva jh-deva ny-deva tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva th-deva d-deva dh-deva n-deva p-deva ph-deva b-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva v-deva sh-deva ss-deva s-deva h-deva l-deva.loclMAR sh-deva.loclMAR jh-deva.loclNEP ];
 
 feature aalt {
 # automatic
@@ -499,8 +499,8 @@ lookup rakar {
 } rakar;
 
 lookup rakar_fullforms {
-	sub da-deva halant-deva gha-deva rakar-deva halant-deva ya-deva by d_gh_r_ya-deva;
-	sub da-deva halant-deva dha-deva rakar-deva halant-deva ya-deva by d_dh_r_ya-deva;
+	sub da-deva halant-deva gha-deva rakar-deva ya-deva by d_gh_r_ya-deva;
+	sub da-deva halant-deva dha-deva rakar-deva ya-deva by d_dh_r_ya-deva;
 	sub da-deva halant-deva ga-deva rakar-deva by d_g_ra-deva;
 	sub da-deva halant-deva ba-deva rakar-deva by d_b_ra-deva;
 	sub da-deva halant-deva va-deva rakar-deva by d_v_ra-deva;
@@ -616,6 +616,7 @@ lookup rakar_fullformsNukta {
 } rakar_fullformsNukta;
 
 lookup rakar_halfforms {
+	lookupflag IgnoreMarks;
 	sub s_t_ra-deva halant-deva by s_t_r-deva;
 	sub k_ss_ra-deva halant-deva by k_ss_r-deva;
 	sub j_ny_ra-deva halant-deva by j_ny_r-deva;
@@ -950,6 +951,7 @@ lookup cjct_marathi {
 feature pres {
 script dev2;
 lookup Imatra1_devanagari {
+	lookupflag IgnoreMarks;
 	sub [iMatra-deva]' k-deva.001 s-deva p_ra-deva by [iMatra-deva.23];
 	sub [iMatra-deva]' k-deva.001 s-deva p-deva la-deva by [iMatra-deva.27];
 	sub [iMatra-deva]' t-deva s-deva n-deva ya-deva by [iMatra-deva.24];

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jjya-deva" format="1">
+  <advance width="1257"/>
+  <unicode hex="097A"/>
+  <outline>
+    <contour>
+      <point x="913" y="484" type="line"/>
+      <point x="434" y="1186" type="line"/>
+      <point x="341" y="1129" type="line"/>
+      <point x="821" y="427" type="line"/>
+    </contour>
+    <component base="ya-deva"/>
+    <contour>
+      <point x="361" y="184" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="960" y="1232" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="962" y="0" type="move" name="rakar"/>
+    </contour>
+    <contour>
+      <point x="960" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

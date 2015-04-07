@@ -57,31 +57,36 @@ This information should be distributed along with the Jaldi fonts and any deriva
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**25 February 2015 (Jaldi v.1.2) Omnibus-Type**
+**6 April 2015 (Jaldi v.1.003) Omnibus-Type**
+- Fixed linked anchors in nukta instances
+- Inserted 'lookupflag IgnoreMarks' in pres
+- Inserted rakar Anchor below halant
+
+**25 February 2015 (Jaldi v.1.002) Omnibus-Type**
 - Fixed issue with nukta next to halant
 - Matched size of the Devanagari letters with Ek Mukta
 - Improved conections between iMatras with reph and the stem of the last consonant in a cluster
 
-**27 January 2015 (Jaldi v.1.1) Omnibus-Type**
+**27 January 2015 (Jaldi v.1.001) Omnibus-Type**
 - Removed Reserve Font Name from the license
 - fsType Installable mode
 
-**14 Jan 2015 (Jaldi v.1.1) Omnibus-Type**
+**14 Jan 2015 (Jaldi v.1.001) Omnibus-Type**
 - Several changes in the proportion of the letters (Thanks Vaishnavi).
 - Enhance halfform conections with other consonants.
 - Added halfforms variants for Ka, Pha and others.
 - Scaled glyphs in order to stay insie 1k UPM
 
-**14 Nov 2014 (Jaldi v.1.0) Omnibus-Type**
+**14 Nov 2014 (Jaldi v.1.000) Omnibus-Type**
 - First complete released of Jaldi (previously Asap Devanagari)
 
 **11 Nov 2014 (Jaldi v.0.9) Omnibus-Type**
 - Released beta version of Jaldi (previously Asap Devanagari)
 
-**22 Sep 2014 (v.1.5) Omnibus-Type**
+**22 Sep 2014 (v.1.005) Omnibus-Type**
 - Starting with the development of the Devanagari version
 
-**1 Oct 2013 (v.1.5) Omnibus-Type**
+**1 Oct 2013 (v.1.005) Omnibus-Type**
 - Expanded in order to support Adobe Latin 3 and vietnamite
 - Updating hinting with ttfautohint (v0.97)
 - Increased vertical metrics

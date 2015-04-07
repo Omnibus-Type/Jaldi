@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gga-deva" format="1">
+  <advance width="1205"/>
+  <unicode hex="097B"/>
+  <outline>
+    <contour>
+      <point x="994" y="-171" type="line" smooth="yes"/>
+      <point x="1031" y="-171"/>
+      <point x="1051" y="-152"/>
+      <point x="1051" y="-114" type="curve" smooth="yes"/>
+      <point x="1051" y="92" type="line"/>
+      <point x="821" y="92" type="line"/>
+      <point x="821" y="0" type="line"/>
+      <point x="219" y="0" type="line" smooth="yes"/>
+      <point x="181" y="0"/>
+      <point x="162" y="-20"/>
+      <point x="162" y="-58" type="curve" smooth="yes"/>
+      <point x="162" y="-114" type="line" smooth="yes"/>
+      <point x="162" y="-152"/>
+      <point x="181" y="-171"/>
+      <point x="219" y="-171" type="curve" smooth="yes"/>
+    </contour>
+    <component base="ga-deva"/>
+    <contour>
+      <point x="937" y="1244" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -26,7 +26,7 @@
       <point x="347" y="-3"/>
       <point x="363" y="-3" type="curve" smooth="yes"/>
     </contour>
-    <component base="uni0969" xOffset="904.831" xScale="0.59" yScale="0.59"/>
-    <component base="uni0968" xOffset="95.994" yOffset="524.411" xScale="0.59" yScale="0.59"/>
+    <component base="three-deva" xOffset="904.831" xScale="0.59" yScale="0.59"/>
+    <component base="two-deva" xOffset="95.994" yOffset="524.411" xScale="0.59" yScale="0.59"/>
   </outline>
 </glyph>

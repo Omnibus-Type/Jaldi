@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ch_la-deva.loclMAR" format="1">
+  <advance width="1522"/>
+  <outline>
+    <contour>
+      <point x="1184" y="34" type="line"/>
+      <point x="1184" y="363" type="line"/>
+      <point x="1048" y="363" type="line"/>
+      <point x="1048" y="34" type="line"/>
+    </contour>
+    <component base="ch-deva.post"/>
+    <component base="l-deva.post.loclMAR" xOffset="-17.777" yOffset="-835.502"/>
+    <contour>
+      <point x="781" y="-587" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="1108" y="1232" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="785" y="-587" type="move" name="rakar"/>
+    </contour>
+    <contour>
+      <point x="783" y="-587" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

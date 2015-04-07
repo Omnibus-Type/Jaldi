@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l-deva.loclMAR" format="1">
+  <advance width="1626"/>
+  <outline>
+    <component base="la-deva.loclMAR"/>
+    <component base="halant-deva" xOffset="623"/>
+    <contour>
+      <point x="806" y="-393" type="move" name="rakar"/>
+    </contour>
+  </outline>
+</glyph>
