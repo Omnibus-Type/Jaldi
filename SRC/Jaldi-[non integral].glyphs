@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/halant-deva/ng-deva/tt-deva/tth-deva/dd-deva/ddh-deva/d-deva/l-deva.loclMAR"
-);
 classes = (
 {
 automatic = 1;
@@ -112,7 +109,6 @@ value = OMNI;
 {
 name = fsType;
 value = (
-    3
 );
 },
 {
@@ -124,7 +120,7 @@ name = description;
 value = "Jaldi is the devanagari version of Asap\012wich is based on Ancha (designed by Pablo Cosgaya & Hector Gatti). This family\012specially developed for screen and desktop use\012offers of a standarised character width on all styles\012which helps retain the same length on all text lines. ";
 }
 );
-date = "2015-02-26 01:22:08 +0000";
+date = "2015-04-13 21:50:15 +0000";
 designer = "Pablo Cosgaya and Nicolas Silva";
 designerURL = "http://www.omnibus-type.com";
 familyName = "Jaldi";
@@ -267,15 +263,15 @@ capHeight = 607;
 customParameters = (
 {
 name = shoulderHeight;
-value = "1290";
+value = "630";
 },
 {
 name = typoAscender;
-value = "2349";
+value = "1147";
 },
 {
 name = typoDescender;
-value = "-1094";
+value = "-534";
 },
 {
 name = typoLineGap;
@@ -283,19 +279,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = "2349";
+value = "1147";
 },
 {
 name = winDescent;
-value = "1094";
+value = "534";
 },
 {
 name = hheaAscender;
-value = "2349";
+value = "1147";
 },
 {
 name = hheaDescender;
-value = "-1094";
+value = "-534";
 },
 {
 name = hheaLineGap;
@@ -332,39 +328,39 @@ capHeight = 607;
 customParameters = (
 {
 name = shoulderHeight;
-value = "1290";
+value = "630";
 },
 {
 name = typoAscender;
-value = "2349";
+value = "1147";
 },
 {
 name = typoDescender;
-value = "-1094";
+value = "-534";
 },
 {
 name = typoLineGap;
-value = 0;
+value = "0";
 },
 {
 name = winAscent;
-value = "2349";
+value = "1147";
 },
 {
 name = winDescent;
-value = "1094";
+value = "534";
 },
 {
 name = hheaAscender;
-value = "2349";
+value = "1147";
 },
 {
 name = hheaDescender;
-value = "-1094";
+value = "-534";
 },
 {
 name = hheaLineGap;
-value = 0;
+value = "0";
 }
 );
 descender = "-534";
@@ -11884,7 +11880,7 @@ unicode = 1EB3;
 },
 {
 glyphname = abrevetilde;
-lastChange = "2015-02-25 02:41:07 +0000";
+lastChange = "2015-04-13 21:55:58 +0000";
 layers = (
 {
 components = (
@@ -11915,7 +11911,7 @@ transform = "{1, 0, 0, 1, 100, 0}";
 },
 {
 name = tilde.alt;
-transform = "{1, 0, 0, 1, 78, 141.5}";
+transform = "{1, 0, 0, 1, 84.5, 152.5}";
 }
 );
 layerId = "163C89DF-00F0-42B6-A1D9-DCBEB7633CF5";
@@ -129570,8 +129566,8 @@ name = "TTFAutohint options";
 value = "--default-script=deva --fallback-script=deva --windows-compatibility --composites --no-info";
 },
 {
-name = "Scale to UPM";
-value = "2048";
+name = "Remove post names for webfonts";
+value = "1";
 }
 );
 interpolationWeight = 77;
@@ -129599,11 +129595,12 @@ name = "TTFAutohint options";
 value = "--default-script=deva --fallback-script=deva --windows-compatibility --composites --no-info";
 },
 {
-name = "Scale to UPM";
-value = "2048";
+name = "Remove post names for webfonts";
+value = 1;
 }
 );
 interpolationWeight = 129;
+isBold = 1;
 name = Bold;
 }
 );
@@ -130265,5 +130262,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }

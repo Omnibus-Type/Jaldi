@@ -22,14 +22,13 @@ which helps retain the same length on all text lines. </string>
 	<string>Jaldi</string>
 	<key>fsType</key>
 	<array>
-		<integer>3</integer>
 	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2015/02/25 17:22:08</string>
+	<string>2015/04/13 14:50:13</string>
 	<key>openTypeHheaAscender</key>
-	<integer>2349</integer>
+	<integer>2350</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-1094</integer>
+	<integer>-1111</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDescription</key>
@@ -55,9 +54,9 @@ which helps retain the same length on all text lines. </string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>2349</integer>
+	<integer>2350</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-1094</integer>
+	<integer>-1111</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WeightClass</key>
@@ -65,9 +64,9 @@ which helps retain the same length on all text lines. </string>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2349</integer>
+	<integer>2350</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>1094</integer>
+	<integer>1111</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-16</integer>
@@ -81,12 +80,12 @@ which helps retain the same length on all text lines. </string>
 	</array>
 	<key>postscriptFamilyBlues</key>
 	<array>
-		<integer>-8</integer>
+		<integer>-17</integer>
 		<integer>0</integer>
-		<integer>454</integer>
-		<integer>462</integer>
-		<integer>607</integer>
-		<integer>615</integer>
+		<integer>930</integer>
+		<integer>945</integer>
+		<integer>1245</integer>
+		<integer>1260</integer>
 	</array>
 	<key>postscriptFamilyOtherBlues</key>
 	<array>
@@ -124,7 +123,7 @@ which helps retain the same length on all text lines. </string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>3</integer>
+	<integer>4</integer>
 	<key>xHeight</key>
 	<integer>930</integer>
 </dict>

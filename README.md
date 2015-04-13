@@ -57,6 +57,11 @@ This information should be distributed along with the Jaldi fonts and any deriva
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**13 April 2015 (Jaldi v.1.004) Omnibus-Type**
+- Updated Family Aligment zones in TTF fonts
+- Fixed vertical metrics and embox values
+- fsType 0: Installable Mode
+
 **6 April 2015 (Jaldi v.1.003) Omnibus-Type**
 - Fixed linked anchors in nukta instances
 - Inserted 'lookupflag IgnoreMarks' in pres
