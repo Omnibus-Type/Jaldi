@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/nukta-deva/nukta_halant-deva/nukta_rakar-deva/nukta_rakar_uMatra-deva/nukta_rakar_uuMatra-deva/anusvara-deva/nukta-deva/nukta-deva/rakar-deva/rakar_rVocalicMatra-deva/nukta_rakar_rVocalicMatra-deva/nukta_rakar_rrVocalicMatra-deva/nukta_rakar_lVocalicMatra-deva/nukta_rakar_llVocalicMatra-deva"
+);
 classes = (
 {
 automatic = 1;
@@ -6555,8 +6558,8 @@ position = "{258, 1248.5}";
 background = {
 anchors = (
 {
-name = center;
-position = "{533.5, 596}";
+name = bottom;
+position = "{502, 0}";
 },
 {
 name = caron;
@@ -6567,8 +6570,8 @@ name = top;
 position = "{258, 1248.5}";
 },
 {
-name = bottom;
-position = "{502, 0}";
+name = center;
+position = "{533.5, 596}";
 }
 );
 paths = (
@@ -22454,8 +22457,8 @@ position = "{222, 1280}";
 background = {
 anchors = (
 {
-name = center;
-position = "{495.5, 596}";
+name = bottom;
+position = "{318.5, 0}";
 },
 {
 name = caron;
@@ -22466,8 +22469,8 @@ name = top;
 position = "{222, 1280}";
 },
 {
-name = bottom;
-position = "{318.5, 0}";
+name = center;
+position = "{495.5, 596}";
 }
 );
 paths = (
@@ -164549,12 +164552,12 @@ position = "{325.5, 930}";
 background = {
 anchors = (
 {
-name = _tilde;
-position = "{319.5, 1104}";
-},
-{
 name = _top;
 position = "{325.5, 930}";
+},
+{
+name = _tilde;
+position = "{319.5, 1104}";
 }
 );
 components = (
@@ -165386,12 +165389,12 @@ position = "{325.5, 930}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{325.5, 930}";
-},
-{
 name = _tilde;
 position = "{319.5, 1031}";
+},
+{
+name = _top;
+position = "{325.5, 930}";
 }
 );
 paths = (
@@ -168164,12 +168167,12 @@ name = top;
 position = "{860, 1244}";
 },
 {
-name = candrabindu;
-position = "{799.5, 1553.5}";
-},
-{
 name = _top;
 position = "{848, 1244}";
+},
+{
+name = candrabindu;
+position = "{799.5, 1553.5}";
 }
 );
 paths = (
@@ -168724,12 +168727,12 @@ position = "{961.5, 1483}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{848, 1244}";
-},
-{
 name = candrabindu;
 position = "{961.5, 1483}";
+},
+{
+name = _top;
+position = "{848, 1244}";
 }
 );
 components = (
@@ -169084,12 +169087,12 @@ position = "{1280, 1481.5}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{848, 1244}";
-},
-{
 name = candrabindu;
 position = "{1280, 1481.5}";
+},
+{
+name = _top;
+position = "{848, 1244}";
 }
 );
 components = (
@@ -169276,12 +169279,12 @@ position = "{247, 1553.5}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{247, 1553.5}";
-},
-{
 name = _top;
 position = "{487.5, 1244}";
+},
+{
+name = candrabindu;
+position = "{247, 1553.5}";
 }
 );
 paths = (
@@ -169640,12 +169643,12 @@ position = "{592, 1492}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{592, 1492}";
-},
-{
 name = _top;
 position = "{497.5, 1244}";
+},
+{
+name = candrabindu;
+position = "{592, 1492}";
 }
 );
 paths = (
@@ -169853,12 +169856,12 @@ position = "{521, 2069.5}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{497.5, 1244}";
-},
-{
 name = candrabindu;
 position = "{521, 2069.5}";
+},
+{
+name = _top;
+position = "{497.5, 1244}";
 }
 );
 components = (
@@ -170084,12 +170087,12 @@ position = "{988, 1480.5}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{497.5, 1244}";
-},
-{
 name = candrabindu;
 position = "{988, 1480.5}";
+},
+{
+name = _top;
+position = "{497.5, 1244}";
 }
 );
 components = (
@@ -170315,12 +170318,12 @@ position = "{473, 1553.5}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{473, 1553.5}";
-},
-{
 name = _top;
 position = "{592, 1244}";
+},
+{
+name = candrabindu;
+position = "{473, 1553.5}";
 }
 );
 paths = (
@@ -170868,12 +170871,12 @@ position = "{700.5, 1483}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{700.5, 1483}";
-},
-{
 name = _top;
 position = "{553, 1244}";
+},
+{
+name = candrabindu;
+position = "{700.5, 1483}";
 }
 );
 paths = (
@@ -171135,12 +171138,12 @@ position = "{645, 2069.5}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{553, 1244}";
-},
-{
 name = candrabindu;
 position = "{645, 2069.5}";
+},
+{
+name = _top;
+position = "{553, 1244}";
 }
 );
 components = (
@@ -171423,12 +171426,12 @@ position = "{1060, 1480.5}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{553, 1244}";
-},
-{
 name = candrabindu;
 position = "{1060, 1480.5}";
+},
+{
+name = _top;
+position = "{553, 1244}";
 }
 );
 components = (
@@ -171719,12 +171722,12 @@ name = _imatra;
 position = "{256, 1244}";
 },
 {
-name = _top;
-position = "{222, 1244}";
-},
-{
 name = _iimatra;
 position = "{-377, 1244}";
+},
+{
+name = _top;
+position = "{222, 1244}";
 }
 );
 paths = (
@@ -171968,7 +171971,7 @@ unicode = 094D;
 },
 {
 glyphname = "nukta-deva";
-lastChange = "2015-02-26 04:32:42 +0000";
+lastChange = "2015-04-14 00:15:19 +0000";
 layers = (
 {
 anchors = (
@@ -171999,14 +172002,27 @@ transform = "{1, 0, 0, 1, -46.219, -1772.331}";
 }
 );
 };
-components = (
-{
-name = "anusvara-deva";
-transform = "{1, 0, 0, 1, -46.219, -1772.331}";
-}
-);
 layerId = "FB715283-CFB2-4766-AFCA-39E45F97C573";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"246 -301 OFFCURVE",
+"277 -268 OFFCURVE",
+"275 -200 CURVE SMOOTH",
+"277 -139 OFFCURVE",
+"251 -103 OFFCURVE",
+"178 -103 CURVE SMOOTH",
+"113 -103 OFFCURVE",
+"79 -126 OFFCURVE",
+"79 -200 CURVE SMOOTH",
+"79 -270 OFFCURVE",
+"106 -301 OFFCURVE",
+"178 -301 CURVE SMOOTH"
+);
+}
+);
 width = 355.5;
 },
 {
@@ -172020,14 +172036,27 @@ name = rakar;
 position = "{796.5, 0}";
 }
 );
-components = (
-{
-name = "anusvara-deva";
-transform = "{1, 0, 0, 1, -46.219, -1818.55}";
-}
-);
 layerId = "78047C5B-B34F-4F0E-9C92-9BD1482D9144";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"275 -377 OFFCURVE",
+"313 -336 OFFCURVE",
+"313 -240 CURVE SMOOTH",
+"313 -145 OFFCURVE",
+"273 -105 OFFCURVE",
+"178 -105 CURVE SMOOTH",
+"87 -105 OFFCURVE",
+"39 -138 OFFCURVE",
+"39 -244 CURVE SMOOTH",
+"39 -336 OFFCURVE",
+"80 -377 OFFCURVE",
+"174 -377 CURVE SMOOTH"
+);
+}
+);
 width = 355.5;
 }
 );
@@ -172108,13 +172137,17 @@ width = 533.5;
 {
 color = 4;
 glyphname = "nukta_rakar-deva";
-lastChange = "2015-02-26 04:32:42 +0000";
+lastChange = "2015-04-14 00:30:15 +0000";
 layers = (
 {
 anchors = (
 {
 name = _rakar;
 position = "{386, 0}";
+},
+{
+name = rakar;
+position = "{390, 0}";
 }
 );
 background = {
@@ -172139,14 +172172,29 @@ components = (
 {
 name = "rakar-deva";
 transform = "{1, 0, 0, 1, 0, -179}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 210, 34}";
 }
 );
 layerId = "FB715283-CFB2-4766-AFCA-39E45F97C573";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"456 -267 OFFCURVE",
+"487 -234 OFFCURVE",
+"485 -166 CURVE SMOOTH",
+"487 -105 OFFCURVE",
+"461 -69 OFFCURVE",
+"388 -69 CURVE SMOOTH",
+"323 -69 OFFCURVE",
+"289 -92 OFFCURVE",
+"289 -166 CURVE SMOOTH",
+"289 -236 OFFCURVE",
+"316 -267 OFFCURVE",
+"388 -267 CURVE SMOOTH"
+);
+}
+);
 width = 775;
 },
 {
@@ -172154,20 +172202,39 @@ anchors = (
 {
 name = _rakar;
 position = "{387, 0}";
+},
+{
+name = rakar;
+position = "{390, 0}";
 }
 );
 components = (
 {
 name = "rakar-deva";
 transform = "{1, 0, 0, 1, 0, -254}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 210, 31}";
 }
 );
 layerId = "78047C5B-B34F-4F0E-9C92-9BD1482D9144";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"485 -346 OFFCURVE",
+"523 -305 OFFCURVE",
+"523 -209 CURVE SMOOTH",
+"523 -114 OFFCURVE",
+"483 -74 OFFCURVE",
+"388 -74 CURVE SMOOTH",
+"297 -74 OFFCURVE",
+"249 -107 OFFCURVE",
+"249 -213 CURVE SMOOTH",
+"249 -305 OFFCURVE",
+"290 -346 OFFCURVE",
+"384 -346 CURVE SMOOTH"
+);
+}
+);
 width = 775;
 }
 );
@@ -172175,7 +172242,7 @@ width = 775;
 {
 color = 4;
 glyphname = "nukta_rakar_uMatra-deva";
-lastChange = "2015-04-07 01:57:33 +0000";
+lastChange = "2015-04-14 00:29:59 +0000";
 layers = (
 {
 anchors = (
@@ -172186,6 +172253,10 @@ position = "{413.5, 0}";
 {
 name = bottom;
 position = "{401.5, -958.5}";
+},
+{
+name = rakar;
+position = "{425, 0}";
 }
 );
 background = {
@@ -172214,14 +172285,29 @@ components = (
 {
 name = "rakar_uMatra-deva";
 transform = "{1, 0, 0, 1, 0, -253}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 247, 103}";
 }
 );
 layerId = "FB715283-CFB2-4766-AFCA-39E45F97C573";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"493 -198 OFFCURVE",
+"524 -165 OFFCURVE",
+"522 -97 CURVE SMOOTH",
+"524 -36 OFFCURVE",
+"498 0 OFFCURVE",
+"425 0 CURVE SMOOTH",
+"360 0 OFFCURVE",
+"326 -23 OFFCURVE",
+"326 -97 CURVE SMOOTH",
+"326 -167 OFFCURVE",
+"353 -198 OFFCURVE",
+"425 -198 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 },
 {
@@ -172233,20 +172319,39 @@ position = "{413.5, 0}";
 {
 name = bottom;
 position = "{401.5, -1055.5}";
+},
+{
+name = rakar;
+position = "{425, 2}";
 }
 );
 components = (
 {
 name = "rakar_uMatra-deva";
 transform = "{1, 0, 0, 1, 0, -320}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 247, 107}";
 }
 );
 layerId = "78047C5B-B34F-4F0E-9C92-9BD1482D9144";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"522 -270 OFFCURVE",
+"560 -229 OFFCURVE",
+"560 -133 CURVE SMOOTH",
+"560 -38 OFFCURVE",
+"520 2 OFFCURVE",
+"425 2 CURVE SMOOTH",
+"334 2 OFFCURVE",
+"286 -31 OFFCURVE",
+"286 -137 CURVE SMOOTH",
+"286 -229 OFFCURVE",
+"327 -270 OFFCURVE",
+"421 -270 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 }
 );
@@ -172254,7 +172359,7 @@ width = 799.5;
 {
 color = 4;
 glyphname = "nukta_rakar_uuMatra-deva";
-lastChange = "2015-04-07 01:57:33 +0000";
+lastChange = "2015-04-14 00:29:48 +0000";
 layers = (
 {
 anchors = (
@@ -172265,6 +172370,10 @@ position = "{389, 0}";
 {
 name = bottom;
 position = "{401.5, -958.5}";
+},
+{
+name = rakar;
+position = "{391, 0}";
 }
 );
 background = {
@@ -172293,14 +172402,29 @@ components = (
 {
 name = "rakar_uuMatra-deva";
 transform = "{1, 0, 0, 1, 0, -253}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 213, 103}";
 }
 );
 layerId = "FB715283-CFB2-4766-AFCA-39E45F97C573";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"459 -198 OFFCURVE",
+"490 -165 OFFCURVE",
+"488 -97 CURVE SMOOTH",
+"490 -36 OFFCURVE",
+"464 0 OFFCURVE",
+"391 0 CURVE SMOOTH",
+"326 0 OFFCURVE",
+"292 -23 OFFCURVE",
+"292 -97 CURVE SMOOTH",
+"292 -167 OFFCURVE",
+"319 -198 OFFCURVE",
+"391 -198 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 },
 {
@@ -172312,20 +172436,39 @@ position = "{398.5, 0}";
 {
 name = bottom;
 position = "{401.5, -1055.5}";
+},
+{
+name = rakar;
+position = "{408, 2}";
 }
 );
 components = (
 {
 name = "rakar_uuMatra-deva";
 transform = "{1, 0, 0, 1, 0, -320}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 230, 107}";
 }
 );
 layerId = "78047C5B-B34F-4F0E-9C92-9BD1482D9144";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"505 -270 OFFCURVE",
+"543 -229 OFFCURVE",
+"543 -133 CURVE SMOOTH",
+"543 -38 OFFCURVE",
+"503 2 OFFCURVE",
+"408 2 CURVE SMOOTH",
+"317 2 OFFCURVE",
+"269 -31 OFFCURVE",
+"269 -137 CURVE SMOOTH",
+"269 -229 OFFCURVE",
+"310 -270 OFFCURVE",
+"404 -270 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 }
 );
@@ -172333,7 +172476,7 @@ width = 799.5;
 {
 color = 4;
 glyphname = "nukta_rakar_rVocalicMatra-deva";
-lastChange = "2015-04-07 01:57:33 +0000";
+lastChange = "2015-04-14 00:29:24 +0000";
 layers = (
 {
 anchors = (
@@ -172344,6 +172487,10 @@ position = "{413.5, 0}";
 {
 name = bottom;
 position = "{437, -958.5}";
+},
+{
+name = rakar;
+position = "{425, 0}";
 }
 );
 background = {
@@ -172372,14 +172519,29 @@ components = (
 {
 name = "rakar_rVocalicMatra-deva";
 transform = "{1, 0, 0, 1, 0, -253}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 247, 103}";
 }
 );
 layerId = "FB715283-CFB2-4766-AFCA-39E45F97C573";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"493 -198 OFFCURVE",
+"524 -165 OFFCURVE",
+"522 -97 CURVE SMOOTH",
+"524 -36 OFFCURVE",
+"498 0 OFFCURVE",
+"425 0 CURVE SMOOTH",
+"360 0 OFFCURVE",
+"326 -23 OFFCURVE",
+"326 -97 CURVE SMOOTH",
+"326 -167 OFFCURVE",
+"353 -198 OFFCURVE",
+"425 -198 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 },
 {
@@ -172389,22 +172551,37 @@ name = _rakar;
 position = "{415.5, 0}";
 },
 {
-name = bottom;
-position = "{437, -1047.5}";
+name = rakar;
+position = "{425, -7}";
 }
 );
 components = (
 {
 name = "rakar_rVocalicMatra-deva";
 transform = "{1, 0, 0, 1, 0, -329}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 247, 98}";
 }
 );
 layerId = "78047C5B-B34F-4F0E-9C92-9BD1482D9144";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"522 -279 OFFCURVE",
+"560 -238 OFFCURVE",
+"560 -142 CURVE SMOOTH",
+"560 -47 OFFCURVE",
+"520 -7 OFFCURVE",
+"425 -7 CURVE SMOOTH",
+"334 -7 OFFCURVE",
+"286 -40 OFFCURVE",
+"286 -146 CURVE SMOOTH",
+"286 -238 OFFCURVE",
+"327 -279 OFFCURVE",
+"421 -279 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 }
 );
@@ -172412,7 +172589,7 @@ width = 799.5;
 {
 color = 4;
 glyphname = "nukta_rakar_rrVocalicMatra-deva";
-lastChange = "2015-04-07 01:57:33 +0000";
+lastChange = "2015-04-14 00:29:17 +0000";
 layers = (
 {
 anchors = (
@@ -172423,6 +172600,10 @@ position = "{413.5, 0}";
 {
 name = bottom;
 position = "{437, -976}";
+},
+{
+name = rakar;
+position = "{408, 0}";
 }
 );
 background = {
@@ -172451,14 +172632,29 @@ components = (
 {
 name = "rakar_rrVocalicMatra-deva";
 transform = "{1, 0, 0, 1, 0, -253}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 230, 103}";
 }
 );
 layerId = "FB715283-CFB2-4766-AFCA-39E45F97C573";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"476 -198 OFFCURVE",
+"507 -165 OFFCURVE",
+"505 -97 CURVE SMOOTH",
+"507 -36 OFFCURVE",
+"481 0 OFFCURVE",
+"408 0 CURVE SMOOTH",
+"343 0 OFFCURVE",
+"309 -23 OFFCURVE",
+"309 -97 CURVE SMOOTH",
+"309 -167 OFFCURVE",
+"336 -198 OFFCURVE",
+"408 -198 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 },
 {
@@ -172470,20 +172666,39 @@ position = "{415.5, 0}";
 {
 name = bottom;
 position = "{437, -1118}";
+},
+{
+name = rakar;
+position = "{425, -7}";
 }
 );
 components = (
 {
 name = "rakar_rrVocalicMatra-deva";
 transform = "{1, 0, 0, 1, 0, -329}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 247, 98}";
 }
 );
 layerId = "78047C5B-B34F-4F0E-9C92-9BD1482D9144";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"522 -279 OFFCURVE",
+"560 -238 OFFCURVE",
+"560 -142 CURVE SMOOTH",
+"560 -47 OFFCURVE",
+"520 -7 OFFCURVE",
+"425 -7 CURVE SMOOTH",
+"334 -7 OFFCURVE",
+"286 -40 OFFCURVE",
+"286 -146 CURVE SMOOTH",
+"286 -238 OFFCURVE",
+"327 -279 OFFCURVE",
+"421 -279 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 }
 );
@@ -172491,7 +172706,7 @@ width = 799.5;
 {
 color = 4;
 glyphname = "nukta_rakar_lVocalicMatra-deva";
-lastChange = "2015-04-07 01:57:33 +0000";
+lastChange = "2015-04-14 00:29:08 +0000";
 layers = (
 {
 anchors = (
@@ -172502,6 +172717,10 @@ position = "{413.5, 0}";
 {
 name = bottom;
 position = "{420, -976}";
+},
+{
+name = rakar;
+position = "{411, 0}";
 }
 );
 background = {
@@ -172530,14 +172749,29 @@ components = (
 {
 name = "rakar_lVocalicMatra-deva";
 transform = "{1, 0, 0, 1, 0, -253}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 233, 103}";
 }
 );
 layerId = "FB715283-CFB2-4766-AFCA-39E45F97C573";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"479 -198 OFFCURVE",
+"510 -165 OFFCURVE",
+"508 -97 CURVE SMOOTH",
+"510 -36 OFFCURVE",
+"484 0 OFFCURVE",
+"411 0 CURVE SMOOTH",
+"346 0 OFFCURVE",
+"312 -23 OFFCURVE",
+"312 -97 CURVE SMOOTH",
+"312 -167 OFFCURVE",
+"339 -198 OFFCURVE",
+"411 -198 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 },
 {
@@ -172549,20 +172783,39 @@ position = "{415.5, 0}";
 {
 name = bottom;
 position = "{420, -1082.5}";
+},
+{
+name = rakar;
+position = "{425, -7}";
 }
 );
 components = (
 {
 name = "rakar_lVocalicMatra-deva";
 transform = "{1, 0, 0, 1, 0, -329}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 247, 98}";
 }
 );
 layerId = "78047C5B-B34F-4F0E-9C92-9BD1482D9144";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"522 -279 OFFCURVE",
+"560 -238 OFFCURVE",
+"560 -142 CURVE SMOOTH",
+"560 -47 OFFCURVE",
+"520 -7 OFFCURVE",
+"425 -7 CURVE SMOOTH",
+"334 -7 OFFCURVE",
+"286 -40 OFFCURVE",
+"286 -146 CURVE SMOOTH",
+"286 -238 OFFCURVE",
+"327 -279 OFFCURVE",
+"421 -279 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 }
 );
@@ -172570,7 +172823,7 @@ width = 799.5;
 {
 color = 4;
 glyphname = "nukta_rakar_llVocalicMatra-deva";
-lastChange = "2015-04-07 01:57:33 +0000";
+lastChange = "2015-04-14 00:28:59 +0000";
 layers = (
 {
 anchors = (
@@ -172581,6 +172834,10 @@ position = "{413.5, 0}";
 {
 name = bottom;
 position = "{420, -993.5}";
+},
+{
+name = rakar;
+position = "{425, 0}";
 }
 );
 background = {
@@ -172609,14 +172866,29 @@ components = (
 {
 name = "rakar_llVocalicMatra-deva";
 transform = "{1, 0, 0, 1, 0, -253}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 247, 103}";
 }
 );
 layerId = "FB715283-CFB2-4766-AFCA-39E45F97C573";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"493 -198 OFFCURVE",
+"524 -165 OFFCURVE",
+"522 -97 CURVE SMOOTH",
+"524 -36 OFFCURVE",
+"498 0 OFFCURVE",
+"425 0 CURVE SMOOTH",
+"360 0 OFFCURVE",
+"326 -23 OFFCURVE",
+"326 -97 CURVE SMOOTH",
+"326 -167 OFFCURVE",
+"353 -198 OFFCURVE",
+"425 -198 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 },
 {
@@ -172628,20 +172900,39 @@ position = "{415.5, 0}";
 {
 name = bottom;
 position = "{420, -1082.5}";
+},
+{
+name = rakar;
+position = "{425, -7}";
 }
 );
 components = (
 {
 name = "rakar_llVocalicMatra-deva";
 transform = "{1, 0, 0, 1, 0, -329}";
-},
-{
-name = "nukta-deva";
-transform = "{1, 0, 0, 1, 247, 98}";
 }
 );
 layerId = "78047C5B-B34F-4F0E-9C92-9BD1482D9144";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"522 -279 OFFCURVE",
+"560 -238 OFFCURVE",
+"560 -142 CURVE SMOOTH",
+"560 -47 OFFCURVE",
+"520 -7 OFFCURVE",
+"425 -7 CURVE SMOOTH",
+"334 -7 OFFCURVE",
+"286 -40 OFFCURVE",
+"286 -146 CURVE SMOOTH",
+"286 -238 OFFCURVE",
+"327 -279 OFFCURVE",
+"421 -279 CURVE SMOOTH"
+);
+}
+);
 width = 799.5;
 }
 );
@@ -172672,8 +172963,8 @@ position = "{304, 1483}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{304, 1483}";
+name = _iimatra;
+position = "{-293, 1244}";
 },
 {
 name = _imatra;
@@ -172684,8 +172975,8 @@ name = _top;
 position = "{203, 1244}";
 },
 {
-name = _iimatra;
-position = "{-293, 1244}";
+name = candrabindu;
+position = "{304, 1483}";
 }
 );
 paths = (
@@ -172861,8 +173152,8 @@ position = "{179, 2069.5}";
 background = {
 anchors = (
 {
-name = _iimatra;
-position = "{-293, 1244}";
+name = candrabindu;
+position = "{179, 2069.5}";
 },
 {
 name = _imatra;
@@ -172873,8 +173164,8 @@ name = _top;
 position = "{203, 1244}";
 },
 {
-name = candrabindu;
-position = "{179, 2069.5}";
+name = _iimatra;
+position = "{-293, 1244}";
 }
 );
 components = (
@@ -173068,8 +173359,8 @@ position = "{622.5, 1480.5}";
 background = {
 anchors = (
 {
-name = _iimatra;
-position = "{-293, 1244}";
+name = candrabindu;
+position = "{622.5, 1480.5}";
 },
 {
 name = _imatra;
@@ -173080,8 +173371,8 @@ name = _top;
 position = "{203, 1244}";
 },
 {
-name = candrabindu;
-position = "{622.5, 1480.5}";
+name = _iimatra;
+position = "{-293, 1244}";
 }
 );
 components = (

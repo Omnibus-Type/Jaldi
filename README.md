@@ -57,7 +57,12 @@ This information should be distributed along with the Jaldi fonts and any deriva
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**13 April 2015 (Jaldi v.1.004) Omnibus-Type**
+**13 April 2015 (Jaldi v.1.004-beta.2) Omnibus-Type**
+- Fixed nuktarakar procompound glyphs in TTF fonts
+- Removed all name tables records with `platformID="1"`
+- Updated TTFs with ttfautohint 1.3
+
+**13 April 2015 (Jaldi v.1.004-beta.1) Omnibus-Type**
 - Updated Family Aligment zones in TTF fonts
 - Fixed vertical metrics and embox values
 - fsType 0: Installable Mode
