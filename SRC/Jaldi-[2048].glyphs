@@ -6558,8 +6558,8 @@ position = "{258, 1248.5}";
 background = {
 anchors = (
 {
-name = bottom;
-position = "{502, 0}";
+name = center;
+position = "{533.5, 596}";
 },
 {
 name = caron;
@@ -6570,8 +6570,8 @@ name = top;
 position = "{258, 1248.5}";
 },
 {
-name = center;
-position = "{533.5, 596}";
+name = bottom;
+position = "{502, 0}";
 }
 );
 paths = (
@@ -22457,8 +22457,8 @@ position = "{222, 1280}";
 background = {
 anchors = (
 {
-name = bottom;
-position = "{318.5, 0}";
+name = center;
+position = "{495.5, 596}";
 },
 {
 name = caron;
@@ -22469,8 +22469,8 @@ name = top;
 position = "{222, 1280}";
 },
 {
-name = center;
-position = "{495.5, 596}";
+name = bottom;
+position = "{318.5, 0}";
 }
 );
 paths = (
@@ -164552,12 +164552,12 @@ position = "{325.5, 930}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{325.5, 930}";
-},
-{
 name = _tilde;
 position = "{319.5, 1104}";
+},
+{
+name = _top;
+position = "{325.5, 930}";
 }
 );
 components = (
@@ -165389,12 +165389,12 @@ position = "{325.5, 930}";
 background = {
 anchors = (
 {
-name = _tilde;
-position = "{319.5, 1031}";
-},
-{
 name = _top;
 position = "{325.5, 930}";
+},
+{
+name = _tilde;
+position = "{319.5, 1031}";
 }
 );
 paths = (
@@ -168167,12 +168167,12 @@ name = top;
 position = "{860, 1244}";
 },
 {
-name = _top;
-position = "{848, 1244}";
-},
-{
 name = candrabindu;
 position = "{799.5, 1553.5}";
+},
+{
+name = _top;
+position = "{848, 1244}";
 }
 );
 paths = (
@@ -168727,12 +168727,12 @@ position = "{961.5, 1483}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{961.5, 1483}";
-},
-{
 name = _top;
 position = "{848, 1244}";
+},
+{
+name = candrabindu;
+position = "{961.5, 1483}";
 }
 );
 components = (
@@ -169087,12 +169087,12 @@ position = "{1280, 1481.5}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{1280, 1481.5}";
-},
-{
 name = _top;
 position = "{848, 1244}";
+},
+{
+name = candrabindu;
+position = "{1280, 1481.5}";
 }
 );
 components = (
@@ -169279,12 +169279,12 @@ position = "{247, 1553.5}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{487.5, 1244}";
-},
-{
 name = candrabindu;
 position = "{247, 1553.5}";
+},
+{
+name = _top;
+position = "{487.5, 1244}";
 }
 );
 paths = (
@@ -169643,12 +169643,12 @@ position = "{592, 1492}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{497.5, 1244}";
-},
-{
 name = candrabindu;
 position = "{592, 1492}";
+},
+{
+name = _top;
+position = "{497.5, 1244}";
 }
 );
 paths = (
@@ -169856,12 +169856,12 @@ position = "{521, 2069.5}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{521, 2069.5}";
-},
-{
 name = _top;
 position = "{497.5, 1244}";
+},
+{
+name = candrabindu;
+position = "{521, 2069.5}";
 }
 );
 components = (
@@ -170087,12 +170087,12 @@ position = "{988, 1480.5}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{988, 1480.5}";
-},
-{
 name = _top;
 position = "{497.5, 1244}";
+},
+{
+name = candrabindu;
+position = "{988, 1480.5}";
 }
 );
 components = (
@@ -170318,12 +170318,12 @@ position = "{473, 1553.5}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{592, 1244}";
-},
-{
 name = candrabindu;
 position = "{473, 1553.5}";
+},
+{
+name = _top;
+position = "{592, 1244}";
 }
 );
 paths = (
@@ -170871,12 +170871,12 @@ position = "{700.5, 1483}";
 background = {
 anchors = (
 {
-name = _top;
-position = "{553, 1244}";
-},
-{
 name = candrabindu;
 position = "{700.5, 1483}";
+},
+{
+name = _top;
+position = "{553, 1244}";
 }
 );
 paths = (
@@ -171138,12 +171138,12 @@ position = "{645, 2069.5}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{645, 2069.5}";
-},
-{
 name = _top;
 position = "{553, 1244}";
+},
+{
+name = candrabindu;
+position = "{645, 2069.5}";
 }
 );
 components = (
@@ -171426,12 +171426,12 @@ position = "{1060, 1480.5}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{1060, 1480.5}";
-},
-{
 name = _top;
 position = "{553, 1244}";
+},
+{
+name = candrabindu;
+position = "{1060, 1480.5}";
 }
 );
 components = (
@@ -171722,12 +171722,12 @@ name = _imatra;
 position = "{256, 1244}";
 },
 {
-name = _iimatra;
-position = "{-377, 1244}";
-},
-{
 name = _top;
 position = "{222, 1244}";
+},
+{
+name = _iimatra;
+position = "{-377, 1244}";
 }
 );
 paths = (
@@ -172963,8 +172963,8 @@ position = "{304, 1483}";
 background = {
 anchors = (
 {
-name = _iimatra;
-position = "{-293, 1244}";
+name = candrabindu;
+position = "{304, 1483}";
 },
 {
 name = _imatra;
@@ -172975,8 +172975,8 @@ name = _top;
 position = "{203, 1244}";
 },
 {
-name = candrabindu;
-position = "{304, 1483}";
+name = _iimatra;
+position = "{-293, 1244}";
 }
 );
 paths = (
@@ -173152,8 +173152,8 @@ position = "{179, 2069.5}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{179, 2069.5}";
+name = _iimatra;
+position = "{-293, 1244}";
 },
 {
 name = _imatra;
@@ -173164,8 +173164,8 @@ name = _top;
 position = "{203, 1244}";
 },
 {
-name = _iimatra;
-position = "{-293, 1244}";
+name = candrabindu;
+position = "{179, 2069.5}";
 }
 );
 components = (
@@ -173359,8 +173359,8 @@ position = "{622.5, 1480.5}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{622.5, 1480.5}";
+name = _iimatra;
+position = "{-293, 1244}";
 },
 {
 name = _imatra;
@@ -173371,8 +173371,8 @@ name = _top;
 position = "{203, 1244}";
 },
 {
-name = _iimatra;
-position = "{-293, 1244}";
+name = candrabindu;
+position = "{622.5, 1480.5}";
 }
 );
 components = (
@@ -186430,5 +186430,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
