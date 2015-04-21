@@ -57,6 +57,9 @@ This information should be distributed along with the Jaldi fonts and any deriva
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**21 April 2015 (Jaldi Release Candidate v.1.006) Omnibus-Type**
+- Support of most of the consonants for half forms with a nukta, rakar forms, rakar forms with a nukta, half rakar forms, and half rakar forms with a nukta
+
 **13 April 2015 (Jaldi Release Candidate v.1.005) Omnibus-Type**
 - Changed semantic versioning to fit name tables records
 

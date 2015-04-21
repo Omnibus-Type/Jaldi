@@ -123,7 +123,7 @@ which helps retain the same length on all text lines. </string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>5</integer>
+	<integer>6</integer>
 	<key>xHeight</key>
 	<integer>930</integer>
 </dict>

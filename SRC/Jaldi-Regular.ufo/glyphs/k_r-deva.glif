@@ -22,7 +22,7 @@
     </contour>
     <component base="k-deva"/>
     <contour>
-      <point x="184" y="0" type="move" name="nukta"/>
+      <point x="44" y="406" type="move" name="nukta"/>
     </contour>
   </outline>
 </glyph>

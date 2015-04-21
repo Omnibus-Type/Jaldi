@@ -70,7 +70,7 @@
     </contour>
     <component base="stem-deva" xOffset="595.517"/>
     <contour>
-      <point x="125" y="92" type="move" name="nukta"/>
+      <point x="531" y="103" type="move" name="nukta"/>
     </contour>
     <contour>
       <point x="848" y="0" type="move" name="bottom"/>
