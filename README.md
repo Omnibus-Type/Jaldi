@@ -5,7 +5,7 @@ Jaldi [Asap-Devanagari]
 
 Jaldi, the Devanagari typeface family designed as a complement of Asap.
 
-![Sample of Jaldi](SRC/jaldi_poster.JPG "Jaldi")
+![Sample of Jaldi](SRC/jaldi_poster.png "Jaldi")
 
 # Jaldi family
 
