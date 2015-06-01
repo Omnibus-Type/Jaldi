@@ -7,4 +7,57 @@
     <component base="circumflex.alt" xOffset="213"/>
     <component base="grave" xOffset="394" yOffset="229"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>a</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>circumflex.alt</string>
+              <key>x</key>
+              <integer>213</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>grave</string>
+              <key>x</key>
+              <integer>394</integer>
+              <key>y</key>
+              <integer>229</integer>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>acircumflexgrave</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>969</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

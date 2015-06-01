@@ -7,4 +7,57 @@
     <component base="acute" xOffset="304"/>
     <component base="horncomb" xOffset="-3" yOffset="-8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>o</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>acute</string>
+              <key>x</key>
+              <integer>304</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>horncomb</string>
+              <key>x</key>
+              <integer>-3</integer>
+              <key>y</key>
+              <integer>-8</integer>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ohornacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1012</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

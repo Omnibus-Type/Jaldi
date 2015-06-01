@@ -7,4 +7,57 @@
     <component base="breve.alt" xOffset="267" yOffset="314"/>
     <component base="grave.alt" xOffset="194" yOffset="518"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>A</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>breve.alt</string>
+              <key>x</key>
+              <real>266.5</real>
+              <key>y</key>
+              <integer>314</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>grave.alt</string>
+              <key>x</key>
+              <real>193.5</real>
+              <key>y</key>
+              <integer>518</integer>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Abrevegrave</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1090</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -4,4 +4,41 @@
   <outline>
     <component base="guilsinglright" yOffset="106.660"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>guilsinglright</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <real>106.66</real>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guilsinglright-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>533.5</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -4,4 +4,41 @@
   <outline>
     <component base="parenleft" xOffset="-35.553" yOffset="119.103" yScale="1.04"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>parenleft</string>
+              <key>x</key>
+              <real>-35.553</real>
+              <key>y</key>
+              <real>119.103</real>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>535.5</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

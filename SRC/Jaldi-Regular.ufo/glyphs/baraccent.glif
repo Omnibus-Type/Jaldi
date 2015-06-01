@@ -7,4 +7,49 @@
       <point x="292" y="563" type="move" name="_center"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>_center</string>
+              <key>x</key>
+              <integer>292</integer>
+              <key>y</key>
+              <integer>563</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>macron</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <real>-581.296</real>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>baraccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>563</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

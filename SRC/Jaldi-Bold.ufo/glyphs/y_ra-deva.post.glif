@@ -92,4 +92,14 @@
       <point x="921" y="1244" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>y-deva.post</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>y-deva.post</string>
+    </dict>
+  </lib>
 </glyph>

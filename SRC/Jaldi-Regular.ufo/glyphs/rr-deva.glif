@@ -6,4 +6,57 @@
     <component base="nukta-deva" xOffset="25" yOffset="184"/>
     <component base="halant-deva" xOffset="381"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>ra-deva</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>nukta-deva</string>
+              <key>x</key>
+              <real>24.5</real>
+              <key>y</key>
+              <real>183.5</real>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>halant-deva</string>
+              <key>x</key>
+              <integer>381</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>rr-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>853</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

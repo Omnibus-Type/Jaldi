@@ -24,4 +24,57 @@
       <point x="176" y="0" type="move" name="_nukta"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>rakar</string>
+              <key>x</key>
+              <integer>761</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>_nukta</string>
+              <key>x</key>
+              <integer>176</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>anusvara-deva</string>
+              <key>x</key>
+              <real>-46.219</real>
+              <key>y</key>
+              <real>-1772.331</real>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>nukta-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>355.5</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -79,4 +79,10 @@
       <point x="1162" y="1244" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ma-deva</string>
+    </dict>
+  </lib>
 </glyph>

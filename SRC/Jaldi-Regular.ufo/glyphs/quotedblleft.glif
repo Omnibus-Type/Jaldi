@@ -6,4 +6,49 @@
     <component base="quoteleft" xOffset="215.097"/>
     <component base="quoteleft" xOffset="-31.998"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>quoteleft</string>
+              <key>x</key>
+              <real>215.097</real>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>quoteleft</string>
+              <key>x</key>
+              <real>-31.998</real>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedblleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>622.5</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

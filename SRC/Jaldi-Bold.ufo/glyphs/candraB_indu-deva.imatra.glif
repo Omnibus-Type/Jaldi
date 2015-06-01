@@ -16,4 +16,10 @@
       <point x="-283" y="1290" type="move" name="_iimatra"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
 </glyph>

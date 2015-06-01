@@ -6,4 +6,12 @@
     <component base="jdotless" xOffset="471"/>
     <component base="acute" xOffset="507"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>iacute.loclNLD</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j.loclNLD</string>
+    </dict>
+  </lib>
 </glyph>

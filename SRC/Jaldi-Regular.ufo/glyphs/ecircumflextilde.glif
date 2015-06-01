@@ -7,4 +7,57 @@
     <component base="circumflex" xOffset="201"/>
     <component base="tilde.alt" xOffset="162" yOffset="338"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>e</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>circumflex</string>
+              <key>x</key>
+              <integer>201</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>tilde.alt</string>
+              <key>x</key>
+              <integer>162</integer>
+              <key>y</key>
+              <integer>338</integer>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ecircumflextilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>959</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

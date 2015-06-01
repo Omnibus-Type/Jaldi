@@ -5,4 +5,41 @@
   <outline>
     <component base="candraBindu-deva" yOffset="-533.299"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>candraBindu-deva</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <real>-533.299</real>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>spacingCandraBindu-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>782.5</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

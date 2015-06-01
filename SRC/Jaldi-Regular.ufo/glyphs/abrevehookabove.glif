@@ -7,4 +7,57 @@
     <component base="breve" xOffset="206"/>
     <component base="hookabovecomb" xOffset="487" yOffset="263"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>a</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>breve</string>
+              <key>x</key>
+              <integer>206</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>hookabovecomb</string>
+              <key>x</key>
+              <real>486.5</real>
+              <key>y</key>
+              <integer>263</integer>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>abrevehookabove</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>969</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -9,7 +9,7 @@
 	<key>com.schriftgestaltung.weight</key>
 	<string>Bold</string>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>229</real>
+	<integer>229</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>

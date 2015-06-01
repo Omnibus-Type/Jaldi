@@ -7,4 +7,57 @@
     <component base="circumflex.alt" xOffset="208"/>
     <component base="hookabovecomb" xOffset="730" yOffset="229"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>e</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>circumflex.alt</string>
+              <key>x</key>
+              <integer>208</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>hookabovecomb</string>
+              <key>x</key>
+              <integer>730</integer>
+              <key>y</key>
+              <integer>229</integer>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ecircumflexhookabove</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>959</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

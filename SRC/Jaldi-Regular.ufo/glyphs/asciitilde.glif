@@ -5,4 +5,41 @@
   <outline>
     <component base="tilde.alt" xOffset="79.995" yOffset="-648.847" xScale="1.3"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>tilde.alt</string>
+              <key>x</key>
+              <real>79.995</real>
+              <key>y</key>
+              <real>-648.847</real>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asciitilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>973</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -92,4 +92,10 @@
       <point x="647" y="-3" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>five-deva</string>
+    </dict>
+  </lib>
 </glyph>

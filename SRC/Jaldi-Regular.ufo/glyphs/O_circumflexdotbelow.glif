@@ -7,4 +7,57 @@
     <component base="dotbelowcomb" xOffset="653"/>
     <component base="circumflex" xOffset="371" yOffset="314"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>O</string>
+              <key>x</key>
+              <integer>0</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>dotbelowcomb</string>
+              <key>x</key>
+              <real>652.5</real>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>circumflex</string>
+              <key>x</key>
+              <real>370.5</real>
+              <key>y</key>
+              <integer>314</integer>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ocircumflexdotbelow</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1300</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

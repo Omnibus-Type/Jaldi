@@ -57,6 +57,9 @@ This information should be distributed along with the Jaldi fonts and any deriva
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**11 May 2015 (Jaldi Release Candidate v.1.007) Omnibus-Type**
+- Inserted `lookupflag IgnoreMarks;` in `cjct` connections_devanagari lookup in order to avoid deactivation of this feature when Nukta is present.
+
 **21 April 2015 (Jaldi Release Candidate v.1.006) Omnibus-Type**
 - Support of most of the consonants for half forms with a nukta, rakar forms, rakar forms with a nukta, half rakar forms, and half rakar forms with a nukta
 

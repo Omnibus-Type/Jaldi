@@ -122,4 +122,10 @@
       <point x="1152" y="-13" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>two.numr</string>
+    </dict>
+  </lib>
 </glyph>

@@ -5,4 +5,12 @@
     <component base="iMatra-deva.14"/>
     <component base="candraBindu-deva.imatra" xOffset="2179" yOffset="22"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>iMatra-deva.14</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>iMatra-deva.14</string>
+    </dict>
+  </lib>
 </glyph>

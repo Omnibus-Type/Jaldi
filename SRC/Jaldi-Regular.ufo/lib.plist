@@ -7,7 +7,7 @@
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>1</integer>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>137</real>
+	<integer>137</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>

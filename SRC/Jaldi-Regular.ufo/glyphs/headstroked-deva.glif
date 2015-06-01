@@ -5,4 +5,41 @@
   <outline>
     <component base="anudatta-deva" xOffset="-97.772" yOffset="1806.107" xScale="1.02"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>anudatta-deva</string>
+              <key>x</key>
+              <real>-97.772</real>
+              <key>y</key>
+              <real>1806.107</real>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>headstroked-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>892</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

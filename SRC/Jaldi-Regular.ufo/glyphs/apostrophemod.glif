@@ -5,4 +5,41 @@
   <outline>
     <component base="commaaccentcomb" xOffset="-124.436" yOffset="1372.357"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>commaaccentcomb</string>
+              <key>x</key>
+              <real>-124.436</real>
+              <key>y</key>
+              <real>1372.357</real>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>apostrophemod</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>355.5</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
