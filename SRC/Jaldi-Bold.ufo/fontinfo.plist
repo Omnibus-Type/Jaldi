@@ -52,7 +52,7 @@ which helps retain the same length on all text lines. </string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Jaldi</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
+	<string>Bold</string>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>2350</integer>
 	<key>openTypeOS2TypoDescender</key>
@@ -60,7 +60,7 @@ which helps retain the same length on all text lines. </string>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
+	<integer>700</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -111,9 +111,9 @@ which helps retain the same length on all text lines. </string>
 		<integer>280</integer>
 	</array>
 	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<string>bold</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Bold</string>
 	<key>trademark</key>
 	<string>Jaldi is a trademark of Omnibus-Type.</string>
 	<key>unitsPerEm</key>

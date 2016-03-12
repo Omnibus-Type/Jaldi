@@ -57,6 +57,9 @@ This information should be distributed along with the Jaldi fonts and any deriva
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**12 Mar 2016 (Jaldi Release Candidate v.1.008) Omnibus-Type**
+- Adjusted `OS/2 weightClass` from 400 (Regular) to 700 (Bold).
+
 **11 May 2015 (Jaldi Release Candidate v.1.007) Omnibus-Type**
 - Inserted `lookupflag IgnoreMarks;` in `cjct` connections_devanagari lookup in order to avoid deactivation of this feature when Nukta is present.
 
