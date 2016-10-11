@@ -7,6 +7,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -17,12 +19,17 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>tilde.alt</string>
-              <key>x</key>
-              <real>79.995</real>
-              <key>y</key>
-              <real>-648.847</real>
+              <key>transformation</key>
+              <array>
+                <real>1.3</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>79.995</real>
+                <real>-648.847</real>
+              </array>
             </dict>
           </array>
           <key>contours</key>

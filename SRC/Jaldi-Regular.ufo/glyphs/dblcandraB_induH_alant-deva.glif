@@ -11,6 +11,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -21,28 +23,43 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>candraBindu-deva</string>
-              <key>x</key>
-              <integer>0</integer>
-              <key>y</key>
-              <real>-533.299</real>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <real>-533.299</real>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>halant-deva</string>
-              <key>x</key>
-              <real>115.548</real>
-              <key>y</key>
-              <real>245.318</real>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>115.548</real>
+                <real>245.318</real>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>candraBindu-deva</string>
-              <key>x</key>
-              <integer>0</integer>
-              <key>y</key>
-              <real>-1066.598</real>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <real>-1066.598</real>
+              </array>
             </dict>
           </array>
           <key>contours</key>

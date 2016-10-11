@@ -110,6 +110,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>k_va-deva</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -156,12 +158,17 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>l-deva.post.loclMAR</string>
-              <key>x</key>
-              <real>23.11</real>
-              <key>y</key>
-              <real>-698.622</real>
+              <key>transformation</key>
+              <array>
+                <real>0.98</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>23.11</real>
+                <real>-698.622</real>
+              </array>
             </dict>
           </array>
           <key>contours</key>
@@ -946,8 +953,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

@@ -16,6 +16,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -42,36 +44,56 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>ja-deva</string>
-              <key>x</key>
-              <integer>0</integer>
-              <key>y</key>
-              <integer>0</integer>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>nukta-deva</string>
-              <key>x</key>
-              <real>519.078</real>
-              <key>y</key>
-              <real>94.216</real>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>519.078</real>
+                <real>94.216</real>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>nukta-deva</string>
-              <key>x</key>
-              <real>287.982</real>
-              <key>y</key>
-              <real>-85.328</real>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>287.982</real>
+                <real>-85.328</real>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>nukta-deva</string>
-              <key>x</key>
-              <integer>3</integer>
-              <key>y</key>
-              <integer>94</integer>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>3</integer>
+                <integer>94</integer>
+              </array>
             </dict>
           </array>
           <key>contours</key>
@@ -92,16 +114,16 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
           <string>nukta-deva</string>
         </dict>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>2</integer>
           <key>name</key>

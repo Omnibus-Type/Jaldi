@@ -8,6 +8,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>iacute.loclNLD</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -22,28 +24,43 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>iacute</string>
-              <key>x</key>
-              <integer>0</integer>
-              <key>y</key>
-              <integer>0</integer>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>jdotless</string>
-              <key>x</key>
-              <integer>471</integer>
-              <key>y</key>
-              <integer>0</integer>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>471</integer>
+                <integer>0</integer>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>acute</string>
-              <key>x</key>
-              <integer>522</integer>
-              <key>y</key>
-              <integer>0</integer>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>522</integer>
+                <integer>0</integer>
+              </array>
             </dict>
           </array>
           <key>contours</key>

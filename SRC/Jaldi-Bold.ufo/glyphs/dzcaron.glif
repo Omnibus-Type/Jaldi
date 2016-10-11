@@ -5,6 +5,12 @@
   <outline>
     <component base="d"/>
     <component base="z" xOffset="1005"/>
-    <component base="caron" xOffset="1162"/>
+    <component base="caron" xOffset="1161"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-10 22:14:48 +0000</string>
+    </dict>
+  </lib>
 </glyph>

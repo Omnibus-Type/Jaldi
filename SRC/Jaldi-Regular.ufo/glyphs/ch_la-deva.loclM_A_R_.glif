@@ -27,6 +27,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>ch-deva.post</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -73,20 +75,30 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>ch-deva.post</string>
-              <key>x</key>
-              <integer>0</integer>
-              <key>y</key>
-              <integer>0</integer>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>l-deva.post.loclMAR</string>
-              <key>x</key>
-              <real>-17.777</real>
-              <key>y</key>
-              <real>-835.502</real>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>-17.777</real>
+                <real>-835.502</real>
+              </array>
             </dict>
           </array>
           <key>contours</key>

@@ -127,6 +127,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>sh_ra-deva</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -165,12 +167,17 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>stem-deva</string>
-              <key>x</key>
-              <real>972.382</real>
-              <key>y</key>
-              <real>-248.873</real>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>972.382</real>
+                <real>-248.873</real>
+              </array>
             </dict>
           </array>
           <key>contours</key>

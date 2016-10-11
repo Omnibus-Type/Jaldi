@@ -18,6 +18,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -52,20 +54,30 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>rakar-deva</string>
-              <key>x</key>
-              <real>1.778</real>
-              <key>y</key>
-              <real>154.657</real>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <real>0.9</real>
+                <real>1.778</real>
+                <real>154.657</real>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>uuMatra-deva</string>
-              <key>x</key>
-              <real>76.44</real>
-              <key>y</key>
-              <real>-312.869</real>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <real>0.95</real>
+                <real>76.44</real>
+                <real>-312.869</real>
+              </array>
             </dict>
           </array>
           <key>contours</key>

@@ -24,4 +24,10 @@
       <point x="13" y="1244" type="move" name="_caron"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

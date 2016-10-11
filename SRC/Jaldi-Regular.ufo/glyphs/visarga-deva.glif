@@ -52,6 +52,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-04-07 00:15:01 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -62,20 +64,30 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>anusvara-deva</string>
-              <key>x</key>
-              <real>-12.444</real>
-              <key>y</key>
-              <real>-1263.919</real>
+              <key>transformation</key>
+              <array>
+                <real>1.1</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>-12.444</real>
+                <real>-1263.919</real>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>anusvara-deva</string>
-              <key>x</key>
-              <real>-12.444</real>
-              <key>y</key>
-              <real>-741.286</real>
+              <key>transformation</key>
+              <array>
+                <real>1.1</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>-12.444</real>
+                <real>-741.286</real>
+              </array>
             </dict>
           </array>
           <key>contours</key>

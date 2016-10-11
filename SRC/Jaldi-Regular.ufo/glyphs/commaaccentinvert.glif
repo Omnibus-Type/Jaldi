@@ -11,6 +11,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -29,12 +31,17 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>commaaccentcomb</string>
-              <key>x</key>
-              <real>600.85</real>
-              <key>y</key>
-              <real>949.273</real>
+              <key>transformation</key>
+              <array>
+                <integer>-1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>-1</integer>
+                <real>600.85</real>
+                <real>949.273</real>
+              </array>
             </dict>
           </array>
           <key>contours</key>

@@ -62,6 +62,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -88,12 +90,17 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>candraBindu-deva</string>
-              <key>x</key>
-              <real>476.414</real>
-              <key>y</key>
-              <real>225.763</real>
+              <key>transformation</key>
+              <array>
+                <real>0.8</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <real>0.8</real>
+                <real>476.414</real>
+                <real>225.763</real>
+              </array>
             </dict>
           </array>
           <key>contours</key>

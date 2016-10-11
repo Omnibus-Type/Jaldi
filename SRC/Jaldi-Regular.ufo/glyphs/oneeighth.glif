@@ -53,6 +53,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>one.numr</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -67,12 +69,17 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>eight</string>
-              <key>x</key>
-              <real>719.954</real>
-              <key>y</key>
-              <integer>0</integer>
+              <key>transformation</key>
+              <array>
+                <real>0.59</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <real>0.59</real>
+                <real>719.954</real>
+                <integer>0</integer>
+              </array>
             </dict>
           </array>
           <key>contours</key>

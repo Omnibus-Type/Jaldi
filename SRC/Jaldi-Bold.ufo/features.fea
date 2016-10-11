@@ -1423,6 +1423,7 @@ lookup Imatra1_devanagari {
 	sub [iMatra-deva]' th-deva tha-deva by [iMatra-deva.12];
 	sub [iMatra-deva]' th-deva va-deva by [iMatra-deva.10];
 	sub [iMatra-deva]' th-deva ya-deva by [iMatra-deva.12];
+	sub [iMatra-deva]' tt-deva ka-deva by [iMatra-deva.14];
 	sub [iMatra-deva]' v-deva ha-deva by [iMatra-deva.07];
 	sub [iMatra-deva]' v-deva la-deva by [iMatra-deva.13];
 	sub [iMatra-deva]' v-deva na-deva by [iMatra-deva.09];

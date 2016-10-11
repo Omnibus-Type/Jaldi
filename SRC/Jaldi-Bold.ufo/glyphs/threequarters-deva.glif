@@ -29,4 +29,10 @@
     <component base="four-deva" xOffset="903.053" xScale="0.59" yScale="0.59"/>
     <component base="three-deva" xOffset="33.776" yOffset="524.411" xScale="0.59" yScale="0.59"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

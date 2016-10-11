@@ -31,6 +31,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-02-26 04:32:42 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -41,20 +43,30 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>eight-deva</string>
-              <key>x</key>
-              <real>824.836</real>
-              <key>y</key>
-              <integer>0</integer>
+              <key>transformation</key>
+              <array>
+                <real>0.59</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <real>0.59</real>
+                <real>824.836</real>
+                <integer>0</integer>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>one-deva</string>
-              <key>x</key>
-              <real>145.768</real>
-              <key>y</key>
-              <real>524.411</real>
+              <key>transformation</key>
+              <array>
+                <real>0.59</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <real>0.59</real>
+                <real>145.768</real>
+                <real>524.411</real>
+              </array>
             </dict>
           </array>
           <key>contours</key>

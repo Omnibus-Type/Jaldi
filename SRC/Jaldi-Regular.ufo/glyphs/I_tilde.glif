@@ -4,10 +4,12 @@
   <unicode hex="0128"/>
   <outline>
     <component base="I"/>
-    <component base="tilde" xOffset="251" yOffset="1244" xScale="0" yScale="0"/>
+    <component base="tilde" xOffset="218" yOffset="1151" xScale="0.1" yScale="0.1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-10 22:14:43 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -18,20 +20,30 @@
           <key>components</key>
           <array>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>I</string>
-              <key>x</key>
-              <integer>0</integer>
-              <key>y</key>
-              <integer>0</integer>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
             </dict>
             <dict>
-              <key>name</key>
+              <key>baseGlyph</key>
               <string>tilde</string>
-              <key>x</key>
-              <integer>251</integer>
-              <key>y</key>
-              <integer>1244</integer>
+              <key>transformation</key>
+              <array>
+                <real>0.1</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <real>0.1</real>
+                <integer>251</integer>
+                <integer>1244</integer>
+              </array>
             </dict>
           </array>
           <key>contours</key>
