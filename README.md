@@ -14,7 +14,7 @@ Jaldi is a libre Devanagari typeface family designed as a complement to [Asap](h
 \*Jaldi (जल्दी) is the Hindi word for ‘soon’.
 
 
-#### Jaldi Family contains:
+####Jaldi Family contains:
 * regular
 * bold
 
@@ -23,7 +23,7 @@ To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
 ### Designers
 
 * Pablo Cosgaya
-* Nicolás Silva
+* Nicolas Silva
 
 ### License
 
